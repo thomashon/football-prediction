@@ -1,6 +1,6 @@
-fus <- read.csv("games0108.csv", sep = "\t")
+fus <- read.csv("data/games0108-r.csv", sep = "\t")
 
-pred0108 <- read.csv("pred0108.csv", sep = "\t")
+pred0108 <- read.csv("data/pred0108-r.csv", sep = "\t")
 
 library(caret)
 
@@ -9,7 +9,7 @@ library(caret)
 training <- fus
 summary(training)
 str(training)
-training$fortlfd <- c(1:506)
+#training$fortlfd <- c(1:506)
 warnings()
 
 
