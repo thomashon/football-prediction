@@ -1,0 +1,470 @@
+,competition,date,gameday,guest_coach,guest_game_system,guest_team_id,guest_team_name,home_coach,home_game_system,home_team_id,home_team_name,identifier,result,saison,time,viewers
+0,Bundesliga,Fr. 27.07.2018,1,Karl Daxbacher,5-4-1 flach,2444,FC Wacker Innsbruck,,,14,FK Austria Wien,9e2ade517af5d236a8cd40654c0b8f38363e4d7b191c0ad767a547febf627496,2:1,2018/19,20:45,13155
+1,Bundesliga,Sa. 04.08.2018,2,,,122,SK Sturm Graz,Karl Daxbacher,4-4-2 doppel 6,2444,FC Wacker Innsbruck,c8db4c597ca5d0abfb449ef80cc75efbffbb9122afbca5ed3c1fe983d4feb952,2:3,2018/19,17:00,7820
+2,Bundesliga,Sa. 11.08.2018,3,Karl Daxbacher,4-2-3-1 ,2444,FC Wacker Innsbruck,,,3551,SC Rheindorf Altach,d5ff103daeaae2db7548a6cfe4ab826dca4fab8b9b49427a9e6339ce761b274d,1:2,2018/19,17:00,5845
+3,Bundesliga,Sa. 18.08.2018,4,,,2662,SKN St. Pölten,Karl Daxbacher,4-4-2 doppel 6,2444,FC Wacker Innsbruck,7667ba116b5e2e23eafab6f8ec6546d478144f57d9163602f90fa7fc6db3d5a2,0:2,2018/19,17:00,4321
+4,Bundesliga,So. 26.08.2018,5,Karl Daxbacher,4-2-3-1 ,2444,FC Wacker Innsbruck,,,170,SK Rapid Wien,0c2b28d8eb7418492d1bbdd7c2ed170d8986db97b42bfa7bf52719a82521f1bc,2:1,2018/19,17:00,17400
+5,Bundesliga,Sa. 01.09.2018,6,,,4467,TSV Hartberg,Karl Daxbacher,4-4-2 doppel 6,2444,FC Wacker Innsbruck,c5bb6bafceb34cad4617cc695841a9541a0f3672579e55b9729cd1bd0e48d531,2:1,2018/19,17:00,3115
+6,Bundesliga,So. 16.09.2018,7,Karl Daxbacher,4-2-3-1 ,2444,FC Wacker Innsbruck,,,4441,Wolfsberger AC,ccd586e94e776c087c3beca1b0b0772384044a74de07157722c7dd4f64d469cb,3:1,2018/19,14:30,3887
+7,Bundesliga,So. 23.09.2018,8,,,503,FC Admira Wacker Mödling,Karl Daxbacher,3-5-2,2444,FC Wacker Innsbruck,58fbdf6ecaafa80fb900e07836279e70287e40da91ff38840cf4f1e6bf26fdc8,1:3,2018/19,14:30,3620
+8,Bundesliga,So. 30.09.2018,9,Karl Daxbacher,4-2-3-1 ,2444,FC Wacker Innsbruck,,,856,SV Mattersburg,63ebe4c08f0cddfb33ea7f973517e92ee5d3a75a8275c17c9d0b34d9938dd5b1,2:1,2018/19,14:30,1900
+9,Bundesliga,So. 07.10.2018,10,,,413,LASK,Karl Daxbacher,5-3-2,2444,FC Wacker Innsbruck,870a12f009eae1e62ec43615cd538b2b492b968276202e180eb1e9d51eaf7ac9,1:0,2018/19,14:30,3873
+10,Bundesliga,Sa. 20.10.2018,11,Karl Daxbacher,5-3-2,2444,FC Wacker Innsbruck,,,409,Red Bull Salzburg,6b4b96c481376cb922b77bc47f891de10617be5157c6fb23d0cb153435a6328e,1:1,2018/19,17:00,11033
+11,Bundesliga,Sa. 27.10.2018,12,,,14,FK Austria Wien,Karl Daxbacher,5-3-2,2444,FC Wacker Innsbruck,1cdf1ecf08142163defb9480f827d9013de045a36f13ebac83d492621a8e348e,0:0,2018/19,17:00,5532
+12,Bundesliga,Sa. 03.11.2018,13,Karl Daxbacher,5-3-2,2444,FC Wacker Innsbruck,,,122,SK Sturm Graz,98e0ed46a8b4a8bb5d238b3efe4e06b77c0a0094e5662ebd970e85d68d395775,1:1,2018/19,17:00,7867
+13,Bundesliga,Sa. 10.11.2018,14,,,3551,SC Rheindorf Altach,Karl Daxbacher,3-4-3 flach,2444,FC Wacker Innsbruck,b3fc83ee9a80a64d85cde069da82237ab2257dd37f658623411dc978ef5a8963,1:0,2018/19,17:00,5343
+14,Bundesliga,So. 25.11.2018,15,Karl Daxbacher,3-4-3 flach,2444,FC Wacker Innsbruck,,,2662,SKN St. Pölten,6e548beb1a01eed955a4729ce5a859582f9ef55817fbb72b130908b3cea0c9f0,2:0,2018/19,14:30,2700
+15,Bundesliga,So. 02.12.2018,16,,,170,SK Rapid Wien,Karl Daxbacher,5-3-2,2444,FC Wacker Innsbruck,8a1e08f8f5436dcffb4c8d00e6c295a855c9fd1477204ba2dfeb919058498b03,0:1,2018/19,14:30,7665
+16,Bundesliga,So. 09.12.2018,17,Karl Daxbacher,3-4-3,2444,FC Wacker Innsbruck,,,4467,TSV Hartberg,a4882d1116c3b64b9189e4e57486a76fb986d7f84caaaf048ea2da9afe944ac8,2:2,2018/19,14:30,2733
+17,Bundesliga,Sa. 15.12.2018,18,,,4441,Wolfsberger AC,Karl Daxbacher,3-4-3 flach,2444,FC Wacker Innsbruck,258c85559052f1252da81872d903e81993935c8f63ea6724488388c2b54212fe,0:0,2018/19,17:00,2035
+18,Bundesliga,Sa. 23.02.2019,19,Karl Daxbacher,3-4-1-2,2444,FC Wacker Innsbruck,,,503,FC Admira Wacker Mödling,337cf5dc8c5d9a2b24b6b91e2672bdf0938229a6f557b60f0d9cf245ad028524,3:0,2018/19,17:00,1957
+19,Bundesliga,So. 03.03.2019,20,,,856,SV Mattersburg,Karl Daxbacher,3-4-3 flach,2444,FC Wacker Innsbruck,6e0f06187de0aa67690f259e56f0cdbb14511b834633f9e7050d18909b620ab6,0:1,2018/19,17:00,2873
+20,Bundesliga,So. 10.03.2019,21,Thomas Grumser,4-2-3-1 ,2444,FC Wacker Innsbruck,,,413,LASK,888b7fd589ef5980786c82283b4a0e2c6cef6c6832349cb0a791fa26c214ee5b,2:0,2018/19,17:00,5521
+21,Bundesliga,So. 17.03.2019,22,,,409,Red Bull Salzburg,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,aee09eccb3f16115ddf29ea3b7faf3147f5e7aaeff83aa1244722957bc51e940,0:2,2018/19,17:00,6476
+22,Bundesliga,Sa. 30.03.2019,23,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,,,4467,TSV Hartberg,f194fb7c0e06d5b49f91f4f18a910412470d1035c92555a7bbdd48d9d469f75d,0:2,2018/19,17:00,4635
+23,Bundesliga,Sa. 06.04.2019,24,,,170,SK Rapid Wien,Thomas Grumser,?,2444,FC Wacker Innsbruck,3a8c9519b9cb621e8054e9cb346b9433aa0e18459f9247b29075040cf74b4e4e,0:2,2018/19,17:00,7413
+24,Bundesliga,Sa. 13.04.2019,25,,,503,FC Admira Wacker Mödling,Thomas Grumser,4-2-3-1 ,2444,FC Wacker Innsbruck,e12ea865fa44a1d3f47f643b46fa956c3c9f81efa462fac3ac1f8a0b4846e090,1:3,2018/19,17:00,2363
+25,Bundesliga,Sa. 20.04.2019,26,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,,,856,SV Mattersburg,d6c82e6f6935c558e7bbc7454091dc00f2919c1ccd12a29520a4a9caabdb0a94,3:1,2018/19,17:00,1800
+26,Bundesliga,Di. 23.04.2019,27,,,3551,SC Rheindorf Altach,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,392d69990d55a839de05e0c9c809f1af0bbf62c2687d4350f6b153a06b4374fb,0:4,2018/19,19:00,2782
+27,Bundesliga,Sa. 27.04.2019,28,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,,,3551,SC Rheindorf Altach,dfce5ee8a0758aabfb8ccd18f6baeb649f1372c2918428043dee342c0fd5a76b,1:4,2018/19,17:00,4087
+28,Bundesliga,Sa. 04.05.2019,29,,,4467,TSV Hartberg,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,8ec879c2da9067431dd5e969d284f811716f18a731e24e386385a12acc46b207,1:0,2018/19,17:00,4217
+29,Bundesliga,Sa. 11.05.2019,30,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,,,170,SK Rapid Wien,3b4ead15b43cbb1e48cb45ccd967926f5f21960419b018182019e32a337b0fe8,1:0,2018/19,17:00,13800
+30,Bundesliga,Sa. 18.05.2019,31,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,,,503,FC Admira Wacker Mödling,4e3ca0a8bd89e2c671d8b835f6b8c230768db81fef246145df553b6d4e67b587,3:2,2018/19,17:00,3850
+31,Bundesliga,Sa. 25.05.2019,32,,,856,SV Mattersburg,Thomas Grumser,4-3-3 defensiv,2444,FC Wacker Innsbruck,9a38565201a6167300de3c05fc8b70bd2f614a45c1e0902512f72f2df0a04e78,4:0,2018/19,17:00,5823
+32,ÖFB-Cup,Sa. 21.07.2018,1.Runde,Karl Daxbacher,4-2-3-1 ,2444,FC Wacker Innsbruck,,,14505,Team Wiener Linien,6ecd4e6f4c744624c9cbae8d9fdd1807f91e7c61f9dc0bfb5804cd01acd5423e,2:3,2018/19,17:00,800
+33,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Karl Daxbacher,4-1-4-1,2444,FC Wacker Innsbruck,,,9114,SC Neusiedl/See,31b6b4ca77c056b2c8c18365763a706f3a40f7cd29b49da83fbfcc4474d9692f,1:3,2018/19,19:00,600
+34,ÖFB-Cup,Di. 30.10.2018,Achtelfinale,Karl Daxbacher,?,2444,FC Wacker Innsbruck,,,4467,TSV Hartberg,c44916ad25a821eafd9881c7d0d4ff5ce4a27fc7700acf10dbe1cfb01b704771,4:3,2018/19,18:00,1467
+35,Bundesliga,Sa. 28.07.2018,1,Gerald Baumgartner,4-2-3-1 ,856,SV Mattersburg,,,3551,SC Rheindorf Altach,f9156bb474a6e0fcd012145f50d20017cfe3c21b854a625ba44770703c275fde,2:3,2018/19,17:00,4523
+36,Bundesliga,Sa. 04.08.2018,2,,,409,Red Bull Salzburg,Gerald Baumgartner,4-2-3-1 ,856,SV Mattersburg,52115370c1b6d6ee89227a07c3473ca2d58600d200b40a3bb32ad890811e0439,0:2,2018/19,17:00,3500
+37,Bundesliga,Sa. 11.08.2018,3,Gerald Baumgartner,4-2-3-1 ,856,SV Mattersburg,,,4467,TSV Hartberg,ddfd6ad3ffef174c40a9d1ac647ed25d8cbc292ccee7eb6836f2ef43c962e8bf,4:2,2018/19,17:00,2812
+38,Bundesliga,Sa. 18.08.2018,4,,,4441,Wolfsberger AC,Gerald Baumgartner,4-2-3-1 ,856,SV Mattersburg,ee850bbe6ad2f17620696eb50a8e4c4a48fc8ca9db4bce881bdc8d6a489b8f7d,0:6,2018/19,17:00,2200
+39,Bundesliga,So. 26.08.2018,5,Markus Schmidt,4-3-3 offensiv,856,SV Mattersburg,,,503,FC Admira Wacker Mödling,cd6a7f66012f656fa20b340a75acf1beda1a9198bdbe24339abbb7ca765f692b,0:0,2018/19,17:00,3400
+40,Bundesliga,Sa. 01.09.2018,6,Klaus Schmidt,3-5-2,856,SV Mattersburg,,,14,FK Austria Wien,c4d5b1fa120600df2852e33c6a84193d5b0611b8865fde489998cb066b1f408a,2:1,2018/19,17:00,9046
+41,Bundesliga,So. 16.09.2018,7,,,413,LASK,Klaus Schmidt,5-3-2,856,SV Mattersburg,f662c5305467257c0ade32d796297007fe0d51c3908031ac3634e879c3c6370e,1:3,2018/19,14:30,1952
+42,Bundesliga,Sa. 22.09.2018,8,Klaus Schmidt,4-1-4-1,856,SV Mattersburg,,,122,SK Sturm Graz,c2a7ffcb674fd6849974df38459fa851e012bdf51a51f63f186ea400b9618315,1:2,2018/19,17:00,6958
+43,Bundesliga,So. 30.09.2018,9,,,2444,FC Wacker Innsbruck,Klaus Schmidt,3-5-2,856,SV Mattersburg,63ebe4c08f0cddfb33ea7f973517e92ee5d3a75a8275c17c9d0b34d9938dd5b1,2:1,2018/19,14:30,1900
+44,Bundesliga,So. 07.10.2018,10,Klaus Schmidt,3-5-2 flach,856,SV Mattersburg,,,170,SK Rapid Wien,02652338957f30259e0430859d2583dbcd335e36911ab076fdeef40f3cd11cf3,1:0,2018/19,14:30,18200
+45,Bundesliga,So. 21.10.2018,11,,,2662,SKN St. Pölten,Klaus Schmidt,3-4-3 flach,856,SV Mattersburg,8280c5419e9c64122222db2e311ab7441a057a60708fd18f540ac05e56a7a942,2:0,2018/19,14:30,1800
+46,Bundesliga,Sa. 27.10.2018,12,,,3551,SC Rheindorf Altach,Klaus Schmidt,3-5-2,856,SV Mattersburg,c593eb2bce4da74a1d34a65ee3b2c8bd10755d22c564626266d0423cb48b80a9,1:1,2018/19,17:00,1600
+47,Bundesliga,So. 04.11.2018,13,Klaus Schmidt,3-4-3 flach,856,SV Mattersburg,,,409,Red Bull Salzburg,ba751c6b9b3bf21fc058d3c0513ddc579c6e9bc69677b101f96537fc1ff73bf6,2:1,2018/19,14:30,8652
+48,Bundesliga,So. 11.11.2018,14,,,4467,TSV Hartberg,Klaus Schmidt,3-5-2,856,SV Mattersburg,3bf2d6b9579b29762771fb0ff9f95c111a40a6dfb9fe7f99ede056c7cb34a38f,1:2,2018/19,14:30,2800
+49,Bundesliga,Sa. 24.11.2018,15,Klaus Schmidt,3-5-2 flach,856,SV Mattersburg,,,4441,Wolfsberger AC,31ac1c0588671670ac89b100821afc7dd3816f414e5ae96dc29e25baddf47884,2:2,2018/19,17:00,2766
+50,Bundesliga,Sa. 01.12.2018,16,,,503,FC Admira Wacker Mödling,Klaus Schmidt,3-5-2,856,SV Mattersburg,840d46c5fdb249ca2afbb2aa1f4607fc1296cf134d1af572b542f176993aadf0,2:2,2018/19,17:00,1550
+51,Bundesliga,So. 09.12.2018,17,,,14,FK Austria Wien,Klaus Schmidt,3-5-2,856,SV Mattersburg,59d8d0ddd12419794297708d3d3c0810cfae2c0d38de104a93cfde6121297d8b,2:1,2018/19,14:30,2700
+52,Bundesliga,Sa. 15.12.2018,18,Klaus Schmidt,3-5-2 offensiv,856,SV Mattersburg,,,413,LASK,aafcc398d2f24bca21456eeb1b9dc45cd34965de7a94ada724bb639d51d9a4d6,2:1,2018/19,17:00,4797
+53,Bundesliga,So. 24.02.2019,19,,,122,SK Sturm Graz,Klaus Schmidt,5-4-1 flach,856,SV Mattersburg,81601d2ee6b63de593a1d217920e6d8648997c984183b0e7f0135e19ccd7af04,1:1,2018/19,14:30,6200
+54,Bundesliga,So. 03.03.2019,20,Klaus Schmidt,5-4-1 flach,856,SV Mattersburg,,,2444,FC Wacker Innsbruck,6e0f06187de0aa67690f259e56f0cdbb14511b834633f9e7050d18909b620ab6,0:1,2018/19,17:00,2873
+55,Bundesliga,So. 10.03.2019,21,,,170,SK Rapid Wien,Klaus Schmidt,?,856,SV Mattersburg,1e2807cf6e7c2730ecd70f2e2574cc9a38ae2b9632742701dddb35cb0619c511,2:1,2018/19,17:00,10200
+56,Bundesliga,So. 17.03.2019,22,Klaus Schmidt,?,856,SV Mattersburg,,,2662,SKN St. Pölten,c81c4b44717be8f2004e5639ec3097b82635dab86df21721aae8f224b440e6d6,0:1,2018/19,17:00,3041
+57,Bundesliga,Sa. 30.03.2019,23,Klaus Schmidt,4-1-4-1,856,SV Mattersburg,,,3551,SC Rheindorf Altach,462e2b6220c4c77a266981fc2a6b7c39c1cd273d7bb8d6b85eb56b9d5ef030c4,2:1,2018/19,17:00,4048
+58,Bundesliga,Sa. 06.04.2019,24,,,4467,TSV Hartberg,Klaus Schmidt,?,856,SV Mattersburg,35e0326f5d908411d550108fe9bf1f7d4651fec58ff401d74f8cf6e1a0e06731,3:0,2018/19,17:00,2000
+59,Bundesliga,Sa. 13.04.2019,25,Klaus Schmidt,?,856,SV Mattersburg,,,170,SK Rapid Wien,90d33d3bae8378f922ca4d059811693fe4f98e3e47b3e1bc8b7ea823ad4124bf,2:1,2018/19,17:00,12300
+60,Bundesliga,Sa. 20.04.2019,26,,,2444,FC Wacker Innsbruck,Klaus Schmidt,?,856,SV Mattersburg,d6c82e6f6935c558e7bbc7454091dc00f2919c1ccd12a29520a4a9caabdb0a94,3:1,2018/19,17:00,1800
+61,Bundesliga,Di. 23.04.2019,27,Klaus Schmidt,?,856,SV Mattersburg,,,503,FC Admira Wacker Mödling,bb7b02ac2cbcf0c9e30044033a61b1fcbb4a7259911428a51ad49451265bb18d,0:2,2018/19,19:00,1600
+62,Bundesliga,Sa. 27.04.2019,28,,,503,FC Admira Wacker Mödling,Klaus Schmidt,?,856,SV Mattersburg,bed2469db632aac37560fe2e326103b54cd1b62fcd1288a70198865c6fe47529,1:1,2018/19,17:00,1800
+63,Bundesliga,Sa. 04.05.2019,29,,,3551,SC Rheindorf Altach,Klaus Schmidt,?,856,SV Mattersburg,41eea17dcf325517412ecde9c65867f6cbc6a384872f23a6ab6698e6041a523e,0:0,2018/19,17:00,1600
+64,Bundesliga,Sa. 11.05.2019,30,Klaus Schmidt,?,856,SV Mattersburg,,,4467,TSV Hartberg,f0b3ac1fe52912fd2c821b3f357191650b9bb5858afaf3c28e5f063ca238dc12,2:1,2018/19,17:00,2312
+65,Bundesliga,Sa. 18.05.2019,31,,,170,SK Rapid Wien,Klaus Schmidt,3-5-2 offensiv,856,SV Mattersburg,7e9ac23da1f04c3d276cb587c38a1c0ce826724ac33636a727c7591c03e663a3,1:0,2018/19,17:00,4200
+66,Bundesliga,Sa. 25.05.2019,32,Klaus Schmidt,4-1-4-1,856,SV Mattersburg,,,2444,FC Wacker Innsbruck,9a38565201a6167300de3c05fc8b70bd2f614a45c1e0902512f72f2df0a04e78,4:0,2018/19,17:00,5823
+67,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Gerald Baumgartner,4-2-3-1 ,856,SV Mattersburg,,,10281,SV Allerheiligen,a9c0b2e3f99c208d242874dc53b3cbb5a87f79def61694c8e545f20794cbb445,1:3,2018/19,19:00,530
+68,ÖFB-Cup,Mi. 26.09.2018,2.Runde,,,170,SK Rapid Wien,Klaus Schmidt,5-4-1 flach,856,SV Mattersburg,f8afc2ee71b4187917a1c32ce26982f270d281c808a67e8754e13183f623c816,4:5  n.E.,2018/19,18:30,5300
+69,Bundesliga Europa League-Play-off,Di. 28.05.2019,Halbfinale,Klaus Schmidt,4-1-4-1,856,SV Mattersburg,,,170,SK Rapid Wien,2994bdb7a5a27d9d0d0cf1d902d662b6396b0ef5ba0169da82e5c37bf04248ea,2:0,2018/19,19:00,10600
+70,UEFA Champions League-Qualifikation,Mi. 08.08.2018,3.Runde Hinspiele,,,1167,Shkendija Tetovo,Marco Rose,4-3-1-2,409,Red Bull Salzburg,fd0d1ed4cd5b7d5eba024e0618789efbcc66c25804e8b342427e072d88d2dc9a,3:0,2018/19,19:00,10050
+71,UEFA Champions League-Qualifikation,Di. 14.08.2018,3.Runde Rückspiele,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,1167,Shkendija Tetovo,b57a392067fdfc2d05f59d3bb59485f8ec8650f5adb1b65c33cea32ef8600e02,0:1,2018/19,20:15,5000
+72,UEFA Champions League-Qualifikation,Di. 21.08.2018,Qualifikationsrunde - Hinspiele,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,159,Roter Stern Belgrad,ada20286ae6761513278050dafd5de8067f85282b59da358c0530ee1b4af277c,0:0,2018/19,21:00,0
+73,UEFA Champions League-Qualifikation,Mi. 29.08.2018,Qualifikationsrunde - Rückspiele,,,159,Roter Stern Belgrad,Marco Rose,4-3-1-2,409,Red Bull Salzburg,34f15ca832fcdd94aed487d7df2d67cdfc6639b011101278c3d56caa1f18d28e,2:2,2018/19,21:00,26500
+74,Europa League,Do. 20.09.2018,Gruppe B,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,23826,RasenBallsport Leipzig,351097dde34b376563cbf53d088424ea32f345aa4616cd1fb8f153f4109de5ae,2:3,2018/19,21:00,24057
+75,Europa League,Do. 04.10.2018,Gruppe B,,,371,Celtic Glasgow,Marco Rose,4-3-1-2,409,Red Bull Salzburg,4ad8379acc580c786a24e887af454e5c9e7962986678283946b85eb7ce610882,3:1,2018/19,18:55,24085
+76,Europa League,Do. 25.10.2018,Gruppe B,,,195,Rosenborg BK,Marco Rose,4-3-1-2,409,Red Bull Salzburg,d8b2dc2158cbce72617f3c12903c028f1af01e38c3788426eb1a825730e3fdd4,3:0,2018/19,18:55,20639
+77,Europa League,Do. 08.11.2018,Gruppe B,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,195,Rosenborg BK,7d19a0a512d8ecbc0d85aea07471c21a08a15329612564a0902cb640bdf452d2,2:5,2018/19,21:00,12386
+78,Europa League,Do. 29.11.2018,Gruppe B,,,23826,RasenBallsport Leipzig,Marco Rose,4-3-1-2,409,Red Bull Salzburg,3acffe798a87b42d7c097d9f6c5b64399e053e5f981c2595895a7ab172ec28ac,1:0,2018/19,18:55,29520
+79,Europa League,Do. 13.12.2018,Gruppe B,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,371,Celtic Glasgow,245541215f55a598dee501c4fb039d7ecea3087f1a81350801c25607ee5afe2a,1:2,2018/19,21:00,56578
+80,Europa League,Do. 14.02.2019,Zwischenrunde - Hinspiele,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,2282,FC Brügge,9b75f84e34490d5f99f831b5a3c4f07c14585b814fb9f7161631b87db91bbbc6,2:1,2018/19,21:00,16457
+81,Europa League,Do. 21.02.2019,Zwischenrunde - Rückspiele,,,2282,FC Brügge,Marco Rose,4-3-1-2,409,Red Bull Salzburg,ffe535f6d5d8ac1c703052182bd053e93795c200c65f152a4253647daa4205e8,4:0,2018/19,18:55,24717
+82,Europa League,Do. 07.03.2019,Achtelfinale - Hinspiele,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,6195,SSC Neapel,bdadafcdaf759523064037d4297122c51a9092abad2520e094baec629f9a948f,3:0,2018/19,21:00,32579
+83,Europa League,Do. 14.03.2019,Achtelfinale - Rückspiele,,,6195,SSC Neapel,Marco Rose,4-3-1-2,409,Red Bull Salzburg,aeba94194ec659b99adbfa399700369619372b136df710eb3962fbabf4c3805e,3:1,2018/19,18:55,29520
+84,Bundesliga,So. 29.07.2018,1,,,413,LASK,Marco Rose,4-3-1-2,409,Red Bull Salzburg,bad2f6e1116619c366420b69ef328c830387d6d3410bd08616d22f816826e262,3:1,2018/19,17:00,11532
+85,Bundesliga,Sa. 04.08.2018,2,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,856,SV Mattersburg,52115370c1b6d6ee89227a07c3473ca2d58600d200b40a3bb32ad890811e0439,0:2,2018/19,17:00,3500
+86,Bundesliga,Sa. 11.08.2018,3,,,14,FK Austria Wien,Marco Rose,4-3-1-2,409,Red Bull Salzburg,9e94e856aa3b669258f529dcc057d9414ff707c76ef7ca2f13ead0913a796412,2:0,2018/19,17:00,10734
+87,Bundesliga,Sa. 18.08.2018,4,,,4467,TSV Hartberg,Marco Rose,4-3-1-2,409,Red Bull Salzburg,3f9d3cf6f8dc75d87d3cbd8e3cf123e2d3f082c87bb3a7c4d567067e11129ae6,2:0,2018/19,17:00,7600
+88,Bundesliga,Sa. 25.08.2018,5,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,3551,SC Rheindorf Altach,54d9d4fb55d3477ec840b7fb86871b67effc181b23afdab4aef23b3ec1e51dbc,2:3,2018/19,17:00,4125
+89,Bundesliga,So. 02.09.2018,6,,,503,FC Admira Wacker Mödling,Marco Rose,4-3-1-2,409,Red Bull Salzburg,5f2e520f501d371a7046ec4d0789f3311315127ef3c80ebe6e00fb6653509aa0,3:1,2018/19,17:00,6489
+90,Bundesliga,Sa. 15.09.2018,7,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,2662,SKN St. Pölten,b2ca050a3abbd791f39d9930ba32e7082e1c1d8ed54cea79f9bfde0aa2e692a0,1:3,2018/19,17:00,5511
+91,Bundesliga,So. 23.09.2018,8,,,170,SK Rapid Wien,Marco Rose,4-3-1-2,409,Red Bull Salzburg,3fc867d8a152c56d5ffc3d00e4f5f47db0ab85406a3fe4c9a36151aad14a4cb6,2:1,2018/19,17:00,15973
+92,Bundesliga,Sa. 29.09.2018,9,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,4441,Wolfsberger AC,381cbfc03033d8a5028ef6fefe98bd4bd07229c8ee3577a20ea08f4c1a188c4d,1:4,2018/19,17:00,4655
+93,Bundesliga,So. 07.10.2018,10,Marco Rose,4-3-3 offensiv,409,Red Bull Salzburg,,,122,SK Sturm Graz,58b217c33d87e11903f9065872fbd4defb9b218971a83aa3be5b673277d82c31,1:2,2018/19,17:00,11147
+94,Bundesliga,Sa. 20.10.2018,11,,,2444,FC Wacker Innsbruck,Marco Rose,4-3-1-2,409,Red Bull Salzburg,6b4b96c481376cb922b77bc47f891de10617be5157c6fb23d0cb153435a6328e,1:1,2018/19,17:00,11033
+95,Bundesliga,So. 28.10.2018,12,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,413,LASK,c54535fbf2fc7516b89ce4d4f69451dc46685d4b8d4c1714ea31e1f3249eff40,3:3,2018/19,17:00,6009
+96,Bundesliga,So. 04.11.2018,13,,,856,SV Mattersburg,Marco Rose,4-3-3 offensiv,409,Red Bull Salzburg,ba751c6b9b3bf21fc058d3c0513ddc579c6e9bc69677b101f96537fc1ff73bf6,2:1,2018/19,14:30,8652
+97,Bundesliga,So. 11.11.2018,14,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,14,FK Austria Wien,69ba397f6e708d2478c5b82e8a034c680db6d6fe6ed0bcf4b7d0614b0fb37815,0:2,2018/19,17:00,10507
+98,Bundesliga,Sa. 24.11.2018,15,Marco Rose,4-4-2 doppel 6,409,Red Bull Salzburg,,,4467,TSV Hartberg,65d6da4a86db23065585dbc26c9b00bad5b38d0634ca7528b74217f72eb4606e,0:4,2018/19,17:00,4870
+99,Bundesliga,So. 02.12.2018,16,,,3551,SC Rheindorf Altach,Marco Rose,4-3-3 offensiv,409,Red Bull Salzburg,567fd0d399010a68d1ee3d187cc7b48e657eca18fd6d2526ae35867e4ece4bd2,1:0,2018/19,14:30,5797
+100,Bundesliga,Sa. 08.12.2018,17,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,503,FC Admira Wacker Mödling,297c8ecb78a5b13fb1142ddab50bc8a2d5d602be649acd03e46b31cdbea984dc,2:2,2018/19,17:00,1900
+101,Bundesliga,So. 16.12.2018,18,,,2662,SKN St. Pölten,Marco Rose,4-3-1-2,409,Red Bull Salzburg,324be4254c82d2e87499f840c9175aa381ac6ffdec5f9dca486c6e00c79f3da2,5:1,2018/19,14:30,5727
+102,Bundesliga,So. 24.02.2019,19,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,170,SK Rapid Wien,91f38be70a8d6aca1bd5a18d6c97ac5af232c4f97113d259570b8001b76ba569,2:0,2018/19,17:00,19440
+103,Bundesliga,Sa. 02.03.2019,20,,,4441,Wolfsberger AC,Marco Rose,4-3-1-2,409,Red Bull Salzburg,1d776b567fac2fd30fe20ff97c8310d8789dbc0c7d7558af97c4265ec81e4ed2,3:0,2018/19,17:00,6111
+104,Bundesliga,So. 10.03.2019,21,,,122,SK Sturm Graz,Marco Rose,4-3-1-2,409,Red Bull Salzburg,14a99375dd56a1058c7e67c7ca72f1028276d02c9728024b40ba3eac08926ef6,0:0,2018/19,17:00,10142
+105,Bundesliga,So. 17.03.2019,22,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,2444,FC Wacker Innsbruck,aee09eccb3f16115ddf29ea3b7faf3147f5e7aaeff83aa1244722957bc51e940,0:2,2018/19,17:00,6476
+106,Bundesliga,So. 31.03.2019,23,,,14,FK Austria Wien,Marco Rose,4-3-1-2,409,Red Bull Salzburg,3137d5ae0d23ebb922ccf0705f352b195c6f4587df69d0d5476bb74121b8d6de,5:1,2018/19,17:00,10228
+107,Bundesliga,So. 07.04.2019,24,Marco Rose,4-3-3 offensiv,409,Red Bull Salzburg,,,413,LASK,b7692f4a3553c5fa7f7ecfc84dcab1567e9d997a409ed6a327e50ec7d526f0ab,0:2,2018/19,17:00,6087
+108,Bundesliga,So. 14.04.2019,25,,,122,SK Sturm Graz,Marco Rose,4-3-1-2,409,Red Bull Salzburg,bb83638812769a3a1a285722574f5c74485fff23d7d63fffae68f0d6d9ca0e09,3:1,2018/19,17:00,11133
+109,Bundesliga,So. 21.04.2019,26,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,2662,SKN St. Pölten,9643a145bdebad81c2d51452694aa83b1fc5ca8924d6ee07e958bc2b14472fd8,1:1,2018/19,14:30,3514
+110,Bundesliga,Mi. 24.04.2019,27,,,4441,Wolfsberger AC,Marco Rose,4-3-1-2,409,Red Bull Salzburg,f65f0d8a5e63cdb73ded0a7d2a6b3478c9a711b8d923bf8e39aa1a79db0bf8bf,3:1,2018/19,19:00,6181
+111,Bundesliga,So. 28.04.2019,28,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,4441,Wolfsberger AC,b980fc00713bb6c824ce6f2145669f363250c7c5f80ac819c1b003f454b58ed5,2:1,2018/19,14:30,3409
+112,Bundesliga,So. 05.05.2019,29,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,14,FK Austria Wien,34608929803fb65477fa0dc5b5f741c323d2f053bb908060e24026baae189c55,1:2,2018/19,17:00,9578
+113,Bundesliga,So. 12.05.2019,30,,,413,LASK,Marco Rose,4-3-1-2,409,Red Bull Salzburg,4e90ac0b90d80c0e66bb3044cf0f208bcae498706cd2fd2bcc2b8ed6449db816,2:1,2018/19,17:00,11457
+114,Bundesliga,So. 19.05.2019,31,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,122,SK Sturm Graz,e261cbd90a0d5b90885ac2a46d97d2b61daa220b036394210a2598f060115b97,1:2,2018/19,17:00,11486
+115,Bundesliga,So. 26.05.2019,32,,,2662,SKN St. Pölten,Marco Rose,4-3-1-2,409,Red Bull Salzburg,9807cfc6bd4ef82aa1ceb0a930fe61a6148367bd51b2add274ae54e9b9ae75d8,7:0,2018/19,17:00,16200
+116,ÖFB-Cup,So. 22.07.2018,1.Runde,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,24830,ASKÖ Oedt,22d2d7b450cbf142de7e8fa4f9421db33cbf58fe0628e1bb657bb6e5ef08bcec,0:6,2018/19,17:15,2112
+117,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,17663,SC Schwaz,25e348a19f5a308633fd8987b6471ed8ad3c7b135b63bd1f943a262091689f0b,0:6,2018/19,20:30,1300
+118,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,541,SC Austria Lustenau,bfa6fc0e177105e9765b79ba81c607ffe230840064dbea71a284895babddc8fa,0:1,2018/19,18:30,3500
+119,ÖFB-Cup,So. 17.02.2019,Viertelfinale,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,17444,SC Wiener Neustadt,552cc9ac6700dd6aab41f0da76e20c765de840287f539934b3bea6517268ae51,1:2,2018/19,15:00,2170
+120,ÖFB-Cup,Mi. 03.04.2019,Halbfinale,Marco Rose,4-3-1-2,409,Red Bull Salzburg,,,316,Grazer AK 1902,28cf0091bf60099b29e7ab893bc9d104e5e08090f030c35125368e7363895147,0:6,2018/19,18:00,13301
+121,ÖFB-Cup,Mi. 01.05.2019,Finale,,,170,SK Rapid Wien,Marco Rose,4-3-1-2,409,Red Bull Salzburg,fd4e2680aa9ec80676ef075d3dc00dfbf35bba9de3535bbb1d5a41153f4232ff,2:0,2018/19,16:30,24200
+122,Europa League Qualifikation,Do. 26.07.2018,2.Runde Hinspiele,,,353,Lillestrøm SK,Oliver Glasner,3-4-3 flach,413,LASK,e8e4bcbbf9fc501e201115071b0509a5c5d2db6fc2276232db1a05867688e7bd,4:0,2018/19,19:45,8304
+123,Europa League Qualifikation,Do. 02.08.2018,2.Runde Rückspiele,Oliver Glasner,3-4-3 flach,413,LASK,,,353,Lillestrøm SK,4518bf968e11f1d0400cb1dee9be4d8c817d71436309ac11eee2be6dd55d27d1,1:2,2018/19,18:30,1975
+124,Europa League Qualifikation,Do. 09.08.2018,3.Runde Hinspiele,Oliver Glasner,3-4-3 flach,413,LASK,,,114,Besiktas Istanbul,fb0cabac22242617bc02db5b10042dfd77b929d04096d4b2dd557d18b7fef54e,1:0,2018/19,19:00,24476
+125,Europa League Qualifikation,Do. 16.08.2018,3.Runde Rückspiele,,,114,Besiktas Istanbul,Oliver Glasner,3-4-3 flach,413,LASK,6aabdfdf7a72cc8193305ab5980197620aff46fae1cb6898b3912e3dde8766b8,2:1,2018/19,19:45,14000
+126,Bundesliga,So. 29.07.2018,1,Oliver Glasner,3-5-2 offensiv,413,LASK,,,409,Red Bull Salzburg,bad2f6e1116619c366420b69ef328c830387d6d3410bd08616d22f816826e262,3:1,2018/19,17:00,11532
+127,Bundesliga,So. 05.08.2018,2,,,2662,SKN St. Pölten,Oliver Glasner,3-4-3 flach,413,LASK,6d2ddc866114108a943c7797d47c442a588462912fcef5fb825be6d4eef5ba75,0:0,2018/19,17:00,5061
+128,Bundesliga,So. 12.08.2018,3,Oliver Glasner,3-4-3 flach,413,LASK,,,503,FC Admira Wacker Mödling,72549bb2cb2388b5548caefb6c03e0b2170b8f4c038655097853562de8827966,0:1,2018/19,17:00,1850
+129,Bundesliga,So. 19.08.2018,4,,,170,SK Rapid Wien,Oliver Glasner,3-4-3 flach,413,LASK,402688b6426623b821939090312bd5e4070c964081b013f55d0213ee1a9c2f6d,2:1,2018/19,17:00,5864
+130,Bundesliga,So. 26.08.2018,5,Oliver Glasner,3-4-3 flach,413,LASK,,,4467,TSV Hartberg,3040b8153751b0b428bc462eb1ab7c859bcbee339fbe35fe70869904e015db4c,0:1,2018/19,17:00,3141
+131,Bundesliga,So. 02.09.2018,6,,,4441,Wolfsberger AC,Oliver Glasner,3-4-3 flach,413,LASK,b4b04b1fa0439c0a1a9c9896d3cafa0bf4b6fe2a97c86650a41813dfc226f609,2:0,2018/19,17:00,5119
+132,Bundesliga,So. 16.09.2018,7,Oliver Glasner,3-4-3 flach,413,LASK,,,856,SV Mattersburg,f662c5305467257c0ade32d796297007fe0d51c3908031ac3634e879c3c6370e,1:3,2018/19,14:30,1952
+133,Bundesliga,So. 23.09.2018,8,Oliver Glasner,3-4-3 flach,413,LASK,,,14,FK Austria Wien,0d6c4c5ad6aee4a81f8def92072de2729a8e4c65ce9ab7c5462d2012ff2c8950,0:3,2018/19,14:30,10076
+134,Bundesliga,So. 30.09.2018,9,,,122,SK Sturm Graz,Oliver Glasner,3-4-3 flach,413,LASK,747002a2c9a6568297578f8cb1e966ff4b71bad10703cc9d23f1b6c4684757a5,0:0,2018/19,17:00,6009
+135,Bundesliga,So. 07.10.2018,10,Oliver Glasner,3-4-3 flach,413,LASK,,,2444,FC Wacker Innsbruck,870a12f009eae1e62ec43615cd538b2b492b968276202e180eb1e9d51eaf7ac9,1:0,2018/19,14:30,3873
+136,Bundesliga,Sa. 20.10.2018,11,,,3551,SC Rheindorf Altach,Oliver Glasner,3-4-3 flach,413,LASK,5311cabec60128a07ab193c5aa47519e706b9cffcdad789ce8200ef88134905d,1:1,2018/19,17:00,5089
+137,Bundesliga,So. 28.10.2018,12,,,409,Red Bull Salzburg,Oliver Glasner,3-4-3 flach,413,LASK,c54535fbf2fc7516b89ce4d4f69451dc46685d4b8d4c1714ea31e1f3249eff40,3:3,2018/19,17:00,6009
+138,Bundesliga,Sa. 03.11.2018,13,Oliver Glasner,3-4-3 flach,413,LASK,,,2662,SKN St. Pölten,8bf6e662a3e1deed3f3ae55e74390e5755b8ed4cc533883db1633cc19bb9ef7b,2:2,2018/19,17:00,4071
+139,Bundesliga,Sa. 10.11.2018,14,,,503,FC Admira Wacker Mödling,Oliver Glasner,3-4-3 flach,413,LASK,216213b576098316a065531bd86652ebb66e90577f663485a319dafe65da1fcd,5:1,2018/19,17:00,4873
+140,Bundesliga,So. 25.11.2018,15,Oliver Glasner,3-4-3 flach,413,LASK,,,170,SK Rapid Wien,a41c5d177971988652ba33ecf1aea9e72252026e6c4a289ae506e4344d00910f,0:1,2018/19,17:00,17600
+141,Bundesliga,Sa. 01.12.2018,16,,,4467,TSV Hartberg,Oliver Glasner,3-4-3 flach,413,LASK,78e15389c18f7e574302a3aecf268b4d88e53c016bc1c1a834f6c9e5c3db4ec6,3:3,2018/19,17:00,4957
+142,Bundesliga,Sa. 08.12.2018,17,Oliver Glasner,3-4-3 flach,413,LASK,,,4441,Wolfsberger AC,acb6ac96648d86e2ba50553485331f39424fdcc5d2af1f18e414f643397001f6,1:1,2018/19,17:00,2655
+143,Bundesliga,Sa. 15.12.2018,18,,,856,SV Mattersburg,Oliver Glasner,3-4-3 flach,413,LASK,aafcc398d2f24bca21456eeb1b9dc45cd34965de7a94ada724bb639d51d9a4d6,2:1,2018/19,17:00,4797
+144,Bundesliga,Fr. 22.02.2019,19,,,14,FK Austria Wien,Oliver Glasner,3-4-3 flach,413,LASK,4fadea0dcd5b4ab9d2ba3f40edd09a9bbb8f7b2019abbddbce9650f414ae7b31,2:0,2018/19,19:30,6009
+145,Bundesliga,So. 03.03.2019,20,Oliver Glasner,3-4-3 flach,413,LASK,,,122,SK Sturm Graz,10fea4850452759914b5e8d7129571c480dba59b466d6887fd637c24a9bd7c60,0:3,2018/19,14:30,11154
+146,Bundesliga,So. 10.03.2019,21,,,2444,FC Wacker Innsbruck,Oliver Glasner,3-4-3 flach,413,LASK,888b7fd589ef5980786c82283b4a0e2c6cef6c6832349cb0a791fa26c214ee5b,2:0,2018/19,17:00,5521
+147,Bundesliga,So. 17.03.2019,22,Oliver Glasner,3-4-3 flach,413,LASK,,,3551,SC Rheindorf Altach,524a2252261934e859de07132abc7b921804f6dcf7246236bd3fdaa8ccea38b4,1:2,2018/19,17:00,4072
+148,Bundesliga,So. 31.03.2019,23,Oliver Glasner,3-4-3 flach,413,LASK,,,4441,Wolfsberger AC,61684a858abbd5ab7ec535746811133dc9b44445723c704e7501ebd5ad35651d,0:3,2018/19,14:30,3691
+149,Bundesliga,So. 07.04.2019,24,,,409,Red Bull Salzburg,Oliver Glasner,3-4-3 flach,413,LASK,b7692f4a3553c5fa7f7ecfc84dcab1567e9d997a409ed6a327e50ec7d526f0ab,0:2,2018/19,17:00,6087
+150,Bundesliga,So. 14.04.2019,25,,,2662,SKN St. Pölten,Oliver Glasner,3-4-3 flach,413,LASK,3ec156e15aaa802314ccb8b70e75b29e1dc600694b4dd5889584ec22ab91fe45,0:0,2018/19,14:30,5187
+151,Bundesliga,So. 21.04.2019,26,Oliver Glasner,3-4-3 flach,413,LASK,,,14,FK Austria Wien,376b3d032b43653cecb28d6d031d3bde2b01142fa4760b7e58073bfd5bed8de9,2:2,2018/19,17:00,8050
+152,Bundesliga,Mi. 24.04.2019,27,,,122,SK Sturm Graz,Oliver Glasner,3-4-3 flach,413,LASK,3073e41ad88e4f6abd6e14532af5c4475bf63df8e519b5e414f566f54edea9aa,1:2,2018/19,19:00,5652
+153,Bundesliga,So. 28.04.2019,28,Oliver Glasner,3-4-3 flach,413,LASK,,,122,SK Sturm Graz,9fab97aaebdd83563863f12053e309deff8883fd6d0adf130c51272997a3f8c3,2:3,2018/19,17:00,9267
+154,Bundesliga,So. 05.05.2019,29,,,4441,Wolfsberger AC,Oliver Glasner,3-4-3 flach,413,LASK,0c7326f602e78fe3223d2c506e318032c1721f2d71209020c79d76bf54c91027,3:0,2018/19,14:30,5342
+155,Bundesliga,So. 12.05.2019,30,Oliver Glasner,3-4-3 flach,413,LASK,,,409,Red Bull Salzburg,4e90ac0b90d80c0e66bb3044cf0f208bcae498706cd2fd2bcc2b8ed6449db816,2:1,2018/19,17:00,11457
+156,Bundesliga,So. 19.05.2019,31,Oliver Glasner,3-4-3 flach,413,LASK,,,2662,SKN St. Pölten,21b53c2328f17796b60ab02612f79053b3f578dab9b9371433e351e347f94b08,0:1,2018/19,17:00,3200
+157,Bundesliga,So. 26.05.2019,32,,,14,FK Austria Wien,Oliver Glasner,3-4-3 flach,413,LASK,aba8cbf2869a80d305f882aca4ce8e855c8eb890c67bbb0d0f22cb658ee992bd,5:2,2018/19,17:00,6087
+158,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Oliver Glasner,3-4-3 flach,413,LASK,,,23158,WSC Hertha Wels,28c3b2eb311ca71cbc8f2c6e9ed1954053eebf2b5f54715984283bc930555ea4,0:3,2018/19,19:00,3100
+159,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Oliver Glasner,3-4-3 flach,413,LASK,,,11140,ATSV Stadl-Paura,91309e4126711f166f80f466a45d4de90964e363d07d4bf28ab7dbbcb5380848,0:8,2018/19,19:00,2000
+160,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,Oliver Glasner,3-4-3 flach,413,LASK,,,3551,SC Rheindorf Altach,7b211489e4f5e1aeabda2cb5b5d9e1c169550dfa59ebb49269ad142ea53b1ebb,0:3,2018/19,18:30,2243
+161,ÖFB-Cup,Sa. 16.02.2019,Viertelfinale,,,2662,SKN St. Pölten,Oliver Glasner,3-4-3 flach,413,LASK,5919572a963f35be883db9c9b23d86e8d120a010fa04a1a4a271deef68e89f17,6:0,2018/19,12:00,5328
+162,ÖFB-Cup,Mi. 03.04.2019,Halbfinale,,,170,SK Rapid Wien,Oliver Glasner,3-4-3 flach,413,LASK,509eb7bbafe1c59b482ea39a81de9762fa72542f60b1303b5a50aa1e1c48029a,4:5  n.E.,2018/19,20:30,6087
+163,Bundesliga,Sa. 28.07.2018,1,Markus Schopp,4-3-3 offensiv,4467,TSV Hartberg,,,122,SK Sturm Graz,0c2d1f75b07d60fd84febdd9023924077ace0f21360c403e8799043cd6a3ab26,3:2,2018/19,17:00,10785
+164,Bundesliga,So. 05.08.2018,2,,,503,FC Admira Wacker Mödling,Markus Schopp,4-3-3 offensiv,4467,TSV Hartberg,2f50180549f1b0239e9dad525df2f44f95a61fc272fa3b56fec389acc6c355ea,0:1,2018/19,17:00,3146
+165,Bundesliga,Sa. 11.08.2018,3,,,856,SV Mattersburg,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,ddfd6ad3ffef174c40a9d1ac647ed25d8cbc292ccee7eb6836f2ef43c962e8bf,4:2,2018/19,17:00,2812
+166,Bundesliga,Sa. 18.08.2018,4,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,,,409,Red Bull Salzburg,3f9d3cf6f8dc75d87d3cbd8e3cf123e2d3f082c87bb3a7c4d567067e11129ae6,2:0,2018/19,17:00,7600
+167,Bundesliga,So. 26.08.2018,5,,,413,LASK,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,3040b8153751b0b428bc462eb1ab7c859bcbee339fbe35fe70869904e015db4c,0:1,2018/19,17:00,3141
+168,Bundesliga,Sa. 01.09.2018,6,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,,,2444,FC Wacker Innsbruck,c5bb6bafceb34cad4617cc695841a9541a0f3672579e55b9729cd1bd0e48d531,2:1,2018/19,17:00,3115
+169,Bundesliga,Sa. 15.09.2018,7,,,3551,SC Rheindorf Altach,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,244ea20dce64b1532d03681b4155f35a8a0a340e840d1b9b8d670f7300638bc8,2:1,2018/19,17:00,2166
+170,Bundesliga,Sa. 22.09.2018,8,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,,,2662,SKN St. Pölten,272c6c327614a4b2f9313efd7420e5f989dfbc109615322d08cc1f738303264d,3:0,2018/19,17:00,2565
+171,Bundesliga,So. 30.09.2018,9,,,14,FK Austria Wien,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,5a1d9c1ab65e77049a44cd009617daaafe12cd40b6f784317fc0a623afe607b7,0:1,2018/19,14:30,4058
+172,Bundesliga,Sa. 06.10.2018,10,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,,,4441,Wolfsberger AC,c8fbe0ba2e2a8cc4cb8ea39a4461f3a258018a0d925139e8af1624904ffb8e16,3:4,2018/19,17:00,3213
+173,Bundesliga,Sa. 20.10.2018,11,,,170,SK Rapid Wien,Markus Schopp,4-5-1,4467,TSV Hartberg,173679cd413b32ed09ac743863604a104bacebe020f77357d97b2285bf2e9b25,3:0,2018/19,17:00,5024
+174,Bundesliga,Sa. 27.10.2018,12,,,122,SK Sturm Graz,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,0d5c7622673d4f1bea5bc36077e0fcefcfe021b0e11b18c39ae3717506481e01,2:0,2018/19,17:00,5024
+175,Bundesliga,Sa. 03.11.2018,13,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,,,503,FC Admira Wacker Mödling,96db2df9af0804b31070404122cecbaf4fdebbe3cb03e8e910e3dde2a77d0d15,2:3,2018/19,17:00,1900
+176,Bundesliga,So. 11.11.2018,14,Markus Schopp,4-5-1,4467,TSV Hartberg,,,856,SV Mattersburg,3bf2d6b9579b29762771fb0ff9f95c111a40a6dfb9fe7f99ede056c7cb34a38f,1:2,2018/19,14:30,2800
+177,Bundesliga,Sa. 24.11.2018,15,,,409,Red Bull Salzburg,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,65d6da4a86db23065585dbc26c9b00bad5b38d0634ca7528b74217f72eb4606e,0:4,2018/19,17:00,4870
+178,Bundesliga,Sa. 01.12.2018,16,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,,,413,LASK,78e15389c18f7e574302a3aecf268b4d88e53c016bc1c1a834f6c9e5c3db4ec6,3:3,2018/19,17:00,4957
+179,Bundesliga,So. 09.12.2018,17,,,2444,FC Wacker Innsbruck,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,a4882d1116c3b64b9189e4e57486a76fb986d7f84caaaf048ea2da9afe944ac8,2:2,2018/19,14:30,2733
+180,Bundesliga,So. 16.12.2018,18,Markus Schopp,4-5-1,4467,TSV Hartberg,,,3551,SC Rheindorf Altach,820ddc8668551e66a48e72622d294f41a32a9f1a3deb793c9362bc1d09143159,6:1,2018/19,14:30,2543
+181,Bundesliga,So. 24.02.2019,19,,,2662,SKN St. Pölten,Markus Schopp,5-3-2,4467,TSV Hartberg,3e4644764b219940d4683ccc8f602e4e6394f7e234cbb7d506112c4291f58257,1:1,2018/19,14:30,1965
+182,Bundesliga,So. 03.03.2019,20,Markus Schopp,4-5-1 flach,4467,TSV Hartberg,,,14,FK Austria Wien,d6b92835d6d141d9ecf52a3e50c62551d47160bbe77aa2e58ed52fdd51672daf,4:2,2018/19,14:30,8422
+183,Bundesliga,So. 10.03.2019,21,,,4441,Wolfsberger AC,Markus Schopp,?,4467,TSV Hartberg,2ffabefa53038d3ddbfd81d048801c98da446206ce7349d5f201116aafd6e3a9,1:1,2018/19,17:00,3678
+184,Bundesliga,So. 17.03.2019,22,Markus Schopp,4-1-4-1,4467,TSV Hartberg,,,170,SK Rapid Wien,318550753eda05bcdd801665d75179c857e974fb05f62f38e850345d1b7d0e06,2:2,2018/19,17:00,19200
+185,Bundesliga,Sa. 30.03.2019,23,,,2444,FC Wacker Innsbruck,Markus Schopp,4-3-3 offensiv,4467,TSV Hartberg,f194fb7c0e06d5b49f91f4f18a910412470d1035c92555a7bbdd48d9d469f75d,0:2,2018/19,17:00,4635
+186,Bundesliga,Sa. 06.04.2019,24,Markus Schopp,?,4467,TSV Hartberg,,,856,SV Mattersburg,35e0326f5d908411d550108fe9bf1f7d4651fec58ff401d74f8cf6e1a0e06731,3:0,2018/19,17:00,2000
+187,Bundesliga,Sa. 13.04.2019,25,,,3551,SC Rheindorf Altach,Markus Schopp,?,4467,TSV Hartberg,7909e2016056dc8ce880e7921c4923e6381b326d27e18197e647f8390310bacd,0:1,2018/19,17:00,1832
+188,Bundesliga,Sa. 20.04.2019,26,Markus Schopp,?,4467,TSV Hartberg,,,503,FC Admira Wacker Mödling,de8fbab18f799f85aad3fa6e4508b43170229a4af4e0a680ee61c87408744bf5,2:1,2018/19,17:00,1900
+189,Bundesliga,Di. 23.04.2019,27,,,170,SK Rapid Wien,Markus Schopp,?,4467,TSV Hartberg,5702ef000f5bedb71df45e0199de31838cbea5c3424882aa5e7e953393870163,2:4,2018/19,19:00,4000
+190,Bundesliga,Sa. 27.04.2019,28,Markus Schopp,4-5-1,4467,TSV Hartberg,,,170,SK Rapid Wien,77c155b4a6e51459b235b4af3cc04df5e1966fb8cb3b892a6870e6eb8fdaba2f,3:4,2018/19,17:00,13100
+191,Bundesliga,Sa. 04.05.2019,29,Markus Schopp,?,4467,TSV Hartberg,,,2444,FC Wacker Innsbruck,8ec879c2da9067431dd5e969d284f811716f18a731e24e386385a12acc46b207,1:0,2018/19,17:00,4217
+192,Bundesliga,Sa. 11.05.2019,30,,,856,SV Mattersburg,Markus Schopp,?,4467,TSV Hartberg,f0b3ac1fe52912fd2c821b3f357191650b9bb5858afaf3c28e5f063ca238dc12,2:1,2018/19,17:00,2312
+193,Bundesliga,Sa. 18.05.2019,31,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,,,3551,SC Rheindorf Altach,e4c02e59db7cfbf28a40abab4ecaa11565650aca7202e4f9b69dc92e2ae9e901,3:1,2018/19,17:00,4701
+194,Bundesliga,Sa. 25.05.2019,32,,,503,FC Admira Wacker Mödling,Markus Schopp,4-3-3 offensiv,4467,TSV Hartberg,88c8e4e9126d2ea1fa47d9763aca00f66a1132aeebd7fa74659972fa1a06368c,3:1,2018/19,17:00,3873
+195,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,,,10131,SV Grödig,1c77f8e31f5e3d2ef092d1ba7eccbeaf6f885923ba1fa4040c8e6fd1c1cfed9a,1:3  n.V.,2018/19,18:30,150
+196,ÖFB-Cup,Di. 25.09.2018,2.Runde,,,2446,WSG Wattens,Markus Schopp,4-4-2 doppel 6,4467,TSV Hartberg,0b062da9a355e2526cf7b3d43a4ca4f63f31c40b768d799e8593c10c0d3c2604,3:0,2018/19,19:00,875
+197,ÖFB-Cup,Di. 30.10.2018,Achtelfinale,,,2444,FC Wacker Innsbruck,Markus Schopp,?,4467,TSV Hartberg,c44916ad25a821eafd9881c7d0d4ff5ce4a27fc7700acf10dbe1cfb01b704771,4:3,2018/19,18:00,1467
+198,ÖFB-Cup,So. 17.02.2019,Viertelfinale,Markus Schopp,4-5-1,4467,TSV Hartberg,,,170,SK Rapid Wien,168196f2b322187b269e2987e4d6ed1f9b05e4e7d5513a92f64f8735de2bf66a,5:2,2018/19,17:15,12700
+199,Bundesliga,So. 29.07.2018,1,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,2662,SKN St. Pölten,4e89802b5a5de49a65d127f440dac83d83342a4da82ef7df4bdd62c8b6efd254,4:3,2018/19,17:00,2786
+200,Bundesliga,So. 05.08.2018,2,,,14,FK Austria Wien,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,6893d43ff4869ff8fa5002fab5508d6ec0522b3a916846cbd8058a7d8ef1067c,1:0,2018/19,17:30,4727
+201,Bundesliga,So. 12.08.2018,3,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,170,SK Rapid Wien,60d1b6a8597ffa1e14d6801703abbcd8e7371d43bcda535b52684bb03c11af92,0:0,2018/19,17:00,14800
+202,Bundesliga,Sa. 18.08.2018,4,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,856,SV Mattersburg,ee850bbe6ad2f17620696eb50a8e4c4a48fc8ca9db4bce881bdc8d6a489b8f7d,0:6,2018/19,17:00,2200
+203,Bundesliga,Sa. 25.08.2018,5,,,122,SK Sturm Graz,Christian Ilzer,4-3-3 offensiv,4441,Wolfsberger AC,6028054963bf59c99400ce578e946fcea44cf005cbfbbc465b839b241473d087,1:1,2018/19,17:00,5635
+204,Bundesliga,So. 02.09.2018,6,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,413,LASK,b4b04b1fa0439c0a1a9c9896d3cafa0bf4b6fe2a97c86650a41813dfc226f609,2:0,2018/19,17:00,5119
+205,Bundesliga,So. 16.09.2018,7,,,2444,FC Wacker Innsbruck,Christian Ilzer,4-1-3-2,4441,Wolfsberger AC,ccd586e94e776c087c3beca1b0b0772384044a74de07157722c7dd4f64d469cb,3:1,2018/19,14:30,3887
+206,Bundesliga,Sa. 22.09.2018,8,Christian Ilzer,4-1-3-2,4441,Wolfsberger AC,,,3551,SC Rheindorf Altach,0d7793a51beb41b42dcbbb02689289bcd20c064b81d5f4d8e5c7ef88ebc7aeb9,0:1,2018/19,17:00,3267
+207,Bundesliga,Sa. 29.09.2018,9,,,409,Red Bull Salzburg,Christian Ilzer,4-3-3 offensiv,4441,Wolfsberger AC,381cbfc03033d8a5028ef6fefe98bd4bd07229c8ee3577a20ea08f4c1a188c4d,1:4,2018/19,17:00,4655
+208,Bundesliga,Sa. 06.10.2018,10,,,4467,TSV Hartberg,Christian Ilzer,4-3-3 offensiv,4441,Wolfsberger AC,c8fbe0ba2e2a8cc4cb8ea39a4461f3a258018a0d925139e8af1624904ffb8e16,3:4,2018/19,17:00,3213
+209,Bundesliga,So. 21.10.2018,11,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,503,FC Admira Wacker Mödling,fd5f90ef4864429f1d4f80d88f463838e756cde2c5056467c22338ff5c33ec8d,0:0,2018/19,14:30,1700
+210,Bundesliga,So. 28.10.2018,12,,,2662,SKN St. Pölten,Christian Ilzer,4-1-3-2,4441,Wolfsberger AC,ad15b11ec6bdc5e68208cee8471ba93e9f69468ce08c7adefb19666f31d21895,1:0,2018/19,14:30,2586
+211,Bundesliga,So. 04.11.2018,13,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,14,FK Austria Wien,027b7e14d2b9a9eda3568d167c59e34df4e74547d44d5cd4b0c035f5f09cee5a,2:3,2018/19,14:30,8540
+212,Bundesliga,So. 11.11.2018,14,,,170,SK Rapid Wien,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,4c0a7a305e6cea4e8c3f090cd3af2c9c7262658798cb3af199d20101f5c4aee3,3:1,2018/19,14:30,5444
+213,Bundesliga,Sa. 24.11.2018,15,,,856,SV Mattersburg,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,31ac1c0588671670ac89b100821afc7dd3816f414e5ae96dc29e25baddf47884,2:2,2018/19,17:00,2766
+214,Bundesliga,So. 02.12.2018,16,Christian Ilzer,4-4-2 Raute,4441,Wolfsberger AC,,,122,SK Sturm Graz,9dcfe121a2b4de582400df2b7104614785a6acfad79d45da368566a08d57e7cf,3:0,2018/19,17:00,8074
+215,Bundesliga,Sa. 08.12.2018,17,,,413,LASK,Christian Ilzer,4-4-2 Raute,4441,Wolfsberger AC,acb6ac96648d86e2ba50553485331f39424fdcc5d2af1f18e414f643397001f6,1:1,2018/19,17:00,2655
+216,Bundesliga,Sa. 15.12.2018,18,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,2444,FC Wacker Innsbruck,258c85559052f1252da81872d903e81993935c8f63ea6724488388c2b54212fe,0:0,2018/19,17:00,2035
+217,Bundesliga,Sa. 23.02.2019,19,,,3551,SC Rheindorf Altach,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,c0799d9da2c8c6e05f4fc5ac5076ba7e449f7aec76db6a99c75f53ed2ef2817c,0:0,2018/19,17:00,3198
+218,Bundesliga,Sa. 02.03.2019,20,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,409,Red Bull Salzburg,1d776b567fac2fd30fe20ff97c8310d8789dbc0c7d7558af97c4265ec81e4ed2,3:0,2018/19,17:00,6111
+219,Bundesliga,So. 10.03.2019,21,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,4467,TSV Hartberg,2ffabefa53038d3ddbfd81d048801c98da446206ce7349d5f201116aafd6e3a9,1:1,2018/19,17:00,3678
+220,Bundesliga,So. 17.03.2019,22,,,503,FC Admira Wacker Mödling,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,3310cbec57ae9cb9b385e6514e20313b7b99eafd413282684fbac409be9a57f6,2:2,2018/19,17:00,4488
+221,Bundesliga,So. 31.03.2019,23,,,413,LASK,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,61684a858abbd5ab7ec535746811133dc9b44445723c704e7501ebd5ad35651d,0:3,2018/19,14:30,3691
+222,Bundesliga,So. 07.04.2019,24,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,2662,SKN St. Pölten,5f9795514dec4ab7bf1f0ae4aad110f794422f0ced4b897b43edde0b683fb1b9,1:3,2018/19,14:30,2277
+223,Bundesliga,So. 14.04.2019,25,,,14,FK Austria Wien,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,9a353b17a46c511cefb7f0d0985f28f32a0b3f59ce0e8ece9238ec2dc0d2f6a1,1:1,2018/19,14:30,3357
+224,Bundesliga,So. 21.04.2019,26,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,122,SK Sturm Graz,bbe020283d5f402360788045fce4d52b1364c392553e908e0731a01a492234a2,1:2,2018/19,14:30,9376
+225,Bundesliga,Mi. 24.04.2019,27,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,409,Red Bull Salzburg,f65f0d8a5e63cdb73ded0a7d2a6b3478c9a711b8d923bf8e39aa1a79db0bf8bf,3:1,2018/19,19:00,6181
+226,Bundesliga,So. 28.04.2019,28,,,409,Red Bull Salzburg,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,b980fc00713bb6c824ce6f2145669f363250c7c5f80ac819c1b003f454b58ed5,2:1,2018/19,14:30,3409
+227,Bundesliga,So. 05.05.2019,29,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,413,LASK,0c7326f602e78fe3223d2c506e318032c1721f2d71209020c79d76bf54c91027,3:0,2018/19,14:30,5342
+228,Bundesliga,So. 12.05.2019,30,,,2662,SKN St. Pölten,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,6c8d91eb4b88f84aad3288a5d03380e5163dcebc6192f0df60d34d95dfba10d1,4:0,2018/19,14:30,2916
+229,Bundesliga,So. 19.05.2019,31,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,14,FK Austria Wien,651f241ff8469e0518873730ab38b5b965bde39014150fb9fea6bfc7ce9a3ca8,2:0,2018/19,17:00,11252
+230,Bundesliga,So. 26.05.2019,32,,,122,SK Sturm Graz,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,1dd105bdbe24f5239745a31efe20cef7ad08ab7a81989b1c4c75f013e82c401a,2:1,2018/19,17:00,6377
+231,ÖFB-Cup,Sa. 21.07.2018,1.Runde,Christian Ilzer,4-4-2 doppel 6,4441,Wolfsberger AC,,,19644,Union Gurten,65bbe7940d55d7690ddeb5b212b323547fdea783d440c944c06c4441d4a05091,1:2,2018/19,18:00,600
+232,ÖFB-Cup,Di. 25.09.2018,2.Runde,,,28760,SK Austria Klagenfurt,Christian Ilzer,4-3-3 offensiv,4441,Wolfsberger AC,fb00f8662480fd08c51aba6e8258011214df910ade81d0d05f9fe95ba8602acf,4:0,2018/19,18:30,2312
+233,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,,,170,SK Rapid Wien,Christian Ilzer,3-5-2 flach,4441,Wolfsberger AC,c8fd214a09fac2cf83555032555d2dd037b5391ff73a40c6aca4768af6e19c85,0:3,2018/19,18:00,3755
+234,Bundesliga,Fr. 27.07.2018,1,,,2444,FC Wacker Innsbruck,Thomas Letsch,4-3-1-2,14,FK Austria Wien,9e2ade517af5d236a8cd40654c0b8f38363e4d7b191c0ad767a547febf627496,2:1,2018/19,20:45,13155
+235,Bundesliga,So. 05.08.2018,2,Thomas Letsch,4-3-1-2,14,FK Austria Wien,,,4441,Wolfsberger AC,6893d43ff4869ff8fa5002fab5508d6ec0522b3a916846cbd8058a7d8ef1067c,1:0,2018/19,17:30,4727
+236,Bundesliga,Sa. 11.08.2018,3,Thomas Letsch,4-3-1-2,14,FK Austria Wien,,,409,Red Bull Salzburg,9e94e856aa3b669258f529dcc057d9414ff707c76ef7ca2f13ead0913a796412,2:0,2018/19,17:00,10734
+237,Bundesliga,So. 19.08.2018,4,,,503,FC Admira Wacker Mödling,Thomas Letsch,4-3-3 defensiv,14,FK Austria Wien,8047fbc54b2fd842fedc5b16cd539becd0d8c6542162106c395e01c18955fdb6,4:0,2018/19,17:00,10055
+238,Bundesliga,Sa. 25.08.2018,5,Thomas Letsch,3-4-1-2,14,FK Austria Wien,,,2662,SKN St. Pölten,03aaebcc4ab5cff72765f3c727096b852fdae06ab07e99a679336a68c63e7cbd,0:0,2018/19,17:00,5424
+239,Bundesliga,Sa. 01.09.2018,6,,,856,SV Mattersburg,Thomas Letsch,4-3-1-2,14,FK Austria Wien,c4d5b1fa120600df2852e33c6a84193d5b0611b8865fde489998cb066b1f408a,2:1,2018/19,17:00,9046
+240,Bundesliga,So. 16.09.2018,7,Thomas Letsch,4-3-3 defensiv,14,FK Austria Wien,,,170,SK Rapid Wien,4a12785834f637a74d27c4a4a46cb25ebfc1b18d21868913115307122c058c2b,0:1,2018/19,17:00,26000
+241,Bundesliga,So. 23.09.2018,8,,,413,LASK,Thomas Letsch,4-3-3 defensiv,14,FK Austria Wien,0d6c4c5ad6aee4a81f8def92072de2729a8e4c65ce9ab7c5462d2012ff2c8950,0:3,2018/19,14:30,10076
+242,Bundesliga,So. 30.09.2018,9,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,,,4467,TSV Hartberg,5a1d9c1ab65e77049a44cd009617daaafe12cd40b6f784317fc0a623afe607b7,0:1,2018/19,14:30,4058
+243,Bundesliga,Sa. 06.10.2018,10,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,,,3551,SC Rheindorf Altach,4b0b01fccc1c5388749b234fdecc9cf4ea463630ed2be716a8888b75a1b0b186,2:0,2018/19,17:00,3712
+244,Bundesliga,So. 21.10.2018,11,,,122,SK Sturm Graz,Thomas Letsch,4-3-3 defensiv,14,FK Austria Wien,6cb86b3d1a647411b28ec40b0092774b4bb325004e9cffd28fad9ec82a0874eb,1:1,2018/19,17:00,11265
+245,Bundesliga,Sa. 27.10.2018,12,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,,,2444,FC Wacker Innsbruck,1cdf1ecf08142163defb9480f827d9013de045a36f13ebac83d492621a8e348e,0:0,2018/19,17:00,5532
+246,Bundesliga,So. 04.11.2018,13,,,4441,Wolfsberger AC,Thomas Letsch,4-1-3-2,14,FK Austria Wien,027b7e14d2b9a9eda3568d167c59e34df4e74547d44d5cd4b0c035f5f09cee5a,2:3,2018/19,14:30,8540
+247,Bundesliga,So. 11.11.2018,14,,,409,Red Bull Salzburg,Thomas Letsch,4-3-2-1,14,FK Austria Wien,69ba397f6e708d2478c5b82e8a034c680db6d6fe6ed0bcf4b7d0614b0fb37815,0:2,2018/19,17:00,10507
+248,Bundesliga,Sa. 24.11.2018,15,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,,,503,FC Admira Wacker Mödling,90bed415edfafdab883baf84721575e8102e81e6716c27112580bc678099f7d8,1:2,2018/19,17:00,2857
+249,Bundesliga,Sa. 01.12.2018,16,,,2662,SKN St. Pölten,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,7f35ad39d0ac81b61db17a4ea04aec1fa18276b1c7af0a1fd4f26d58acc6e81f,2:0,2018/19,17:00,9025
+250,Bundesliga,So. 09.12.2018,17,Thomas Letsch,4-3-3 offensiv,14,FK Austria Wien,,,856,SV Mattersburg,59d8d0ddd12419794297708d3d3c0810cfae2c0d38de104a93cfde6121297d8b,2:1,2018/19,14:30,2700
+251,Bundesliga,So. 16.12.2018,18,,,170,SK Rapid Wien,Thomas Letsch,4-1-3-2,14,FK Austria Wien,c8e462c25643ae79aab88fe090f742f4c8bad250e9e9e82b1aa6ab9632761c14,6:1,2018/19,17:00,16582
+252,Bundesliga,Fr. 22.02.2019,19,Thomas Letsch,4-4-2 doppel 6,14,FK Austria Wien,,,413,LASK,4fadea0dcd5b4ab9d2ba3f40edd09a9bbb8f7b2019abbddbce9650f414ae7b31,2:0,2018/19,19:30,6009
+253,Bundesliga,So. 03.03.2019,20,,,4467,TSV Hartberg,Thomas Letsch,4-4-2 doppel 6,14,FK Austria Wien,d6b92835d6d141d9ecf52a3e50c62551d47160bbe77aa2e58ed52fdd51672daf,4:2,2018/19,14:30,8422
+254,Bundesliga,So. 10.03.2019,21,,,3551,SC Rheindorf Altach,Thomas Letsch,4-4-2 doppel 6,14,FK Austria Wien,b4afb9c1752cbc5879b361b9b76e0762962dc11c39c5ffb80c4fa381dd632a10,1:3,2018/19,17:00,9380
+255,Bundesliga,So. 17.03.2019,22,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,122,SK Sturm Graz,c4d161d2bff6accba75a1fa9845596e8d13fce7c1a0b0d9a3c474d0c911f5616,1:0,2018/19,17:00,14643
+256,Bundesliga,So. 31.03.2019,23,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,409,Red Bull Salzburg,3137d5ae0d23ebb922ccf0705f352b195c6f4587df69d0d5476bb74121b8d6de,5:1,2018/19,17:00,10228
+257,Bundesliga,So. 07.04.2019,24,,,122,SK Sturm Graz,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,9e2da3decc093c4966195792d5c5548b846c86cbb38c1941936f9dd837f0a645,0:1,2018/19,14:30,10150
+258,Bundesliga,So. 14.04.2019,25,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,4441,Wolfsberger AC,9a353b17a46c511cefb7f0d0985f28f32a0b3f59ce0e8ece9238ec2dc0d2f6a1,1:1,2018/19,14:30,3357
+259,Bundesliga,So. 21.04.2019,26,,,413,LASK,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,376b3d032b43653cecb28d6d031d3bde2b01142fa4760b7e58073bfd5bed8de9,2:2,2018/19,17:00,8050
+260,Bundesliga,Mi. 24.04.2019,27,,,2662,SKN St. Pölten,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,8bc30c496b4339e69ccb88b083b6a1395f28bb53c744d2e1c331fc679242eb87,2:2,2018/19,19:00,7850
+261,Bundesliga,So. 28.04.2019,28,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,2662,SKN St. Pölten,f1768679b633d6da1dba2637eee37fb252f5ebdc7cdb81f01aa9476ea11b19d6,1:2,2018/19,14:30,4020
+262,Bundesliga,So. 05.05.2019,29,,,409,Red Bull Salzburg,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,34608929803fb65477fa0dc5b5f741c323d2f053bb908060e24026baae189c55,1:2,2018/19,17:00,9578
+263,Bundesliga,So. 12.05.2019,30,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,122,SK Sturm Graz,cae06d1d94f5b8429a690f270b53c7499d6d3cefb3bfc607b2588bdf529b1a22,1:3,2018/19,14:30,8168
+264,Bundesliga,So. 19.05.2019,31,,,4441,Wolfsberger AC,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,651f241ff8469e0518873730ab38b5b965bde39014150fb9fea6bfc7ce9a3ca8,2:0,2018/19,17:00,11252
+265,Bundesliga,So. 26.05.2019,32,Robert Ibertsberger,3-4-3 flach,14,FK Austria Wien,,,413,LASK,aba8cbf2869a80d305f882aca4ce8e855c8eb890c67bbb0d0f22cb658ee992bd,5:2,2018/19,17:00,6087
+266,ÖFB-Cup,So. 22.07.2018,1.Runde,Thomas Letsch,4-3-1-2,14,FK Austria Wien,,,12083,FV Austria XIII,5db1c102096d97d22b49c20046ade1ad22a1e1f0d1ce58a26a3328b75e2c16d7,0:4,2018/19,11:00,2152
+267,ÖFB-Cup,Mi. 26.09.2018,2.Runde,,,122,SK Sturm Graz,Thomas Letsch,4-2-3-1 ,14,FK Austria Wien,dac5c8cd3abc27d3ffe94c6901af7231780326ae2356bebcc07ee8637cc6b2cd,2:0,2018/19,20:45,8900
+268,ÖFB-Cup,Di. 30.10.2018,Achtelfinale,,,7443,Floridsdorfer AC,Thomas Letsch,4-1-3-2,14,FK Austria Wien,939bc9b6fc120e2e488d53847469687319d43f1d781a91cb9a543e5b9bd77770,3:1,2018/19,20:20,7212
+269,ÖFB-Cup,Fr. 15.02.2019,Viertelfinale,Thomas Letsch,4-4-2 doppel 6,14,FK Austria Wien,,,316,Grazer AK 1902,e3b7986fd5418d03c4391c8c95df2954295a77117be87c4e27955291b9c4b7e3,2:1,2018/19,19:00,12295
+270,Bundesliga,Sa. 28.07.2018,1,,,856,SV Mattersburg,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,f9156bb474a6e0fcd012145f50d20017cfe3c21b854a625ba44770703c275fde,2:3,2018/19,17:00,4523
+271,Bundesliga,Sa. 04.08.2018,2,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,170,SK Rapid Wien,55eee0513c88b01ba40c4f8ec029ee9e146738a9bfb99ca863811bd69374b578,1:1,2018/19,17:00,15200
+272,Bundesliga,Sa. 11.08.2018,3,,,2444,FC Wacker Innsbruck,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,d5ff103daeaae2db7548a6cfe4ab826dca4fab8b9b49427a9e6339ce761b274d,1:2,2018/19,17:00,5845
+273,Bundesliga,So. 19.08.2018,4,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,122,SK Sturm Graz,20c7f2a69ae99b849698c98df7ad1dbdfc6db71fe6ec6d30490d3e8be09f6ea4,1:1,2018/19,17:00,6712
+274,Bundesliga,Sa. 25.08.2018,5,,,409,Red Bull Salzburg,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,54d9d4fb55d3477ec840b7fb86871b67effc181b23afdab4aef23b3ec1e51dbc,2:3,2018/19,17:00,4125
+275,Bundesliga,Sa. 01.09.2018,6,,,2662,SKN St. Pölten,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,f145a8a16a759b596cabd694e1f561927357042e760523a9b3001db912b837f3,1:2,2018/19,17:00,3248
+276,Bundesliga,Sa. 15.09.2018,7,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,4467,TSV Hartberg,244ea20dce64b1532d03681b4155f35a8a0a340e840d1b9b8d670f7300638bc8,2:1,2018/19,17:00,2166
+277,Bundesliga,Sa. 22.09.2018,8,,,4441,Wolfsberger AC,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,0d7793a51beb41b42dcbbb02689289bcd20c064b81d5f4d8e5c7ef88ebc7aeb9,0:1,2018/19,17:00,3267
+278,Bundesliga,Sa. 29.09.2018,9,Werner Grabherr,4-3-3 offensiv,3551,SC Rheindorf Altach,,,503,FC Admira Wacker Mödling,2d3e5ad5d8d9e05c9200e1e2267b1daa5f2fa1b0c0d037549ebd8531051008b1,2:4,2018/19,17:00,1600
+279,Bundesliga,Sa. 06.10.2018,10,,,14,FK Austria Wien,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,4b0b01fccc1c5388749b234fdecc9cf4ea463630ed2be716a8888b75a1b0b186,2:0,2018/19,17:00,3712
+280,Bundesliga,Sa. 20.10.2018,11,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,,,413,LASK,5311cabec60128a07ab193c5aa47519e706b9cffcdad789ce8200ef88134905d,1:1,2018/19,17:00,5089
+281,Bundesliga,Sa. 27.10.2018,12,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,,,856,SV Mattersburg,c593eb2bce4da74a1d34a65ee3b2c8bd10755d22c564626266d0423cb48b80a9,1:1,2018/19,17:00,1600
+282,Bundesliga,So. 04.11.2018,13,,,170,SK Rapid Wien,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,07f99eb8f266d5f6bea50dc7391b7bc65ab013efb8fffe56dea8ded6a5c92191,2:2,2018/19,17:00,5038
+283,Bundesliga,Sa. 10.11.2018,14,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,,,2444,FC Wacker Innsbruck,b3fc83ee9a80a64d85cde069da82237ab2257dd37f658623411dc978ef5a8963,1:0,2018/19,17:00,5343
+284,Bundesliga,So. 25.11.2018,15,,,122,SK Sturm Graz,Werner Grabherr,4-5-1,3551,SC Rheindorf Altach,a30f41051f307d11e3379bc8eb3f47af7148efd5f8ca1f4ce068735477ae5cb4,0:2,2018/19,14:30,3876
+285,Bundesliga,So. 02.12.2018,16,Werner Grabherr,4-3-3 offensiv,3551,SC Rheindorf Altach,,,409,Red Bull Salzburg,567fd0d399010a68d1ee3d187cc7b48e657eca18fd6d2526ae35867e4ece4bd2,1:0,2018/19,14:30,5797
+286,Bundesliga,Sa. 08.12.2018,17,Werner Grabherr,4-3-3 offensiv,3551,SC Rheindorf Altach,,,2662,SKN St. Pölten,72e1cbe92a2b4c7dbb23ffe843a1f6f9f4fa1d6ac4f794e1eb830e6f3b019838,2:1,2018/19,17:00,2143
+287,Bundesliga,So. 16.12.2018,18,,,4467,TSV Hartberg,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,820ddc8668551e66a48e72622d294f41a32a9f1a3deb793c9362bc1d09143159,6:1,2018/19,14:30,2543
+288,Bundesliga,Sa. 23.02.2019,19,Werner Grabherr,5-4-1 flach,3551,SC Rheindorf Altach,,,4441,Wolfsberger AC,c0799d9da2c8c6e05f4fc5ac5076ba7e449f7aec76db6a99c75f53ed2ef2817c,0:0,2018/19,17:00,3198
+289,Bundesliga,Sa. 02.03.2019,20,,,503,FC Admira Wacker Mödling,Werner Grabherr,5-3-2,3551,SC Rheindorf Altach,91c5bd3d08dc8448f30c45e3352ac327a66ea1800817d108d223651cd52f5a3e,0:1,2018/19,17:00,3618
+290,Bundesliga,So. 10.03.2019,21,Wolfgang Luisser,5-3-2,3551,SC Rheindorf Altach,,,14,FK Austria Wien,b4afb9c1752cbc5879b361b9b76e0762962dc11c39c5ffb80c4fa381dd632a10,1:3,2018/19,17:00,9380
+291,Bundesliga,So. 17.03.2019,22,,,413,LASK,Wolfgang Luisser,5-3-2,3551,SC Rheindorf Altach,524a2252261934e859de07132abc7b921804f6dcf7246236bd3fdaa8ccea38b4,1:2,2018/19,17:00,4072
+292,Bundesliga,Sa. 30.03.2019,23,,,856,SV Mattersburg,Alex Pastoor,5-3-2,3551,SC Rheindorf Altach,462e2b6220c4c77a266981fc2a6b7c39c1cd273d7bb8d6b85eb56b9d5ef030c4,2:1,2018/19,17:00,4048
+293,Bundesliga,Sa. 06.04.2019,24,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,503,FC Admira Wacker Mödling,5120ed71f5df41f70364f934480a804aec41e633990770fc2c061b59916158f3,1:1,2018/19,17:00,1850
+294,Bundesliga,Sa. 13.04.2019,25,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,4467,TSV Hartberg,7909e2016056dc8ce880e7921c4923e6381b326d27e18197e647f8390310bacd,0:1,2018/19,17:00,1832
+295,Bundesliga,Sa. 20.04.2019,26,,,170,SK Rapid Wien,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,32e9d946c2163a45a34ca81a8b716d072f489dc089a425f3f4cde483c3bb9a33,2:2,2018/19,17:00,5912
+296,Bundesliga,Di. 23.04.2019,27,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,2444,FC Wacker Innsbruck,392d69990d55a839de05e0c9c809f1af0bbf62c2687d4350f6b153a06b4374fb,0:4,2018/19,19:00,2782
+297,Bundesliga,Sa. 27.04.2019,28,,,2444,FC Wacker Innsbruck,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,dfce5ee8a0758aabfb8ccd18f6baeb649f1372c2918428043dee342c0fd5a76b,1:4,2018/19,17:00,4087
+298,Bundesliga,Sa. 04.05.2019,29,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,856,SV Mattersburg,41eea17dcf325517412ecde9c65867f6cbc6a384872f23a6ab6698e6041a523e,0:0,2018/19,17:00,1600
+299,Bundesliga,Sa. 11.05.2019,30,,,503,FC Admira Wacker Mödling,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,58f6bb1865ad33ac9a2760a68596e5f32e2e0b399e19ba2a30dfc6d5b1d97d9e,2:2,2018/19,17:00,3508
+300,Bundesliga,Sa. 18.05.2019,31,,,4467,TSV Hartberg,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,e4c02e59db7cfbf28a40abab4ecaa11565650aca7202e4f9b69dc92e2ae9e901,3:1,2018/19,17:00,4701
+301,Bundesliga,Sa. 25.05.2019,32,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,170,SK Rapid Wien,431a763019a6d490b94dc012a785d511155da6d9b7a7ee1795791c1f6000b77d,1:2,2018/19,17:00,13500
+302,ÖFB-Cup,So. 22.07.2018,1.Runde,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,,,4320,SC/ESV Parndorf,96de2e7cdeaf0b482f5cc8a983876560f94ce9b1c720eddd27b9d8f0bd0c0c50,0:3,2018/19,16:30,600
+303,ÖFB-Cup,Di. 25.09.2018,2.Runde,Werner Grabherr,4-1-4-1,3551,SC Rheindorf Altach,,,10149,SV Leobendorf,6aaf4e72a13255c90d30e2fabd6ac8c9c2e98eb8624670d2857303f37751ad2e,1:2,2018/19,16:00,540
+304,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,,,413,LASK,Werner Grabherr,4-4-2 doppel 6,3551,SC Rheindorf Altach,7b211489e4f5e1aeabda2cb5b5d9e1c169550dfa59ebb49269ad142ea53b1ebb,0:3,2018/19,18:30,2243
+305,Bundesliga,So. 29.07.2018,1,,,4441,Wolfsberger AC,Dietmar Kühbauer,4-4-2 doppel 6,2662,SKN St. Pölten,4e89802b5a5de49a65d127f440dac83d83342a4da82ef7df4bdd62c8b6efd254,4:3,2018/19,17:00,2786
+306,Bundesliga,So. 05.08.2018,2,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,,,413,LASK,6d2ddc866114108a943c7797d47c442a588462912fcef5fb825be6d4eef5ba75,0:0,2018/19,17:00,5061
+307,Bundesliga,So. 12.08.2018,3,,,122,SK Sturm Graz,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,4b1793fb695fcf7f15d71bd52c5ef3549b7fc56ea5e52ef5e5d2362d9b7c5eb4,2:0,2018/19,17:00,3450
+308,Bundesliga,Sa. 18.08.2018,4,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,,,2444,FC Wacker Innsbruck,7667ba116b5e2e23eafab6f8ec6546d478144f57d9163602f90fa7fc6db3d5a2,0:2,2018/19,17:00,4321
+309,Bundesliga,Sa. 25.08.2018,5,,,14,FK Austria Wien,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,03aaebcc4ab5cff72765f3c727096b852fdae06ab07e99a679336a68c63e7cbd,0:0,2018/19,17:00,5424
+310,Bundesliga,Sa. 01.09.2018,6,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,,,3551,SC Rheindorf Altach,f145a8a16a759b596cabd694e1f561927357042e760523a9b3001db912b837f3,1:2,2018/19,17:00,3248
+311,Bundesliga,Sa. 15.09.2018,7,,,409,Red Bull Salzburg,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,b2ca050a3abbd791f39d9930ba32e7082e1c1d8ed54cea79f9bfde0aa2e692a0,1:3,2018/19,17:00,5511
+312,Bundesliga,Sa. 22.09.2018,8,,,4467,TSV Hartberg,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,272c6c327614a4b2f9313efd7420e5f989dfbc109615322d08cc1f738303264d,3:0,2018/19,17:00,2565
+313,Bundesliga,Sa. 29.09.2018,9,Dietmar Kühbauer,5-3-2,2662,SKN St. Pölten,,,170,SK Rapid Wien,2906ea653f6aa2cd87c8db8ae0649ef0bf7aaa73c024b900168dcb5309edff14,0:2,2018/19,17:00,15800
+314,Bundesliga,Sa. 06.10.2018,10,,,503,FC Admira Wacker Mödling,Marcel Ketelaer,5-3-2,2662,SKN St. Pölten,f8fb7bf0d68b77954edc540c5ea179c7fc9886ffcab0bc58156e8e8c9c520a7f,0:0,2018/19,17:00,3187
+315,Bundesliga,So. 21.10.2018,11,Ranko Popovic,5-3-2,2662,SKN St. Pölten,,,856,SV Mattersburg,8280c5419e9c64122222db2e311ab7441a057a60708fd18f540ac05e56a7a942,2:0,2018/19,14:30,1800
+316,Bundesliga,So. 28.10.2018,12,Ranko Popovic,5-3-2,2662,SKN St. Pölten,,,4441,Wolfsberger AC,ad15b11ec6bdc5e68208cee8471ba93e9f69468ce08c7adefb19666f31d21895,1:0,2018/19,14:30,2586
+317,Bundesliga,Sa. 03.11.2018,13,,,413,LASK,Ranko Popovic,3-4-3 flach,2662,SKN St. Pölten,8bf6e662a3e1deed3f3ae55e74390e5755b8ed4cc533883db1633cc19bb9ef7b,2:2,2018/19,17:00,4071
+318,Bundesliga,Sa. 10.11.2018,14,Ranko Popovic,3-4-3 flach,2662,SKN St. Pölten,,,122,SK Sturm Graz,1f87c2178b454612f51783af1ceb81b9d82ecebad34719d4be67dc31aa9d943e,0:0,2018/19,17:00,9218
+319,Bundesliga,So. 25.11.2018,15,,,2444,FC Wacker Innsbruck,Ranko Popovic,5-3-2,2662,SKN St. Pölten,6e548beb1a01eed955a4729ce5a859582f9ef55817fbb72b130908b3cea0c9f0,2:0,2018/19,14:30,2700
+320,Bundesliga,Sa. 01.12.2018,16,Ranko Popovic,5-3-2,2662,SKN St. Pölten,,,14,FK Austria Wien,7f35ad39d0ac81b61db17a4ea04aec1fa18276b1c7af0a1fd4f26d58acc6e81f,2:0,2018/19,17:00,9025
+321,Bundesliga,Sa. 08.12.2018,17,,,3551,SC Rheindorf Altach,Ranko Popovic,3-4-3 flach,2662,SKN St. Pölten,72e1cbe92a2b4c7dbb23ffe843a1f6f9f4fa1d6ac4f794e1eb830e6f3b019838,2:1,2018/19,17:00,2143
+322,Bundesliga,So. 16.12.2018,18,Ranko Popovic,3-4-3 flach,2662,SKN St. Pölten,,,409,Red Bull Salzburg,324be4254c82d2e87499f840c9175aa381ac6ffdec5f9dca486c6e00c79f3da2,5:1,2018/19,14:30,5727
+323,Bundesliga,So. 24.02.2019,19,Ranko Popovic,4-4-1-1,2662,SKN St. Pölten,,,4467,TSV Hartberg,3e4644764b219940d4683ccc8f602e4e6394f7e234cbb7d506112c4291f58257,1:1,2018/19,14:30,1965
+324,Bundesliga,Sa. 02.03.2019,20,,,170,SK Rapid Wien,Ranko Popovic,3-5-2,2662,SKN St. Pölten,41462343bf3c258ccadf78b2a3d3a0d2e81b6754f1011208aed22a834f16d98d,0:4,2018/19,17:00,7195
+325,Bundesliga,So. 10.03.2019,21,Ranko Popovic,?,2662,SKN St. Pölten,,,503,FC Admira Wacker Mödling,e0e3df5d0be87d8d0c27f56ce34e5c2f1523cae686995db13d3f3780550b6b82,3:2,2018/19,17:00,2350
+326,Bundesliga,So. 17.03.2019,22,,,856,SV Mattersburg,Ranko Popovic,?,2662,SKN St. Pölten,c81c4b44717be8f2004e5639ec3097b82635dab86df21721aae8f224b440e6d6,0:1,2018/19,17:00,3041
+327,Bundesliga,So. 31.03.2019,23,Ranko Popovic,3-5-2 offensiv,2662,SKN St. Pölten,,,122,SK Sturm Graz,1eaec0b9d3c24aa45e81cc79ce53faa20696a5a27d569c3859f36e480cd42ea6,0:1,2018/19,14:30,8567
+328,Bundesliga,So. 07.04.2019,24,,,4441,Wolfsberger AC,Ranko Popovic,5-3-2,2662,SKN St. Pölten,5f9795514dec4ab7bf1f0ae4aad110f794422f0ced4b897b43edde0b683fb1b9,1:3,2018/19,14:30,2277
+329,Bundesliga,So. 14.04.2019,25,Ranko Popovic,?,2662,SKN St. Pölten,,,413,LASK,3ec156e15aaa802314ccb8b70e75b29e1dc600694b4dd5889584ec22ab91fe45,0:0,2018/19,14:30,5187
+330,Bundesliga,So. 21.04.2019,26,,,409,Red Bull Salzburg,Ranko Popovic,?,2662,SKN St. Pölten,9643a145bdebad81c2d51452694aa83b1fc5ca8924d6ee07e958bc2b14472fd8,1:1,2018/19,14:30,3514
+331,Bundesliga,Mi. 24.04.2019,27,Ranko Popovic,?,2662,SKN St. Pölten,,,14,FK Austria Wien,8bc30c496b4339e69ccb88b083b6a1395f28bb53c744d2e1c331fc679242eb87,2:2,2018/19,19:00,7850
+332,Bundesliga,So. 28.04.2019,28,,,14,FK Austria Wien,Ranko Popovic,3-4-3 flach,2662,SKN St. Pölten,f1768679b633d6da1dba2637eee37fb252f5ebdc7cdb81f01aa9476ea11b19d6,1:2,2018/19,14:30,4020
+333,Bundesliga,So. 05.05.2019,29,,,122,SK Sturm Graz,Ranko Popovic,?,2662,SKN St. Pölten,06ea3ba57f49a1deea6f01cc0f0bd928a4c7e912491e74e6f76196d6224f76d0,0:1,2018/19,14:30,3337
+334,Bundesliga,So. 12.05.2019,30,Ranko Popovic,3-4-2-1,2662,SKN St. Pölten,,,4441,Wolfsberger AC,6c8d91eb4b88f84aad3288a5d03380e5163dcebc6192f0df60d34d95dfba10d1,4:0,2018/19,14:30,2916
+335,Bundesliga,So. 19.05.2019,31,,,413,LASK,Ranko Popovic,3-5-2 offensiv,2662,SKN St. Pölten,21b53c2328f17796b60ab02612f79053b3f578dab9b9371433e351e347f94b08,0:1,2018/19,17:00,3200
+336,Bundesliga,So. 26.05.2019,32,Ranko Popovic,?,2662,SKN St. Pölten,,,409,Red Bull Salzburg,9807cfc6bd4ef82aa1ceb0a930fe61a6148367bd51b2add274ae54e9b9ae75d8,7:0,2018/19,17:00,16200
+337,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Dietmar Kühbauer,4-4-2 doppel 6,2662,SKN St. Pölten,,,16213,SK Maria Saal,2595a18b6a3fec4d7570aaf5e9aa20b3d5673829bfa761528ae67fe84359ac95,0:6,2018/19,18:30,1000
+338,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Dietmar Kühbauer,4-1-4-1,2662,SKN St. Pölten,,,10172,FC Pinzgau Saalfelden,6f9543d69ae84171fab5c6408dda3ab1847d3f828a064ad251c69e7a45024cbb,0:5,2018/19,19:00,600
+339,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,Ranko Popovic,?,2662,SKN St. Pölten,,,19536,SV Lafnitz,7eb7e414940aabf78e646aa74e2bd8532dc37e315d88bbdc6bb824fc4b65ac0e,2:3,2018/19,19:00,720
+340,ÖFB-Cup,Sa. 16.02.2019,Viertelfinale,Ranko Popovic,3-5-2 flach,2662,SKN St. Pölten,,,413,LASK,5919572a963f35be883db9c9b23d86e8d120a010fa04a1a4a271deef68e89f17,6:0,2018/19,12:00,5328
+341,UEFA Champions League-Qualifikation,Mi. 25.07.2018,2.Runde Hinspiele,Heiko Vogel,5-4-1 flach,122,SK Sturm Graz,,,610,Ajax Amsterdam,c22d08e479abf69161cab050ce28c5a3095f4f07420b6f6d511b8c83bb7ae5f9,2:0,2018/19,20:30,53106
+342,UEFA Champions League-Qualifikation,Mi. 01.08.2018,2.Runde Rückspiele,,,610,Ajax Amsterdam,Heiko Vogel,4-3-1-2,122,SK Sturm Graz,f455b7c359bf003a73475a8bf5e16899ef4d9a38768b160fe5f38498a6836f28,1:3,2018/19,20:30,15172
+343,Europa League Qualifikation,Do. 09.08.2018,3.Runde Hinspiele,,,2156,AEK Larnaka,Heiko Vogel,3-5-2 offensiv,122,SK Sturm Graz,a475c87d220b1f2a34e514136413578f75bb949985fdd354c4e04cedb955cc11,0:2,2018/19,19:00,7650
+344,Europa League Qualifikation,Do. 16.08.2018,3.Runde Rückspiele,Heiko Vogel,4-1-4-1,122,SK Sturm Graz,,,2156,AEK Larnaka,05c5e55a1c73a3178e14d5f034f347b529182e8695a8a3b24c020e7d0f545df0,5:0,2018/19,17:30,4145
+345,Bundesliga,Sa. 28.07.2018,1,,,4467,TSV Hartberg,Heiko Vogel,3-5-2 flach,122,SK Sturm Graz,0c2d1f75b07d60fd84febdd9023924077ace0f21360c403e8799043cd6a3ab26,3:2,2018/19,17:00,10785
+346,Bundesliga,Sa. 04.08.2018,2,Heiko Vogel,3-3-3-1,122,SK Sturm Graz,,,2444,FC Wacker Innsbruck,c8db4c597ca5d0abfb449ef80cc75efbffbb9122afbca5ed3c1fe983d4feb952,2:3,2018/19,17:00,7820
+347,Bundesliga,So. 12.08.2018,3,Heiko Vogel,4-1-4-1,122,SK Sturm Graz,,,2662,SKN St. Pölten,4b1793fb695fcf7f15d71bd52c5ef3549b7fc56ea5e52ef5e5d2362d9b7c5eb4,2:0,2018/19,17:00,3450
+348,Bundesliga,So. 19.08.2018,4,,,3551,SC Rheindorf Altach,Heiko Vogel,4-3-1-2,122,SK Sturm Graz,20c7f2a69ae99b849698c98df7ad1dbdfc6db71fe6ec6d30490d3e8be09f6ea4,1:1,2018/19,17:00,6712
+349,Bundesliga,Sa. 25.08.2018,5,Heiko Vogel,5-3-2,122,SK Sturm Graz,,,4441,Wolfsberger AC,6028054963bf59c99400ce578e946fcea44cf005cbfbbc465b839b241473d087,1:1,2018/19,17:00,5635
+350,Bundesliga,So. 02.09.2018,6,,,170,SK Rapid Wien,Heiko Vogel,5-3-2,122,SK Sturm Graz,950968b8ff33fc4a62bf8ba97aa3679574b4288c3687871a4407ed6ce34a0d1d,1:1,2018/19,17:00,14487
+351,Bundesliga,Sa. 15.09.2018,7,Heiko Vogel,5-3-2,122,SK Sturm Graz,,,503,FC Admira Wacker Mödling,38324fac6dbf8faadc2c8f292d1cdeba66eb2934924e454ffebdb986317f73b1,2:3,2018/19,17:00,2400
+352,Bundesliga,Sa. 22.09.2018,8,,,856,SV Mattersburg,Heiko Vogel,5-3-2,122,SK Sturm Graz,c2a7ffcb674fd6849974df38459fa851e012bdf51a51f63f186ea400b9618315,1:2,2018/19,17:00,6958
+353,Bundesliga,So. 30.09.2018,9,Heiko Vogel,5-3-2,122,SK Sturm Graz,,,413,LASK,747002a2c9a6568297578f8cb1e966ff4b71bad10703cc9d23f1b6c4684757a5,0:0,2018/19,17:00,6009
+354,Bundesliga,So. 07.10.2018,10,,,409,Red Bull Salzburg,Heiko Vogel,3-4-1-2,122,SK Sturm Graz,58b217c33d87e11903f9065872fbd4defb9b218971a83aa3be5b673277d82c31,1:2,2018/19,17:00,11147
+355,Bundesliga,So. 21.10.2018,11,Heiko Vogel,4-2-3-1 ,122,SK Sturm Graz,,,14,FK Austria Wien,6cb86b3d1a647411b28ec40b0092774b4bb325004e9cffd28fad9ec82a0874eb,1:1,2018/19,17:00,11265
+356,Bundesliga,Sa. 27.10.2018,12,Heiko Vogel,4-3-3 offensiv,122,SK Sturm Graz,,,4467,TSV Hartberg,0d5c7622673d4f1bea5bc36077e0fcefcfe021b0e11b18c39ae3717506481e01,2:0,2018/19,17:00,5024
+357,Bundesliga,Sa. 03.11.2018,13,,,2444,FC Wacker Innsbruck,Heiko Vogel,4-1-4-1,122,SK Sturm Graz,98e0ed46a8b4a8bb5d238b3efe4e06b77c0a0094e5662ebd970e85d68d395775,1:1,2018/19,17:00,7867
+358,Bundesliga,Sa. 10.11.2018,14,,,2662,SKN St. Pölten,Günther Neukirchner,4-4-2 Raute,122,SK Sturm Graz,1f87c2178b454612f51783af1ceb81b9d82ecebad34719d4be67dc31aa9d943e,0:0,2018/19,17:00,9218
+359,Bundesliga,So. 25.11.2018,15,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,,,3551,SC Rheindorf Altach,a30f41051f307d11e3379bc8eb3f47af7148efd5f8ca1f4ce068735477ae5cb4,0:2,2018/19,14:30,3876
+360,Bundesliga,So. 02.12.2018,16,,,4441,Wolfsberger AC,Roman Mählich,3-4-2-1,122,SK Sturm Graz,9dcfe121a2b4de582400df2b7104614785a6acfad79d45da368566a08d57e7cf,3:0,2018/19,17:00,8074
+361,Bundesliga,So. 09.12.2018,17,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,,,170,SK Rapid Wien,7a472626d6bf6017df3dc513fd931b76adb1d8fa55b3a5033ac8c358aa411810,0:0,2018/19,17:00,17700
+362,Bundesliga,Sa. 15.12.2018,18,,,503,FC Admira Wacker Mödling,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,1e3f2456feb5decaa5ce834590aaa06694301a74e71107a5eb46c4666971c645,3:0,2018/19,17:00,7048
+363,Bundesliga,So. 24.02.2019,19,Roman Mählich,3-4-3 flach,122,SK Sturm Graz,,,856,SV Mattersburg,81601d2ee6b63de593a1d217920e6d8648997c984183b0e7f0135e19ccd7af04,1:1,2018/19,14:30,6200
+364,Bundesliga,So. 03.03.2019,20,,,413,LASK,Roman Mählich,5-3-2,122,SK Sturm Graz,10fea4850452759914b5e8d7129571c480dba59b466d6887fd637c24a9bd7c60,0:3,2018/19,14:30,11154
+365,Bundesliga,So. 10.03.2019,21,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,,,409,Red Bull Salzburg,14a99375dd56a1058c7e67c7ca72f1028276d02c9728024b40ba3eac08926ef6,0:0,2018/19,17:00,10142
+366,Bundesliga,So. 17.03.2019,22,,,14,FK Austria Wien,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,c4d161d2bff6accba75a1fa9845596e8d13fce7c1a0b0d9a3c474d0c911f5616,1:0,2018/19,17:00,14643
+367,Bundesliga,So. 31.03.2019,23,,,2662,SKN St. Pölten,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,1eaec0b9d3c24aa45e81cc79ce53faa20696a5a27d569c3859f36e480cd42ea6,0:1,2018/19,14:30,8567
+368,Bundesliga,So. 07.04.2019,24,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,,,14,FK Austria Wien,9e2da3decc093c4966195792d5c5548b846c86cbb38c1941936f9dd837f0a645,0:1,2018/19,14:30,10150
+369,Bundesliga,So. 14.04.2019,25,Roman Mählich,5-4-1 flach,122,SK Sturm Graz,,,409,Red Bull Salzburg,bb83638812769a3a1a285722574f5c74485fff23d7d63fffae68f0d6d9ca0e09,3:1,2018/19,17:00,11133
+370,Bundesliga,So. 21.04.2019,26,,,4441,Wolfsberger AC,Roman Mählich,4-1-4-1,122,SK Sturm Graz,bbe020283d5f402360788045fce4d52b1364c392553e908e0731a01a492234a2,1:2,2018/19,14:30,9376
+371,Bundesliga,Mi. 24.04.2019,27,Roman Mählich,4-1-4-1,122,SK Sturm Graz,,,413,LASK,3073e41ad88e4f6abd6e14532af5c4475bf63df8e519b5e414f566f54edea9aa,1:2,2018/19,19:00,5652
+372,Bundesliga,So. 28.04.2019,28,,,413,LASK,Roman Mählich,4-1-4-1,122,SK Sturm Graz,9fab97aaebdd83563863f12053e309deff8883fd6d0adf130c51272997a3f8c3,2:3,2018/19,17:00,9267
+373,Bundesliga,So. 05.05.2019,29,Roman Mählich,4-1-4-1,122,SK Sturm Graz,,,2662,SKN St. Pölten,06ea3ba57f49a1deea6f01cc0f0bd928a4c7e912491e74e6f76196d6224f76d0,0:1,2018/19,14:30,3337
+374,Bundesliga,So. 12.05.2019,30,,,14,FK Austria Wien,Roman Mählich,4-1-4-1,122,SK Sturm Graz,cae06d1d94f5b8429a690f270b53c7499d6d3cefb3bfc607b2588bdf529b1a22,1:3,2018/19,14:30,8168
+375,Bundesliga,So. 19.05.2019,31,,,409,Red Bull Salzburg,Roman Mählich,4-1-4-1,122,SK Sturm Graz,e261cbd90a0d5b90885ac2a46d97d2b61daa220b036394210a2598f060115b97,1:2,2018/19,17:00,11486
+376,Bundesliga,So. 26.05.2019,32,Roman Mählich,4-1-4-1,122,SK Sturm Graz,,,4441,Wolfsberger AC,1dd105bdbe24f5239745a31efe20cef7ad08ab7a81989b1c4c75f013e82c401a,2:1,2018/19,17:00,6377
+377,ÖFB-Cup,Sa. 21.07.2018,1.Runde,Heiko Vogel,3-5-2 flach,122,SK Sturm Graz,,,18291,ASV Siegendorf,dbc92277a29832f0d89a49c6327e41032f6e00649a8736ae61788e1e0a931bae,0:2,2018/19,16:30,1000
+378,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Heiko Vogel,5-4-1 flach,122,SK Sturm Graz,,,14,FK Austria Wien,dac5c8cd3abc27d3ffe94c6901af7231780326ae2356bebcc07ee8637cc6b2cd,2:0,2018/19,20:45,8900
+379,Bundesliga Europa League-Play-off,Do. 30.05.2019,Finale - Hinspiel,Roman Mählich,4-1-4-1,122,SK Sturm Graz,,,170,SK Rapid Wien,d8805a88f44c2608787c7ee2009447d20e7d6cf6861f388eda7bea3e4b716d27,1:2,2018/19,17:00,0
+380,Bundesliga Europa League-Play-off,So. 02.06.2019,Finale - Rückspiel,,,170,SK Rapid Wien,Roman Mählich,4-1-4-1,122,SK Sturm Graz,669b256c3499cdf0e6ea9f8454007c9d167e171432ba95cbb0720bb5181fe99e,0:1,2018/19,17:00,9300
+381,Europa League,Do. 20.09.2018,Gruppe G,,,232,Spartak Moskau,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,c5429d9c8e1a8132029a2dc3f20a20a591d6f851a02434f67676a7a9dd7d3720,2:0,2018/19,18:55,21400
+382,Europa League,Do. 04.10.2018,Gruppe G,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,124,Glasgow Rangers,d501ed4a1b1bcb7f24f93b4fda4d6d66196f46b8ec1f4c52fba014014fd0af34,3:1,2018/19,21:00,47543
+383,Europa League,Do. 25.10.2018,Gruppe G,Dietmar Kühbauer,4-1-4-1,170,SK Rapid Wien,,,1050,FC Villarreal,695ce316e4afb4ff6b2dfcf6efbc107b4c1690f569462faca983c8740d3f4a87,5:0,2018/19,21:00,14158
+384,Europa League,Do. 08.11.2018,Gruppe G,,,1050,FC Villarreal,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,38f0feace569108c6f30b41ef70678eeaeff2e8c62a3721de388cd8f8734ff84,0:0,2018/19,18:55,22100
+385,Europa League,Do. 29.11.2018,Gruppe G,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,232,Spartak Moskau,adcecca9f65c06c81e19b648e95890423d264675f429d8c9085b789c88926635,1:2,2018/19,16:50,20739
+386,Europa League,Do. 13.12.2018,Gruppe G,,,124,Glasgow Rangers,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,746e76049cbdd45c310721bb348cb4bd11484ebcc005554959c2ca18d5ec0326,1:0,2018/19,18:55,23850
+387,Europa League,Do. 14.02.2019,Zwischenrunde - Hinspiele,,,46,Inter Mailand,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,4b5ab666874de1d7244663a6da57d60649991bf0edae859b33f8c0ac43b5f27e,0:1,2018/19,18:55,23850
+388,Europa League,Do. 21.02.2019,Zwischenrunde - Rückspiele,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,46,Inter Mailand,e57216fd0a086b38574f63ce0874af643969f4e1905b2c1d7a51377a999a0bef,4:0,2018/19,21:00,32158
+389,Europa League Qualifikation,Do. 09.08.2018,3.Runde Hinspiele,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,540,Slovan Bratislava,d4d3996f67ae04f40d3a60971164965b0a2b36f3be6de3732e45ed6cf2afa86f,2:1,2018/19,21:05,9563
+390,Europa League Qualifikation,Do. 16.08.2018,3.Runde Rückspiele,,,540,Slovan Bratislava,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,baf516622ebeefbb5ff4b225efc518b0d8495e3b0eccce5df9707870d36ef045,4:0,2018/19,20:30,17800
+391,Europa League Qualifikation,Do. 23.08.2018,Qualifikationsrunde - Hinspiele,,,301,FCSB,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,44999c49fac57af1d1272a6734b8c28f1b88ba577693882992071fa144d85db7,3:1,2018/19,20:30,19300
+392,Europa League Qualifikation,Do. 30.08.2018,Qualifikationsrunde - Rückspiele,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,301,FCSB,ec53dbd91ed51ff4e6ac3066670a7ecadb5d87b4d3a509754613a42f137c27aa,2:1,2018/19,20:30,31274
+393,Bundesliga,So. 29.07.2018,1,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,503,FC Admira Wacker Mödling,e92c29f64c838f1d46e62a2bace739d7b6b3cace464bbd995ae8623459237312,0:3,2018/19,17:00,5200
+394,Bundesliga,Sa. 04.08.2018,2,,,3551,SC Rheindorf Altach,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,55eee0513c88b01ba40c4f8ec029ee9e146738a9bfb99ca863811bd69374b578,1:1,2018/19,17:00,15200
+395,Bundesliga,So. 12.08.2018,3,,,4441,Wolfsberger AC,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,60d1b6a8597ffa1e14d6801703abbcd8e7371d43bcda535b52684bb03c11af92,0:0,2018/19,17:00,14800
+396,Bundesliga,So. 19.08.2018,4,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,413,LASK,402688b6426623b821939090312bd5e4070c964081b013f55d0213ee1a9c2f6d,2:1,2018/19,17:00,5864
+397,Bundesliga,So. 26.08.2018,5,,,2444,FC Wacker Innsbruck,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,0c2b28d8eb7418492d1bbdd7c2ed170d8986db97b42bfa7bf52719a82521f1bc,2:1,2018/19,17:00,17400
+398,Bundesliga,So. 02.09.2018,6,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,122,SK Sturm Graz,950968b8ff33fc4a62bf8ba97aa3679574b4288c3687871a4407ed6ce34a0d1d,1:1,2018/19,17:00,14487
+399,Bundesliga,So. 16.09.2018,7,,,14,FK Austria Wien,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,4a12785834f637a74d27c4a4a46cb25ebfc1b18d21868913115307122c058c2b,0:1,2018/19,17:00,26000
+400,Bundesliga,So. 23.09.2018,8,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,409,Red Bull Salzburg,3fc867d8a152c56d5ffc3d00e4f5f47db0ab85406a3fe4c9a36151aad14a4cb6,2:1,2018/19,17:00,15973
+401,Bundesliga,Sa. 29.09.2018,9,,,2662,SKN St. Pölten,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,2906ea653f6aa2cd87c8db8ae0649ef0bf7aaa73c024b900168dcb5309edff14,0:2,2018/19,17:00,15800
+402,Bundesliga,So. 07.10.2018,10,,,856,SV Mattersburg,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,02652338957f30259e0430859d2583dbcd335e36911ab076fdeef40f3cd11cf3,1:0,2018/19,14:30,18200
+403,Bundesliga,Sa. 20.10.2018,11,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,4467,TSV Hartberg,173679cd413b32ed09ac743863604a104bacebe020f77357d97b2285bf2e9b25,3:0,2018/19,17:00,5024
+404,Bundesliga,So. 28.10.2018,12,,,503,FC Admira Wacker Mödling,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,e935720fe3080069fcf9c26e3ccdfed9d8d1b2146c31ee7acc11dc88562ae1d5,2:0,2018/19,14:30,14600
+405,Bundesliga,So. 04.11.2018,13,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,3551,SC Rheindorf Altach,07f99eb8f266d5f6bea50dc7391b7bc65ab013efb8fffe56dea8ded6a5c92191,2:2,2018/19,17:00,5038
+406,Bundesliga,So. 11.11.2018,14,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,4441,Wolfsberger AC,4c0a7a305e6cea4e8c3f090cd3af2c9c7262658798cb3af199d20101f5c4aee3,3:1,2018/19,14:30,5444
+407,Bundesliga,So. 25.11.2018,15,,,413,LASK,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,a41c5d177971988652ba33ecf1aea9e72252026e6c4a289ae506e4344d00910f,0:1,2018/19,17:00,17600
+408,Bundesliga,So. 02.12.2018,16,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,2444,FC Wacker Innsbruck,8a1e08f8f5436dcffb4c8d00e6c295a855c9fd1477204ba2dfeb919058498b03,0:1,2018/19,14:30,7665
+409,Bundesliga,So. 09.12.2018,17,,,122,SK Sturm Graz,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,7a472626d6bf6017df3dc513fd931b76adb1d8fa55b3a5033ac8c358aa411810,0:0,2018/19,17:00,17700
+410,Bundesliga,So. 16.12.2018,18,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,14,FK Austria Wien,c8e462c25643ae79aab88fe090f742f4c8bad250e9e9e82b1aa6ab9632761c14,6:1,2018/19,17:00,16582
+411,Bundesliga,So. 24.02.2019,19,,,409,Red Bull Salzburg,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,91f38be70a8d6aca1bd5a18d6c97ac5af232c4f97113d259570b8001b76ba569,2:0,2018/19,17:00,19440
+412,Bundesliga,Sa. 02.03.2019,20,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,2662,SKN St. Pölten,41462343bf3c258ccadf78b2a3d3a0d2e81b6754f1011208aed22a834f16d98d,0:4,2018/19,17:00,7195
+413,Bundesliga,So. 10.03.2019,21,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,856,SV Mattersburg,1e2807cf6e7c2730ecd70f2e2574cc9a38ae2b9632742701dddb35cb0619c511,2:1,2018/19,17:00,10200
+414,Bundesliga,So. 17.03.2019,22,,,4467,TSV Hartberg,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,318550753eda05bcdd801665d75179c857e974fb05f62f38e850345d1b7d0e06,2:2,2018/19,17:00,19200
+415,Bundesliga,Sa. 30.03.2019,23,,,503,FC Admira Wacker Mödling,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,46812ab76ec26e5d51232f5482af65e7ea3cea717abd1b46c7c593bc674b2975,3:0,2018/19,17:00,11600
+416,Bundesliga,Sa. 06.04.2019,24,Dietmar Kühbauer,?,170,SK Rapid Wien,,,2444,FC Wacker Innsbruck,3a8c9519b9cb621e8054e9cb346b9433aa0e18459f9247b29075040cf74b4e4e,0:2,2018/19,17:00,7413
+417,Bundesliga,Sa. 13.04.2019,25,,,856,SV Mattersburg,Dietmar Kühbauer,?,170,SK Rapid Wien,90d33d3bae8378f922ca4d059811693fe4f98e3e47b3e1bc8b7ea823ad4124bf,2:1,2018/19,17:00,12300
+418,Bundesliga,Sa. 20.04.2019,26,Dietmar Kühbauer,?,170,SK Rapid Wien,,,3551,SC Rheindorf Altach,32e9d946c2163a45a34ca81a8b716d072f489dc089a425f3f4cde483c3bb9a33,2:2,2018/19,17:00,5912
+419,Bundesliga,Di. 23.04.2019,27,Dietmar Kühbauer,?,170,SK Rapid Wien,,,4467,TSV Hartberg,5702ef000f5bedb71df45e0199de31838cbea5c3424882aa5e7e953393870163,2:4,2018/19,19:00,4000
+420,Bundesliga,Sa. 27.04.2019,28,,,4467,TSV Hartberg,Dietmar Kühbauer,?,170,SK Rapid Wien,77c155b4a6e51459b235b4af3cc04df5e1966fb8cb3b892a6870e6eb8fdaba2f,3:4,2018/19,17:00,13100
+421,Bundesliga,Sa. 04.05.2019,29,Dietmar Kühbauer,?,170,SK Rapid Wien,,,503,FC Admira Wacker Mödling,fef1673a2388c7918b18c30cbbb6c37a974209530f73c722af87521a6e07e6fd,3:4,2018/19,17:00,3800
+422,Bundesliga,Sa. 11.05.2019,30,,,2444,FC Wacker Innsbruck,Dietmar Kühbauer,?,170,SK Rapid Wien,3b4ead15b43cbb1e48cb45ccd967926f5f21960419b018182019e32a337b0fe8,1:0,2018/19,17:00,13800
+423,Bundesliga,Sa. 18.05.2019,31,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,856,SV Mattersburg,7e9ac23da1f04c3d276cb587c38a1c0ce826724ac33636a727c7591c03e663a3,1:0,2018/19,17:00,4200
+424,Bundesliga,Sa. 25.05.2019,32,,,3551,SC Rheindorf Altach,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,431a763019a6d490b94dc012a785d511155da6d9b7a7ee1795791c1f6000b77d,1:2,2018/19,17:00,13500
+425,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,2235,FC Kufstein,66733abbb54b893a6d8ccf6db89f31796eb0978cef30177ffec239be8e84a0c3,0:5,2018/19,20:20,2000
+426,ÖFB-Cup,Mi. 26.09.2018,2.Runde,Goran Djuricin,4-2-3-1 ,170,SK Rapid Wien,,,856,SV Mattersburg,f8afc2ee71b4187917a1c32ce26982f270d281c808a67e8754e13183f623c816,4:5  n.E.,2018/19,18:30,5300
+427,ÖFB-Cup,Mi. 31.10.2018,Achtelfinale,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,4441,Wolfsberger AC,c8fd214a09fac2cf83555032555d2dd037b5391ff73a40c6aca4768af6e19c85,0:3,2018/19,18:00,3755
+428,ÖFB-Cup,So. 17.02.2019,Viertelfinale,,,4467,TSV Hartberg,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,168196f2b322187b269e2987e4d6ed1f9b05e4e7d5513a92f64f8735de2bf66a,5:2,2018/19,17:15,12700
+429,ÖFB-Cup,Mi. 03.04.2019,Halbfinale,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,413,LASK,509eb7bbafe1c59b482ea39a81de9762fa72542f60b1303b5a50aa1e1c48029a,4:5  n.E.,2018/19,20:30,6087
+430,ÖFB-Cup,Mi. 01.05.2019,Finale,Dietmar Kühbauer,4-3-3 defensiv,170,SK Rapid Wien,,,409,Red Bull Salzburg,fd4e2680aa9ec80676ef075d3dc00dfbf35bba9de3535bbb1d5a41153f4232ff,2:0,2018/19,16:30,24200
+431,Bundesliga Europa League-Play-off,Di. 28.05.2019,Halbfinale,,,856,SV Mattersburg,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,2994bdb7a5a27d9d0d0cf1d902d662b6396b0ef5ba0169da82e5c37bf04248ea,2:0,2018/19,19:00,10600
+432,Bundesliga Europa League-Play-off,Do. 30.05.2019,Finale - Hinspiel,,,122,SK Sturm Graz,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,d8805a88f44c2608787c7ee2009447d20e7d6cf6861f388eda7bea3e4b716d27,1:2,2018/19,17:00,0
+433,Bundesliga Europa League-Play-off,So. 02.06.2019,Finale - Rückspiel,Dietmar Kühbauer,4-2-3-1 ,170,SK Rapid Wien,,,122,SK Sturm Graz,669b256c3499cdf0e6ea9f8454007c9d167e171432ba95cbb0720bb5181fe99e,0:1,2018/19,17:00,9300
+434,Europa League Qualifikation,Do. 26.07.2018,2.Runde Hinspiele,Michael Horvath,4-4-2 doppel 6,503,FC Admira Wacker Mödling,,,208,ZSKA Sofia,95390c9fd9a87d140b51fabf152aea464f5061dd8d6014d04343f4839a7225a6,3:0,2018/19,19:00,8000
+435,Europa League Qualifikation,Do. 02.08.2018,2.Runde Rückspiele,,,208,ZSKA Sofia,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,4fa3c9964e16a24ef8918acac82d6a1fe6551196bbe605e68fc7392c8d5c3d0b,1:3,2018/19,19:00,2400
+436,Bundesliga,So. 29.07.2018,1,,,170,SK Rapid Wien,Ernst Baumeister,4-3-1-2,503,FC Admira Wacker Mödling,e92c29f64c838f1d46e62a2bace739d7b6b3cace464bbd995ae8623459237312,0:3,2018/19,17:00,5200
+437,Bundesliga,So. 05.08.2018,2,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,,,4467,TSV Hartberg,2f50180549f1b0239e9dad525df2f44f95a61fc272fa3b56fec389acc6c355ea,0:1,2018/19,17:00,3146
+438,Bundesliga,So. 12.08.2018,3,,,413,LASK,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,72549bb2cb2388b5548caefb6c03e0b2170b8f4c038655097853562de8827966,0:1,2018/19,17:00,1850
+439,Bundesliga,So. 19.08.2018,4,Ernst Baumeister,4-4-2 doppel 6,503,FC Admira Wacker Mödling,,,14,FK Austria Wien,8047fbc54b2fd842fedc5b16cd539becd0d8c6542162106c395e01c18955fdb6,4:0,2018/19,17:00,10055
+440,Bundesliga,So. 26.08.2018,5,,,856,SV Mattersburg,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,cd6a7f66012f656fa20b340a75acf1beda1a9198bdbe24339abbb7ca765f692b,0:0,2018/19,17:00,3400
+441,Bundesliga,So. 02.09.2018,6,Ernst Baumeister,4-1-4-1,503,FC Admira Wacker Mödling,,,409,Red Bull Salzburg,5f2e520f501d371a7046ec4d0789f3311315127ef3c80ebe6e00fb6653509aa0,3:1,2018/19,17:00,6489
+442,Bundesliga,Sa. 15.09.2018,7,,,122,SK Sturm Graz,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,38324fac6dbf8faadc2c8f292d1cdeba66eb2934924e454ffebdb986317f73b1,2:3,2018/19,17:00,2400
+443,Bundesliga,So. 23.09.2018,8,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,,,2444,FC Wacker Innsbruck,58fbdf6ecaafa80fb900e07836279e70287e40da91ff38840cf4f1e6bf26fdc8,1:3,2018/19,14:30,3620
+444,Bundesliga,Sa. 29.09.2018,9,,,3551,SC Rheindorf Altach,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,2d3e5ad5d8d9e05c9200e1e2267b1daa5f2fa1b0c0d037549ebd8531051008b1,2:4,2018/19,17:00,1600
+445,Bundesliga,Sa. 06.10.2018,10,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,,,2662,SKN St. Pölten,f8fb7bf0d68b77954edc540c5ea179c7fc9886ffcab0bc58156e8e8c9c520a7f,0:0,2018/19,17:00,3187
+446,Bundesliga,So. 21.10.2018,11,,,4441,Wolfsberger AC,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,fd5f90ef4864429f1d4f80d88f463838e756cde2c5056467c22338ff5c33ec8d,0:0,2018/19,14:30,1700
+447,Bundesliga,So. 28.10.2018,12,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,,,170,SK Rapid Wien,e935720fe3080069fcf9c26e3ccdfed9d8d1b2146c31ee7acc11dc88562ae1d5,2:0,2018/19,14:30,14600
+448,Bundesliga,Sa. 03.11.2018,13,,,4467,TSV Hartberg,Reiner Geyer,3-4-3 flach,503,FC Admira Wacker Mödling,96db2df9af0804b31070404122cecbaf4fdebbe3cb03e8e910e3dde2a77d0d15,2:3,2018/19,17:00,1900
+449,Bundesliga,Sa. 10.11.2018,14,Reiner Geyer,3-4-3 flach,503,FC Admira Wacker Mödling,,,413,LASK,216213b576098316a065531bd86652ebb66e90577f663485a319dafe65da1fcd,5:1,2018/19,17:00,4873
+450,Bundesliga,Sa. 24.11.2018,15,,,14,FK Austria Wien,Reiner Geyer,4-3-1-2,503,FC Admira Wacker Mödling,90bed415edfafdab883baf84721575e8102e81e6716c27112580bc678099f7d8,1:2,2018/19,17:00,2857
+451,Bundesliga,Sa. 01.12.2018,16,Reiner Geyer,3-5-2,503,FC Admira Wacker Mödling,,,856,SV Mattersburg,840d46c5fdb249ca2afbb2aa1f4607fc1296cf134d1af572b542f176993aadf0,2:2,2018/19,17:00,1550
+452,Bundesliga,Sa. 08.12.2018,17,,,409,Red Bull Salzburg,Reiner Geyer,5-3-2,503,FC Admira Wacker Mödling,297c8ecb78a5b13fb1142ddab50bc8a2d5d602be649acd03e46b31cdbea984dc,2:2,2018/19,17:00,1900
+453,Bundesliga,Sa. 15.12.2018,18,Reiner Geyer,5-4-1 flach,503,FC Admira Wacker Mödling,,,122,SK Sturm Graz,1e3f2456feb5decaa5ce834590aaa06694301a74e71107a5eb46c4666971c645,3:0,2018/19,17:00,7048
+454,Bundesliga,Sa. 23.02.2019,19,,,2444,FC Wacker Innsbruck,Reiner Geyer,3-4-1-2,503,FC Admira Wacker Mödling,337cf5dc8c5d9a2b24b6b91e2672bdf0938229a6f557b60f0d9cf245ad028524,3:0,2018/19,17:00,1957
+455,Bundesliga,Sa. 02.03.2019,20,Reiner Geyer,3-4-3 flach,503,FC Admira Wacker Mödling,,,3551,SC Rheindorf Altach,91c5bd3d08dc8448f30c45e3352ac327a66ea1800817d108d223651cd52f5a3e,0:1,2018/19,17:00,3618
+456,Bundesliga,So. 10.03.2019,21,,,2662,SKN St. Pölten,Reiner Geyer,?,503,FC Admira Wacker Mödling,e0e3df5d0be87d8d0c27f56ce34e5c2f1523cae686995db13d3f3780550b6b82,3:2,2018/19,17:00,2350
+457,Bundesliga,So. 17.03.2019,22,Reiner Geyer,?,503,FC Admira Wacker Mödling,,,4441,Wolfsberger AC,3310cbec57ae9cb9b385e6514e20313b7b99eafd413282684fbac409be9a57f6,2:2,2018/19,17:00,4488
+458,Bundesliga,Sa. 30.03.2019,23,Reiner Geyer,3-5-2,503,FC Admira Wacker Mödling,,,170,SK Rapid Wien,46812ab76ec26e5d51232f5482af65e7ea3cea717abd1b46c7c593bc674b2975,3:0,2018/19,17:00,11600
+459,Bundesliga,Sa. 06.04.2019,24,,,3551,SC Rheindorf Altach,Reiner Geyer,?,503,FC Admira Wacker Mödling,5120ed71f5df41f70364f934480a804aec41e633990770fc2c061b59916158f3,1:1,2018/19,17:00,1850
+460,Bundesliga,Sa. 13.04.2019,25,Reiner Geyer,?,503,FC Admira Wacker Mödling,,,2444,FC Wacker Innsbruck,e12ea865fa44a1d3f47f643b46fa956c3c9f81efa462fac3ac1f8a0b4846e090,1:3,2018/19,17:00,2363
+461,Bundesliga,Sa. 20.04.2019,26,,,4467,TSV Hartberg,Reiner Geyer,?,503,FC Admira Wacker Mödling,de8fbab18f799f85aad3fa6e4508b43170229a4af4e0a680ee61c87408744bf5,2:1,2018/19,17:00,1900
+462,Bundesliga,Di. 23.04.2019,27,,,856,SV Mattersburg,Reiner Geyer,?,503,FC Admira Wacker Mödling,bb7b02ac2cbcf0c9e30044033a61b1fcbb4a7259911428a51ad49451265bb18d,0:2,2018/19,19:00,1600
+463,Bundesliga,Sa. 27.04.2019,28,Reiner Geyer,?,503,FC Admira Wacker Mödling,,,856,SV Mattersburg,bed2469db632aac37560fe2e326103b54cd1b62fcd1288a70198865c6fe47529,1:1,2018/19,17:00,1800
+464,Bundesliga,Sa. 04.05.2019,29,,,170,SK Rapid Wien,Reiner Geyer,?,503,FC Admira Wacker Mödling,fef1673a2388c7918b18c30cbbb6c37a974209530f73c722af87521a6e07e6fd,3:4,2018/19,17:00,3800
+465,Bundesliga,Sa. 11.05.2019,30,Reiner Geyer,?,503,FC Admira Wacker Mödling,,,3551,SC Rheindorf Altach,58f6bb1865ad33ac9a2760a68596e5f32e2e0b399e19ba2a30dfc6d5b1d97d9e,2:2,2018/19,17:00,3508
+466,Bundesliga,Sa. 18.05.2019,31,,,2444,FC Wacker Innsbruck,Reiner Geyer,3-5-2,503,FC Admira Wacker Mödling,4e3ca0a8bd89e2c671d8b835f6b8c230768db81fef246145df553b6d4e67b587,3:2,2018/19,17:00,3850
+467,Bundesliga,Sa. 25.05.2019,32,Reiner Geyer,4-3-3 defensiv,503,FC Admira Wacker Mödling,,,4467,TSV Hartberg,88c8e4e9126d2ea1fa47d9763aca00f66a1132aeebd7fa74659972fa1a06368c,3:1,2018/19,17:00,3873
+468,ÖFB-Cup,Fr. 20.07.2018,1.Runde,Ernst Baumeister,4-5-1,503,FC Admira Wacker Mödling,,,9114,SC Neusiedl/See,d97a92f564e7dffff4add58ab4988ec38b839c4048b46a98b44a2c8b94645c89,1:0,2018/19,19:00,800
