@@ -1,0 +1,297 @@
+,competition,date,gameday,guest_coach,guest_game_system,guest_team_id,guest_team_name,home_coach,home_game_system,home_team_id,home_team_name,identifier,result,saison,time,viewers
+0,UEFA Champions League-Qualifikation,Mi. 07.08.2019,3.Runde Hinspiele,Valérien Ismaël,3-4-3 flach,413,LASK,,,26,FC Basel 1893,090fd19b5b696a68fc0a37294f0eb6be442a189c4ea3b22f14bb02542245b13a,1:2,2019/20,20:00,20470
+1,UEFA Champions League-Qualifikation,Di. 13.08.2019,3.Runde Rückspiele,,,26,FC Basel 1893,Valérien Ismaël,3-4-3 flach,413,LASK,61a29314c1f03bbc31f67e84ff679cf4dd5d6d72ae14d9b49283a9a80623de0c,3:1,2019/20,20:30,14000
+2,UEFA Champions League-Qualifikation,Di. 20.08.2019,Qualifikationsrunde - Hinspiele,,,2282,FC Brügge,,,413,LASK,fa118ca2c8e433414495b7514b87c7d671dca40feb47444ba9242e90286e61bc,-:-,2019/20,21:00,0
+3,UEFA Champions League-Qualifikation,Mi. 28.08.2019,Qualifikationsrunde - Rückspiele,,,413,LASK,,,2282,FC Brügge,f266fa0ac1906590f1f659cb521c2130358bb0e184fc32337b8a100d42ce9499,-:-,2019/20,-,0
+4,Bundesliga,So. 28.07.2019,1,,,3551,SC Rheindorf Altach,Valérien Ismaël,3-4-3 flach,413,LASK,b6bb3e2fe81cb2a977fbe7669384ce4cd4a0cdd6f2cc75ecdd9635fdbfe7775b,2:0,2019/20,17:00,5333
+5,Bundesliga,Sa. 03.08.2019,2,Valérien Ismaël,3-4-3 flach,413,LASK,,,14,FK Austria Wien,7140e0dd9bad11d478831fe7028661c282ecce27d968d9b800aae5f422e38f3f,0:3,2019/20,17:00,9350
+6,Bundesliga,Sa. 10.08.2019,3,Valérien Ismaël,3-4-3 flach,413,LASK,,,503,FC Admira Wacker Mödling,f9c39d5186f23fd9faf9f37de392664aec29ca9cc9e943196d8a5d19dd391ff7,0:1,2019/20,17:00,2037
+7,Bundesliga,Sa. 17.08.2019,4,,,2446,WSG Tirol,,,413,LASK,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+8,Bundesliga,Sa. 24.08.2019,5,,,413,LASK,,,170,SK Rapid Wien,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+9,Bundesliga,Sa. 31.08.2019,6,,,4441,Wolfsberger AC,,,413,LASK,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+10,Bundesliga,Sa. 14.09.2019,7,,,413,LASK,,,122,SK Sturm Graz,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+11,Bundesliga,Sa. 21.09.2019,8,,,409,Red Bull Salzburg,,,413,LASK,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+12,Bundesliga,Sa. 28.09.2019,9,,,413,LASK,,,2662,SKN St. Pölten,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+13,Bundesliga,Sa. 05.10.2019,10,,,413,LASK,,,4467,TSV Hartberg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+14,Bundesliga,Sa. 19.10.2019,11,,,856,SV Mattersburg,,,413,LASK,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+15,Bundesliga,Sa. 26.10.2019,12,,,413,LASK,,,3551,SC Rheindorf Altach,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+16,Bundesliga,Sa. 02.11.2019,13,,,14,FK Austria Wien,,,413,LASK,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+17,Bundesliga,Sa. 09.11.2019,14,,,503,FC Admira Wacker Mödling,,,413,LASK,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+18,Bundesliga,Sa. 23.11.2019,15,,,413,LASK,,,2446,WSG Tirol,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+19,Bundesliga,Sa. 30.11.2019,16,,,170,SK Rapid Wien,,,413,LASK,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+20,Bundesliga,Sa. 07.12.2019,17,,,413,LASK,,,4441,Wolfsberger AC,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+21,Bundesliga,Sa. 14.12.2019,18,,,122,SK Sturm Graz,,,413,LASK,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+22,Bundesliga,Sa. 15.02.2020,19,,,413,LASK,,,409,Red Bull Salzburg,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+23,Bundesliga,Sa. 22.02.2020,20,,,2662,SKN St. Pölten,,,413,LASK,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+24,Bundesliga,Sa. 29.02.2020,21,,,4467,TSV Hartberg,,,413,LASK,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+25,Bundesliga,Sa. 07.03.2020,22,,,413,LASK,,,856,SV Mattersburg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+26,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Valérien Ismaël,3-4-3 flach,413,LASK,,,771,Union Vöcklamarkt,5db4bfed0e1745572b8edaa8744605d0a365581b6e33946c6f0324889f5d073c,2:6,2019/20,19:00,2500
+27,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,413,LASK,,,18517,SC Wiener Viktoria,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+28,Bundesliga,Sa. 27.07.2019,1,,,14,FK Austria Wien,Thomas Silberberger,3-4-1-2,2446,WSG Tirol,1ba0672eb12341c737068e73b27d392c75e173dd4ac807efda072e9b507046db,3:1,2019/20,17:00,4600
+29,Bundesliga,Sa. 03.08.2019,2,Thomas Silberberger,3-4-3 flach,2446,WSG Tirol,,,3551,SC Rheindorf Altach,9f89d3f0f248db4f40691b02f3de2f6027249da73977d798bb496ad665e1bd6a,3:2,2019/20,17:00,4038
+30,Bundesliga,So. 11.08.2019,3,,,2662,SKN St. Pölten,Thomas Silberberger,3-4-1-2,2446,WSG Tirol,1c7ff0ad7504f50f25b955707c019cc63db64a2c76cfffcb9b881203b6f7e0df,1:1,2019/20,17:00,3050
+31,Bundesliga,Sa. 17.08.2019,4,,,2446,WSG Tirol,,,413,LASK,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+32,Bundesliga,So. 25.08.2019,5,,,2446,WSG Tirol,,,122,SK Sturm Graz,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+33,Bundesliga,Sa. 31.08.2019,6,,,409,Red Bull Salzburg,,,2446,WSG Tirol,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+34,Bundesliga,Sa. 14.09.2019,7,,,2446,WSG Tirol,,,856,SV Mattersburg,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+35,Bundesliga,Sa. 21.09.2019,8,,,170,SK Rapid Wien,,,2446,WSG Tirol,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+36,Bundesliga,Sa. 28.09.2019,9,,,2446,WSG Tirol,,,4441,Wolfsberger AC,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+37,Bundesliga,Sa. 05.10.2019,10,,,2446,WSG Tirol,,,503,FC Admira Wacker Mödling,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+38,Bundesliga,Sa. 19.10.2019,11,,,4467,TSV Hartberg,,,2446,WSG Tirol,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+39,Bundesliga,Sa. 26.10.2019,12,,,2446,WSG Tirol,,,14,FK Austria Wien,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+40,Bundesliga,Sa. 02.11.2019,13,,,3551,SC Rheindorf Altach,,,2446,WSG Tirol,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+41,Bundesliga,Sa. 09.11.2019,14,,,2446,WSG Tirol,,,2662,SKN St. Pölten,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+42,Bundesliga,Sa. 23.11.2019,15,,,413,LASK,,,2446,WSG Tirol,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+43,Bundesliga,Sa. 30.11.2019,16,,,122,SK Sturm Graz,,,2446,WSG Tirol,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+44,Bundesliga,Sa. 07.12.2019,17,,,2446,WSG Tirol,,,409,Red Bull Salzburg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+45,Bundesliga,Sa. 14.12.2019,18,,,856,SV Mattersburg,,,2446,WSG Tirol,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+46,Bundesliga,Sa. 15.02.2020,19,,,2446,WSG Tirol,,,170,SK Rapid Wien,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+47,Bundesliga,Sa. 22.02.2020,20,,,4441,Wolfsberger AC,,,2446,WSG Tirol,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+48,Bundesliga,Sa. 29.02.2020,21,,,503,FC Admira Wacker Mödling,,,2446,WSG Tirol,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+49,Bundesliga,Sa. 07.03.2020,22,,,2446,WSG Tirol,,,4467,TSV Hartberg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+50,ÖFB-Cup,Fr. 19.07.2019,1.Runde,Thomas Silberberger,?,2446,WSG Tirol,,,4444,SK Treibach,329c4e5c3ab738e9372f4a5b9a61b6dfb7185c0b4d27befe4be2f4e6f0230ba4,1:2,2019/20,18:30,900
+51,ÖFB-Cup,Mi. 25.09.2019,2.Runde,,,14,FK Austria Wien,,,2446,WSG Tirol,f8ec9874258e19d1111f461d5643afe0b48e147f6fdf57f1a798bee0101cc6d5,-:-,2019/20,18:30,0
+52,Bundesliga,So. 28.07.2019,1,Alex Pastoor,4-4-1-1,3551,SC Rheindorf Altach,,,413,LASK,b6bb3e2fe81cb2a977fbe7669384ce4cd4a0cdd6f2cc75ecdd9635fdbfe7775b,2:0,2019/20,17:00,5333
+53,Bundesliga,Sa. 03.08.2019,2,,,2446,WSG Tirol,Alex Pastoor,4-4-2 doppel 6,3551,SC Rheindorf Altach,9f89d3f0f248db4f40691b02f3de2f6027249da73977d798bb496ad665e1bd6a,3:2,2019/20,17:00,4038
+54,Bundesliga,Sa. 10.08.2019,3,Alex Pastoor,4-4-1-1,3551,SC Rheindorf Altach,,,170,SK Rapid Wien,5279a3e6c023c67b36ffb21d02b927be902d3695573eea3f1820cccc7b4fe3ec,2:1,2019/20,17:00,12800
+55,Bundesliga,So. 18.08.2019,4,,,4467,TSV Hartberg,,,3551,SC Rheindorf Altach,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+56,Bundesliga,Sa. 24.08.2019,5,,,3551,SC Rheindorf Altach,,,4441,Wolfsberger AC,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+57,Bundesliga,So. 01.09.2019,6,,,122,SK Sturm Graz,,,3551,SC Rheindorf Altach,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+58,Bundesliga,Sa. 14.09.2019,7,,,2662,SKN St. Pölten,,,3551,SC Rheindorf Altach,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+59,Bundesliga,Sa. 21.09.2019,8,,,3551,SC Rheindorf Altach,,,14,FK Austria Wien,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+60,Bundesliga,Sa. 28.09.2019,9,,,856,SV Mattersburg,,,3551,SC Rheindorf Altach,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+61,Bundesliga,Sa. 05.10.2019,10,,,3551,SC Rheindorf Altach,,,409,Red Bull Salzburg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+62,Bundesliga,Sa. 19.10.2019,11,,,503,FC Admira Wacker Mödling,,,3551,SC Rheindorf Altach,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+63,Bundesliga,Sa. 26.10.2019,12,,,413,LASK,,,3551,SC Rheindorf Altach,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+64,Bundesliga,Sa. 02.11.2019,13,,,3551,SC Rheindorf Altach,,,2446,WSG Tirol,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+65,Bundesliga,Sa. 09.11.2019,14,,,170,SK Rapid Wien,,,3551,SC Rheindorf Altach,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+66,Bundesliga,Sa. 23.11.2019,15,,,3551,SC Rheindorf Altach,,,4467,TSV Hartberg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+67,Bundesliga,Sa. 30.11.2019,16,,,4441,Wolfsberger AC,,,3551,SC Rheindorf Altach,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+68,Bundesliga,Sa. 07.12.2019,17,,,3551,SC Rheindorf Altach,,,122,SK Sturm Graz,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+69,Bundesliga,Sa. 14.12.2019,18,,,3551,SC Rheindorf Altach,,,2662,SKN St. Pölten,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+70,Bundesliga,Sa. 15.02.2020,19,,,14,FK Austria Wien,,,3551,SC Rheindorf Altach,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+71,Bundesliga,Sa. 22.02.2020,20,,,3551,SC Rheindorf Altach,,,856,SV Mattersburg,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+72,Bundesliga,Sa. 29.02.2020,21,,,409,Red Bull Salzburg,,,3551,SC Rheindorf Altach,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+73,Bundesliga,Sa. 07.03.2020,22,,,3551,SC Rheindorf Altach,,,503,FC Admira Wacker Mödling,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+74,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Alex Pastoor,?,3551,SC Rheindorf Altach,,,2235,FC Kufstein,c57840f1bb512c1805d965724e49e327cfcd6028865de92c1ecedfef62a4cc6e,1:6,2019/20,18:30,450
+75,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,3551,SC Rheindorf Altach,,,23158,WSC Hertha Wels,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+76,DFB-Pokal,Sa. 10.08.2019,1.Runde,Alfred Schreuder,3-4-1-2,533,TSG 1899 Hoffenheim,,,1557,Würzburger Kickers,172e9256d7fc872af69a3a42369fcd6ced39f717a0b15b1d5332019ac64f88bf,7:8  n.E.,2019/20,18:30,13090
+77,Europa League Qualifikation,Do. 08.08.2019,3.Runde Hinspiele,,,429,Apollon Limassol,Christian Ilzer,4-4-2 Raute,14,FK Austria Wien,cb17df6261b5b28c97569f07c0e5253a69d5dc29dc9ee302c588f94dd3e86667,1:2,2019/20,20:30,0
+78,Europa League Qualifikation,Do. 15.08.2019,3.Runde Rückspiele,Christian Ilzer,3-4-3,14,FK Austria Wien,,,429,Apollon Limassol,ef3406c14a6828fd327c2b4b959ca412f107b42d4a472db32ab99c41da8d4a1c,3:1,2019/20,19:00,4000
+79,Bundesliga,Sa. 27.07.2019,1,Christian Ilzer,4-3-1-2,14,FK Austria Wien,,,2446,WSG Tirol,1ba0672eb12341c737068e73b27d392c75e173dd4ac807efda072e9b507046db,3:1,2019/20,17:00,4600
+80,Bundesliga,Sa. 03.08.2019,2,,,413,LASK,Christian Ilzer,4-3-1-2,14,FK Austria Wien,7140e0dd9bad11d478831fe7028661c282ecce27d968d9b800aae5f422e38f3f,0:3,2019/20,17:00,9350
+81,Bundesliga,So. 11.08.2019,3,Christian Ilzer,4-3-3 offensiv,14,FK Austria Wien,,,856,SV Mattersburg,f086406e28bb0d4c8c9819e2f29cd613533b40bf577b8291d4e16b73a6862f8f,1:5,2019/20,17:00,4100
+82,Bundesliga,So. 18.08.2019,4,,,503,FC Admira Wacker Mödling,,,14,FK Austria Wien,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+83,Bundesliga,So. 25.08.2019,5,,,14,FK Austria Wien,,,4467,TSV Hartberg,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+84,Bundesliga,So. 01.09.2019,6,,,170,SK Rapid Wien,,,14,FK Austria Wien,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+85,Bundesliga,Sa. 14.09.2019,7,,,14,FK Austria Wien,,,4441,Wolfsberger AC,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+86,Bundesliga,Sa. 21.09.2019,8,,,3551,SC Rheindorf Altach,,,14,FK Austria Wien,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+87,Bundesliga,Sa. 28.09.2019,9,,,14,FK Austria Wien,,,409,Red Bull Salzburg,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+88,Bundesliga,Sa. 05.10.2019,10,,,122,SK Sturm Graz,,,14,FK Austria Wien,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+89,Bundesliga,Sa. 19.10.2019,11,,,14,FK Austria Wien,,,2662,SKN St. Pölten,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+90,Bundesliga,Sa. 26.10.2019,12,,,2446,WSG Tirol,,,14,FK Austria Wien,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+91,Bundesliga,Sa. 02.11.2019,13,,,14,FK Austria Wien,,,413,LASK,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+92,Bundesliga,Sa. 09.11.2019,14,,,856,SV Mattersburg,,,14,FK Austria Wien,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+93,Bundesliga,Sa. 23.11.2019,15,,,14,FK Austria Wien,,,503,FC Admira Wacker Mödling,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+94,Bundesliga,Sa. 30.11.2019,16,,,4467,TSV Hartberg,,,14,FK Austria Wien,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+95,Bundesliga,Sa. 07.12.2019,17,,,14,FK Austria Wien,,,170,SK Rapid Wien,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+96,Bundesliga,Sa. 14.12.2019,18,,,4441,Wolfsberger AC,,,14,FK Austria Wien,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+97,Bundesliga,Sa. 15.02.2020,19,,,14,FK Austria Wien,,,3551,SC Rheindorf Altach,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+98,Bundesliga,Sa. 22.02.2020,20,,,409,Red Bull Salzburg,,,14,FK Austria Wien,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+99,Bundesliga,Sa. 29.02.2020,21,,,14,FK Austria Wien,,,122,SK Sturm Graz,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+100,Bundesliga,Sa. 07.03.2020,22,,,2662,SKN St. Pölten,,,14,FK Austria Wien,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+101,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Christian Ilzer,4-4-2 Raute,14,FK Austria Wien,,,18572,ASKÖ Köttmannsdorf,10e85ed234406f8f4980b43a62f6a43bcdcd7cdaf2278bb1167755ba4710adfa,0:9,2019/20,17:30,1540
+102,ÖFB-Cup,Mi. 25.09.2019,2.Runde,,,14,FK Austria Wien,,,2446,WSG Tirol,f8ec9874258e19d1111f461d5643afe0b48e147f6fdf57f1a798bee0101cc6d5,-:-,2019/20,18:30,0
+103,Bundesliga,Sa. 27.07.2019,1,,,4441,Wolfsberger AC,Reiner Geyer,3-5-2 flach,503,FC Admira Wacker Mödling,55dff0c682dbb47d46a135ee2553622ae712138eb01ab853c703f9c0ac4ef0d9,0:3,2019/20,17:00,1900
+104,Bundesliga,Sa. 03.08.2019,2,Reiner Geyer,3-4-1-2,503,FC Admira Wacker Mödling,,,4467,TSV Hartberg,9064e4c16c29f9bc65fc7080790b6959b719a1e12bd9bdb8a15608046fc3f100,4:1,2019/20,17:00,2624
+105,Bundesliga,Sa. 10.08.2019,3,,,413,LASK,Reiner Geyer,3-4-1-2,503,FC Admira Wacker Mödling,f9c39d5186f23fd9faf9f37de392664aec29ca9cc9e943196d8a5d19dd391ff7,0:1,2019/20,17:00,2037
+106,Bundesliga,So. 18.08.2019,4,,,503,FC Admira Wacker Mödling,,,14,FK Austria Wien,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+107,Bundesliga,So. 25.08.2019,5,,,503,FC Admira Wacker Mödling,,,409,Red Bull Salzburg,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+108,Bundesliga,Sa. 31.08.2019,6,,,856,SV Mattersburg,,,503,FC Admira Wacker Mödling,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+109,Bundesliga,Sa. 14.09.2019,7,,,503,FC Admira Wacker Mödling,,,170,SK Rapid Wien,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+110,Bundesliga,Sa. 21.09.2019,8,,,2662,SKN St. Pölten,,,503,FC Admira Wacker Mödling,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+111,Bundesliga,Sa. 28.09.2019,9,,,503,FC Admira Wacker Mödling,,,122,SK Sturm Graz,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+112,Bundesliga,Sa. 05.10.2019,10,,,2446,WSG Tirol,,,503,FC Admira Wacker Mödling,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+113,Bundesliga,Sa. 19.10.2019,11,,,503,FC Admira Wacker Mödling,,,3551,SC Rheindorf Altach,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+114,Bundesliga,Sa. 26.10.2019,12,,,503,FC Admira Wacker Mödling,,,4441,Wolfsberger AC,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+115,Bundesliga,Sa. 02.11.2019,13,,,4467,TSV Hartberg,,,503,FC Admira Wacker Mödling,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+116,Bundesliga,Sa. 09.11.2019,14,,,503,FC Admira Wacker Mödling,,,413,LASK,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+117,Bundesliga,Sa. 23.11.2019,15,,,14,FK Austria Wien,,,503,FC Admira Wacker Mödling,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+118,Bundesliga,Sa. 30.11.2019,16,,,409,Red Bull Salzburg,,,503,FC Admira Wacker Mödling,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+119,Bundesliga,Sa. 07.12.2019,17,,,503,FC Admira Wacker Mödling,,,856,SV Mattersburg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+120,Bundesliga,Sa. 14.12.2019,18,,,170,SK Rapid Wien,,,503,FC Admira Wacker Mödling,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+121,Bundesliga,Sa. 15.02.2020,19,,,503,FC Admira Wacker Mödling,,,2662,SKN St. Pölten,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+122,Bundesliga,Sa. 22.02.2020,20,,,122,SK Sturm Graz,,,503,FC Admira Wacker Mödling,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+123,Bundesliga,Sa. 29.02.2020,21,,,503,FC Admira Wacker Mödling,,,2446,WSG Tirol,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+124,Bundesliga,Sa. 07.03.2020,22,,,3551,SC Rheindorf Altach,,,503,FC Admira Wacker Mödling,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+125,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Reiner Geyer,?,503,FC Admira Wacker Mödling,,,20447,Union Edelweiß Linz,2a98aedb6d21be2ecac3b2803502522a07100817f4ffec8d2feedab3e3c8277b,0:5,2019/20,19:00,600
+126,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,503,FC Admira Wacker Mödling,,,18519,ASK Ebreichsdorf,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+127,Bundesliga,Fr. 26.07.2019,1,Jesse Marsch,4-4-2 doppel 6,409,Red Bull Salzburg,,,170,SK Rapid Wien,f0c2f6f0c49f58ee44a20c05eb717795c908b2e1cb9b78c7cc709d4306e2bdc8,0:2,2019/20,20:45,24200
+128,Bundesliga,So. 04.08.2019,2,,,856,SV Mattersburg,Jesse Marsch,4-4-2 doppel 6,409,Red Bull Salzburg,31669d989fd03cd676f1363c7d20332efaae8863b383f42d0e5886618d74ff4a,4:1,2019/20,17:00,8938
+129,Bundesliga,Sa. 10.08.2019,3,,,4441,Wolfsberger AC,Jesse Marsch,4-4-2 doppel 6,409,Red Bull Salzburg,f3779cc496444ae6c78a4041ec5e831ff8265e7c71220aa76ac8476db60743fe,5:2,2019/20,17:00,8874
+130,Bundesliga,Sa. 17.08.2019,4,,,409,Red Bull Salzburg,,,2662,SKN St. Pölten,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+131,Bundesliga,So. 25.08.2019,5,,,503,FC Admira Wacker Mödling,,,409,Red Bull Salzburg,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+132,Bundesliga,Sa. 31.08.2019,6,,,409,Red Bull Salzburg,,,2446,WSG Tirol,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+133,Bundesliga,Sa. 14.09.2019,7,,,4467,TSV Hartberg,,,409,Red Bull Salzburg,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+134,Bundesliga,Sa. 21.09.2019,8,,,409,Red Bull Salzburg,,,413,LASK,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+135,Bundesliga,Sa. 28.09.2019,9,,,14,FK Austria Wien,,,409,Red Bull Salzburg,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+136,Bundesliga,Sa. 05.10.2019,10,,,3551,SC Rheindorf Altach,,,409,Red Bull Salzburg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+137,Bundesliga,Sa. 19.10.2019,11,,,409,Red Bull Salzburg,,,122,SK Sturm Graz,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+138,Bundesliga,Sa. 26.10.2019,12,,,170,SK Rapid Wien,,,409,Red Bull Salzburg,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+139,Bundesliga,Sa. 02.11.2019,13,,,409,Red Bull Salzburg,,,856,SV Mattersburg,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+140,Bundesliga,Sa. 09.11.2019,14,,,409,Red Bull Salzburg,,,4441,Wolfsberger AC,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+141,Bundesliga,Sa. 23.11.2019,15,,,2662,SKN St. Pölten,,,409,Red Bull Salzburg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+142,Bundesliga,Sa. 30.11.2019,16,,,409,Red Bull Salzburg,,,503,FC Admira Wacker Mödling,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+143,Bundesliga,Sa. 07.12.2019,17,,,2446,WSG Tirol,,,409,Red Bull Salzburg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+144,Bundesliga,Sa. 14.12.2019,18,,,409,Red Bull Salzburg,,,4467,TSV Hartberg,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+145,Bundesliga,Sa. 15.02.2020,19,,,413,LASK,,,409,Red Bull Salzburg,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+146,Bundesliga,Sa. 22.02.2020,20,,,409,Red Bull Salzburg,,,14,FK Austria Wien,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+147,Bundesliga,Sa. 29.02.2020,21,,,409,Red Bull Salzburg,,,3551,SC Rheindorf Altach,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+148,Bundesliga,Sa. 07.03.2020,22,,,122,SK Sturm Graz,,,409,Red Bull Salzburg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+149,ÖFB-Cup,Fr. 19.07.2019,1.Runde,Jesse Marsch,4-4-2 doppel 6,409,Red Bull Salzburg,,,4320,SC/ESV Parndorf,85abf32a1e3fbae6a3d73fe550db157bd82e32ec53815d4456af5a9e18819c0a,1:7,2019/20,20:30,1500
+150,ÖFB-Cup,Mi. 25.09.2019,2.Runde,,,409,Red Bull Salzburg,,,170,SK Rapid Wien,da5a424a25775d57cf1f178a0ab807e7d4ddcad34da675d227511780f6b95567,-:-,2019/20,20:45,0
+151,Bundesliga,So. 28.07.2019,1,Alexander Schmidt,4-3-1-2,2662,SKN St. Pölten,,,122,SK Sturm Graz,cfc2bc9686a461e4cd2cea25fd379d4f6937742e24e6f1e1c6fd7a380b850251,3:0,2019/20,17:00,7194
+152,Bundesliga,So. 04.08.2019,2,,,170,SK Rapid Wien,Alexander Schmidt,5-3-2,2662,SKN St. Pölten,00ceda1eb1ab13782b4e1f81387a62724a67ddee5a4a1094d7dc30ccbac0605b,2:2,2019/20,17:00,7582
+153,Bundesliga,So. 11.08.2019,3,Alexander Schmidt,3-4-1-2,2662,SKN St. Pölten,,,2446,WSG Tirol,1c7ff0ad7504f50f25b955707c019cc63db64a2c76cfffcb9b881203b6f7e0df,1:1,2019/20,17:00,3050
+154,Bundesliga,Sa. 17.08.2019,4,,,409,Red Bull Salzburg,,,2662,SKN St. Pölten,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+155,Bundesliga,Sa. 24.08.2019,5,,,2662,SKN St. Pölten,,,856,SV Mattersburg,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+156,Bundesliga,So. 01.09.2019,6,,,4467,TSV Hartberg,,,2662,SKN St. Pölten,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+157,Bundesliga,Sa. 14.09.2019,7,,,2662,SKN St. Pölten,,,3551,SC Rheindorf Altach,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+158,Bundesliga,Sa. 21.09.2019,8,,,2662,SKN St. Pölten,,,503,FC Admira Wacker Mödling,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+159,Bundesliga,Sa. 28.09.2019,9,,,413,LASK,,,2662,SKN St. Pölten,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+160,Bundesliga,Sa. 05.10.2019,10,,,2662,SKN St. Pölten,,,4441,Wolfsberger AC,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+161,Bundesliga,Sa. 19.10.2019,11,,,14,FK Austria Wien,,,2662,SKN St. Pölten,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+162,Bundesliga,Sa. 26.10.2019,12,,,122,SK Sturm Graz,,,2662,SKN St. Pölten,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+163,Bundesliga,Sa. 02.11.2019,13,,,2662,SKN St. Pölten,,,170,SK Rapid Wien,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+164,Bundesliga,Sa. 09.11.2019,14,,,2446,WSG Tirol,,,2662,SKN St. Pölten,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+165,Bundesliga,Sa. 23.11.2019,15,,,2662,SKN St. Pölten,,,409,Red Bull Salzburg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+166,Bundesliga,Sa. 30.11.2019,16,,,856,SV Mattersburg,,,2662,SKN St. Pölten,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+167,Bundesliga,Sa. 07.12.2019,17,,,2662,SKN St. Pölten,,,4467,TSV Hartberg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+168,Bundesliga,Sa. 14.12.2019,18,,,3551,SC Rheindorf Altach,,,2662,SKN St. Pölten,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+169,Bundesliga,Sa. 15.02.2020,19,,,503,FC Admira Wacker Mödling,,,2662,SKN St. Pölten,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+170,Bundesliga,Sa. 22.02.2020,20,,,2662,SKN St. Pölten,,,413,LASK,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+171,Bundesliga,Sa. 29.02.2020,21,,,4441,Wolfsberger AC,,,2662,SKN St. Pölten,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+172,Bundesliga,Sa. 07.03.2020,22,,,2662,SKN St. Pölten,,,14,FK Austria Wien,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+173,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Alexander Schmidt,?,2662,SKN St. Pölten,,,22136,SV Gloggnitz,de3c6c17543d6a70736320e08a8fe0e5aa21ae1752fbb4b23a8b405b9262ebd9,1:2,2019/20,17:30,1030
+174,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,856,SV Mattersburg,,,2662,SKN St. Pölten,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+175,Bundesliga,So. 28.07.2019,1,Markus Schopp,4-3-2-1,4467,TSV Hartberg,,,856,SV Mattersburg,c115bf01d452bf7ac5242cadf8ea651784091ab501e02779ef1949c581cecb1e,2:1,2019/20,17:00,2850
+176,Bundesliga,Sa. 03.08.2019,2,,,503,FC Admira Wacker Mödling,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,9064e4c16c29f9bc65fc7080790b6959b719a1e12bd9bdb8a15608046fc3f100,4:1,2019/20,17:00,2624
+177,Bundesliga,So. 11.08.2019,3,,,122,SK Sturm Graz,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,753317a0324aff1262ba7a6c3446e629b7e90bc2b6a508ea3640a8a34a236003,1:0,2019/20,17:00,5024
+178,Bundesliga,So. 18.08.2019,4,,,4467,TSV Hartberg,,,3551,SC Rheindorf Altach,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+179,Bundesliga,So. 25.08.2019,5,,,14,FK Austria Wien,,,4467,TSV Hartberg,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+180,Bundesliga,So. 01.09.2019,6,,,4467,TSV Hartberg,,,2662,SKN St. Pölten,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+181,Bundesliga,Sa. 14.09.2019,7,,,4467,TSV Hartberg,,,409,Red Bull Salzburg,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+182,Bundesliga,Sa. 21.09.2019,8,,,4441,Wolfsberger AC,,,4467,TSV Hartberg,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+183,Bundesliga,Sa. 28.09.2019,9,,,4467,TSV Hartberg,,,170,SK Rapid Wien,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+184,Bundesliga,Sa. 05.10.2019,10,,,413,LASK,,,4467,TSV Hartberg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+185,Bundesliga,Sa. 19.10.2019,11,,,4467,TSV Hartberg,,,2446,WSG Tirol,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+186,Bundesliga,Sa. 26.10.2019,12,,,856,SV Mattersburg,,,4467,TSV Hartberg,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+187,Bundesliga,Sa. 02.11.2019,13,,,4467,TSV Hartberg,,,503,FC Admira Wacker Mödling,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+188,Bundesliga,Sa. 09.11.2019,14,,,4467,TSV Hartberg,,,122,SK Sturm Graz,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+189,Bundesliga,Sa. 23.11.2019,15,,,3551,SC Rheindorf Altach,,,4467,TSV Hartberg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+190,Bundesliga,Sa. 30.11.2019,16,,,4467,TSV Hartberg,,,14,FK Austria Wien,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+191,Bundesliga,Sa. 07.12.2019,17,,,2662,SKN St. Pölten,,,4467,TSV Hartberg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+192,Bundesliga,Sa. 14.12.2019,18,,,409,Red Bull Salzburg,,,4467,TSV Hartberg,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+193,Bundesliga,Sa. 15.02.2020,19,,,4467,TSV Hartberg,,,4441,Wolfsberger AC,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+194,Bundesliga,Sa. 22.02.2020,20,,,170,SK Rapid Wien,,,4467,TSV Hartberg,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+195,Bundesliga,Sa. 29.02.2020,21,,,4467,TSV Hartberg,,,413,LASK,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+196,Bundesliga,Sa. 07.03.2020,22,,,2446,WSG Tirol,,,4467,TSV Hartberg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+197,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Markus Schopp,4-2-3-1 ,4467,TSV Hartberg,,,18517,SC Wiener Viktoria,6476a553ed4a52e8c3b1ac99b74771d628c0c520c1b900b637a9681cde748b2e,7:5  n.E.,2019/20,17:30,500
+198,Bundesliga,Sa. 27.07.2019,1,Gerhard Struber,4-3-1-2,4441,Wolfsberger AC,,,503,FC Admira Wacker Mödling,55dff0c682dbb47d46a135ee2553622ae712138eb01ab853c703f9c0ac4ef0d9,0:3,2019/20,17:00,1900
+199,Bundesliga,So. 04.08.2019,2,,,122,SK Sturm Graz,Gerhard Struber,4-3-1-2,4441,Wolfsberger AC,52e758a2f991477c4045b14b5e77a271cd45ffe559566eab476d4138ba1878de,0:1,2019/20,17:00,7231
+200,Bundesliga,Sa. 10.08.2019,3,Gerhard Struber,4-3-1-2,4441,Wolfsberger AC,,,409,Red Bull Salzburg,f3779cc496444ae6c78a4041ec5e831ff8265e7c71220aa76ac8476db60743fe,5:2,2019/20,17:00,8874
+201,Bundesliga,Sa. 17.08.2019,4,,,856,SV Mattersburg,,,4441,Wolfsberger AC,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+202,Bundesliga,Sa. 24.08.2019,5,,,3551,SC Rheindorf Altach,,,4441,Wolfsberger AC,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+203,Bundesliga,Sa. 31.08.2019,6,,,4441,Wolfsberger AC,,,413,LASK,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+204,Bundesliga,Sa. 14.09.2019,7,,,14,FK Austria Wien,,,4441,Wolfsberger AC,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+205,Bundesliga,Sa. 21.09.2019,8,,,4441,Wolfsberger AC,,,4467,TSV Hartberg,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+206,Bundesliga,Sa. 28.09.2019,9,,,2446,WSG Tirol,,,4441,Wolfsberger AC,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+207,Bundesliga,Sa. 05.10.2019,10,,,2662,SKN St. Pölten,,,4441,Wolfsberger AC,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+208,Bundesliga,Sa. 19.10.2019,11,,,4441,Wolfsberger AC,,,170,SK Rapid Wien,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+209,Bundesliga,Sa. 26.10.2019,12,,,503,FC Admira Wacker Mödling,,,4441,Wolfsberger AC,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+210,Bundesliga,Sa. 02.11.2019,13,,,4441,Wolfsberger AC,,,122,SK Sturm Graz,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+211,Bundesliga,Sa. 09.11.2019,14,,,409,Red Bull Salzburg,,,4441,Wolfsberger AC,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+212,Bundesliga,Sa. 23.11.2019,15,,,4441,Wolfsberger AC,,,856,SV Mattersburg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+213,Bundesliga,Sa. 30.11.2019,16,,,4441,Wolfsberger AC,,,3551,SC Rheindorf Altach,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+214,Bundesliga,Sa. 07.12.2019,17,,,413,LASK,,,4441,Wolfsberger AC,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+215,Bundesliga,Sa. 14.12.2019,18,,,4441,Wolfsberger AC,,,14,FK Austria Wien,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+216,Bundesliga,Sa. 15.02.2020,19,,,4467,TSV Hartberg,,,4441,Wolfsberger AC,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+217,Bundesliga,Sa. 22.02.2020,20,,,4441,Wolfsberger AC,,,2446,WSG Tirol,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+218,Bundesliga,Sa. 29.02.2020,21,,,4441,Wolfsberger AC,,,2662,SKN St. Pölten,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+219,Bundesliga,Sa. 07.03.2020,22,,,170,SK Rapid Wien,,,4441,Wolfsberger AC,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+220,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Gerhard Struber,4-4-2,4441,Wolfsberger AC,,,4429,SAK Klagenfurt,6581b764a0d47ebc2ca3fbdc6c959afa7a53eb609db11965c0c03e05465e74ab,0:9,2019/20,18:30,700
+221,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,4441,Wolfsberger AC,,,18140,ATSV Wolfsberg,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+222,Bundesliga,So. 28.07.2019,1,,,4467,TSV Hartberg,Franz Ponweiser,4-4-2 Raute,856,SV Mattersburg,c115bf01d452bf7ac5242cadf8ea651784091ab501e02779ef1949c581cecb1e,2:1,2019/20,17:00,2850
+223,Bundesliga,So. 04.08.2019,2,Franz Ponweiser,4-3-3 offensiv,856,SV Mattersburg,,,409,Red Bull Salzburg,31669d989fd03cd676f1363c7d20332efaae8863b383f42d0e5886618d74ff4a,4:1,2019/20,17:00,8938
+224,Bundesliga,So. 11.08.2019,3,,,14,FK Austria Wien,Franz Ponweiser,4-3-1-2,856,SV Mattersburg,f086406e28bb0d4c8c9819e2f29cd613533b40bf577b8291d4e16b73a6862f8f,1:5,2019/20,17:00,4100
+225,Bundesliga,Sa. 17.08.2019,4,,,856,SV Mattersburg,,,4441,Wolfsberger AC,498294d9cd2d76d70e80f824df3407b5cf76dfc84535766a5c571e2faaed2ea5,-:-,2019/20,17:00,0
+226,Bundesliga,Sa. 24.08.2019,5,,,2662,SKN St. Pölten,,,856,SV Mattersburg,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+227,Bundesliga,Sa. 31.08.2019,6,,,856,SV Mattersburg,,,503,FC Admira Wacker Mödling,8b8335b1f6ea664a6913f6379931daff3fadbe7c8bd6bbe2c85b7bf9857e42ef,-:-,2019/20,17:00,0
+228,Bundesliga,Sa. 14.09.2019,7,,,2446,WSG Tirol,,,856,SV Mattersburg,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+229,Bundesliga,Sa. 21.09.2019,8,,,122,SK Sturm Graz,,,856,SV Mattersburg,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+230,Bundesliga,Sa. 28.09.2019,9,,,856,SV Mattersburg,,,3551,SC Rheindorf Altach,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+231,Bundesliga,Sa. 05.10.2019,10,,,170,SK Rapid Wien,,,856,SV Mattersburg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+232,Bundesliga,Sa. 19.10.2019,11,,,856,SV Mattersburg,,,413,LASK,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+233,Bundesliga,Sa. 26.10.2019,12,,,856,SV Mattersburg,,,4467,TSV Hartberg,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+234,Bundesliga,Sa. 02.11.2019,13,,,409,Red Bull Salzburg,,,856,SV Mattersburg,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+235,Bundesliga,Sa. 09.11.2019,14,,,856,SV Mattersburg,,,14,FK Austria Wien,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+236,Bundesliga,Sa. 23.11.2019,15,,,4441,Wolfsberger AC,,,856,SV Mattersburg,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+237,Bundesliga,Sa. 30.11.2019,16,,,856,SV Mattersburg,,,2662,SKN St. Pölten,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+238,Bundesliga,Sa. 07.12.2019,17,,,503,FC Admira Wacker Mödling,,,856,SV Mattersburg,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+239,Bundesliga,Sa. 14.12.2019,18,,,856,SV Mattersburg,,,2446,WSG Tirol,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+240,Bundesliga,Sa. 15.02.2020,19,,,856,SV Mattersburg,,,122,SK Sturm Graz,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+241,Bundesliga,Sa. 22.02.2020,20,,,3551,SC Rheindorf Altach,,,856,SV Mattersburg,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+242,Bundesliga,Sa. 29.02.2020,21,,,856,SV Mattersburg,,,170,SK Rapid Wien,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+243,Bundesliga,Sa. 07.03.2020,22,,,413,LASK,,,856,SV Mattersburg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+244,ÖFB-Cup,Sa. 20.07.2019,1.Runde,Franz Ponweiser,3-5-2,856,SV Mattersburg,,,16802,SC Pinkafeld,0fd10beeb67e945d23ef51c47a619920477b7fff6480f0155fa200ba4c88a97e,0:10,2019/20,17:30,650
+245,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,856,SV Mattersburg,,,2662,SKN St. Pölten,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+246,Europa League Qualifikation,Do. 25.07.2019,2.Runde Hinspiele,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,,,2761,FK Haugesund,54ba29c0b9d66380e5ccef5afb0670259f2cc92fddec9a72c8dc95ddba7fe582,2:0,2019/20,19:00,3501
+247,Europa League Qualifikation,Do. 01.08.2019,2.Runde Rückspiele,,,2761,FK Haugesund,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,6982819259a8dae7b3e4eb306bdf21c9dddf4bdb4ed27a6a536ba4a4173243f8,2:1,2019/20,20:30,3200
+248,Bundesliga,So. 28.07.2019,1,,,2662,SKN St. Pölten,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,cfc2bc9686a461e4cd2cea25fd379d4f6937742e24e6f1e1c6fd7a380b850251,3:0,2019/20,17:00,7194
+249,Bundesliga,So. 04.08.2019,2,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,,,4441,Wolfsberger AC,52e758a2f991477c4045b14b5e77a271cd45ffe559566eab476d4138ba1878de,0:1,2019/20,17:00,7231
+250,Bundesliga,So. 11.08.2019,3,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,,,4467,TSV Hartberg,753317a0324aff1262ba7a6c3446e629b7e90bc2b6a508ea3640a8a34a236003,1:0,2019/20,17:00,5024
+251,Bundesliga,So. 18.08.2019,4,,,170,SK Rapid Wien,,,122,SK Sturm Graz,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+252,Bundesliga,So. 25.08.2019,5,,,2446,WSG Tirol,,,122,SK Sturm Graz,dd43bbd355a7ce9b163b1eef486a4ab1074b7c12329815c2888960cd90073965,-:-,2019/20,17:00,0
+253,Bundesliga,So. 01.09.2019,6,,,122,SK Sturm Graz,,,3551,SC Rheindorf Altach,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+254,Bundesliga,Sa. 14.09.2019,7,,,413,LASK,,,122,SK Sturm Graz,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+255,Bundesliga,Sa. 21.09.2019,8,,,122,SK Sturm Graz,,,856,SV Mattersburg,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+256,Bundesliga,Sa. 28.09.2019,9,,,503,FC Admira Wacker Mödling,,,122,SK Sturm Graz,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+257,Bundesliga,Sa. 05.10.2019,10,,,122,SK Sturm Graz,,,14,FK Austria Wien,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+258,Bundesliga,Sa. 19.10.2019,11,,,409,Red Bull Salzburg,,,122,SK Sturm Graz,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+259,Bundesliga,Sa. 26.10.2019,12,,,122,SK Sturm Graz,,,2662,SKN St. Pölten,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+260,Bundesliga,Sa. 02.11.2019,13,,,4441,Wolfsberger AC,,,122,SK Sturm Graz,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+261,Bundesliga,Sa. 09.11.2019,14,,,4467,TSV Hartberg,,,122,SK Sturm Graz,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+262,Bundesliga,Sa. 23.11.2019,15,,,122,SK Sturm Graz,,,170,SK Rapid Wien,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+263,Bundesliga,Sa. 30.11.2019,16,,,122,SK Sturm Graz,,,2446,WSG Tirol,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+264,Bundesliga,Sa. 07.12.2019,17,,,3551,SC Rheindorf Altach,,,122,SK Sturm Graz,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+265,Bundesliga,Sa. 14.12.2019,18,,,122,SK Sturm Graz,,,413,LASK,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+266,Bundesliga,Sa. 15.02.2020,19,,,856,SV Mattersburg,,,122,SK Sturm Graz,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+267,Bundesliga,Sa. 22.02.2020,20,,,122,SK Sturm Graz,,,503,FC Admira Wacker Mödling,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+268,Bundesliga,Sa. 29.02.2020,21,,,14,FK Austria Wien,,,122,SK Sturm Graz,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+269,Bundesliga,Sa. 07.03.2020,22,,,122,SK Sturm Graz,,,409,Red Bull Salzburg,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+270,ÖFB-Cup,Fr. 19.07.2019,1.Runde,Nestor El Maestro,4-2-3-1 ,122,SK Sturm Graz,,,5469,USK Anif,612f48c8d71a55778b682a93ddebcd3fdc36cd88405bb985d248ca73863b518c,1:4,2019/20,17:30,850
+271,ÖFB-Cup,Di. 24.09.2019,2.Runde,,,122,SK Sturm Graz,,,28760,SK Austria Klagenfurt,4149159aae902ba7b0d007842b51e7a45d065da636f2d9a337ba2d7e8ab29ecf,-:-,2019/20,-,0
+272,Bundesliga,Fr. 26.07.2019,1,,,409,Red Bull Salzburg,Dietmar Kühbauer,3-5-2 flach,170,SK Rapid Wien,f0c2f6f0c49f58ee44a20c05eb717795c908b2e1cb9b78c7cc709d4306e2bdc8,0:2,2019/20,20:45,24200
+273,Bundesliga,So. 04.08.2019,2,Dietmar Kühbauer,3-5-2 flach,170,SK Rapid Wien,,,2662,SKN St. Pölten,00ceda1eb1ab13782b4e1f81387a62724a67ddee5a4a1094d7dc30ccbac0605b,2:2,2019/20,17:00,7582
+274,Bundesliga,Sa. 10.08.2019,3,,,3551,SC Rheindorf Altach,Dietmar Kühbauer,3-5-2 flach,170,SK Rapid Wien,5279a3e6c023c67b36ffb21d02b927be902d3695573eea3f1820cccc7b4fe3ec,2:1,2019/20,17:00,12800
+275,Bundesliga,So. 18.08.2019,4,,,170,SK Rapid Wien,,,122,SK Sturm Graz,4c81de8ce5073d9651bb2f3707ce8eca3ab4b42ecc61becf7b24a786faed8943,-:-,2019/20,17:00,0
+276,Bundesliga,Sa. 24.08.2019,5,,,413,LASK,,,170,SK Rapid Wien,3c9092b7c7594972b7ed20f44007f990577fd78d9610a69491f054a9697bacb2,-:-,2019/20,17:00,0
+277,Bundesliga,So. 01.09.2019,6,,,170,SK Rapid Wien,,,14,FK Austria Wien,ad9b4ba6b9a6c55809abbb989b8356d505a3f85d2502dade569584a47b3cb2b9,-:-,2019/20,17:00,0
+278,Bundesliga,Sa. 14.09.2019,7,,,503,FC Admira Wacker Mödling,,,170,SK Rapid Wien,cd7632ae29d301848285a8949da7242cbc9fd2b797896484ca624134be0f2815,-:-,2019/20,-,0
+279,Bundesliga,Sa. 21.09.2019,8,,,170,SK Rapid Wien,,,2446,WSG Tirol,075a3a4d6270ad70ae74ee1d1a628fe43b8625cd495b4bb954faa0bfc88a8d20,-:-,2019/20,-,0
+280,Bundesliga,Sa. 28.09.2019,9,,,4467,TSV Hartberg,,,170,SK Rapid Wien,f5452214eabe7dd37a7c0e7602a554e8d580b2dd80136bf084a6bf55dad5e013,-:-,2019/20,-,0
+281,Bundesliga,Sa. 05.10.2019,10,,,170,SK Rapid Wien,,,856,SV Mattersburg,f25f7422440d28baa6e29f8e2ec6822f9fefd8809a86ebbeda67814258620e96,-:-,2019/20,-,0
+282,Bundesliga,Sa. 19.10.2019,11,,,4441,Wolfsberger AC,,,170,SK Rapid Wien,5019dfb6d13f67f8bdf4a1ea9caa4810fa30e19b77a620accc65c95118bad945,-:-,2019/20,-,0
+283,Bundesliga,Sa. 26.10.2019,12,,,170,SK Rapid Wien,,,409,Red Bull Salzburg,34736e5e2a2321c7be2c944619f9e7136356f65e04ed7c2eaa20ee1c19587ef3,-:-,2019/20,-,0
+284,Bundesliga,Sa. 02.11.2019,13,,,2662,SKN St. Pölten,,,170,SK Rapid Wien,b3c15d16454b61732707edac39b8487e6b68387761fa766cb69d24533928c837,-:-,2019/20,-,0
+285,Bundesliga,Sa. 09.11.2019,14,,,170,SK Rapid Wien,,,3551,SC Rheindorf Altach,377e5303c4784013084bd5b9cbc6e714a9e1a7191652e25df514729ba91ecf6d,-:-,2019/20,-,0
+286,Bundesliga,Sa. 23.11.2019,15,,,122,SK Sturm Graz,,,170,SK Rapid Wien,5d918a833756281d5b0c750963d33ae9a218f8d79eb08b36c65a899981a4a08e,-:-,2019/20,-,0
+287,Bundesliga,Sa. 30.11.2019,16,,,170,SK Rapid Wien,,,413,LASK,cb08a72a572a318a60ede8bc64b14bf5ec92a26b34621e49ebe25c6c565cd1a5,-:-,2019/20,-,0
+288,Bundesliga,Sa. 07.12.2019,17,,,14,FK Austria Wien,,,170,SK Rapid Wien,c5c34d38a55e624ad3a6f7a8c818cdf9746ee8a52c209053d389a796b4c2b02d,-:-,2019/20,-,0
+289,Bundesliga,Sa. 14.12.2019,18,,,170,SK Rapid Wien,,,503,FC Admira Wacker Mödling,ef24a520e226b15f60ee282b7492b907c788efa76b3a48e254bf81fddc3abbbb,-:-,2019/20,-,0
+290,Bundesliga,Sa. 15.02.2020,19,,,2446,WSG Tirol,,,170,SK Rapid Wien,6b19c534ed0e678eeaac8a5e51a2bf23315c3460eefe7e92be636961e3a97cfd,-:-,2019/20,-,0
+291,Bundesliga,Sa. 22.02.2020,20,,,170,SK Rapid Wien,,,4467,TSV Hartberg,87700720a3a9a35297b237099fdf11ce27ede0c3ebf9260399f5260689af3373,-:-,2019/20,-,0
+292,Bundesliga,Sa. 29.02.2020,21,,,856,SV Mattersburg,,,170,SK Rapid Wien,16f28d70f833486bc5e0c35888d8c08bd913ea0b0831a9522b306216fa3be4e1,-:-,2019/20,-,0
+293,Bundesliga,Sa. 07.03.2020,22,,,170,SK Rapid Wien,,,4441,Wolfsberger AC,ffb0b5b6f91012eb40b40f6fe4d979084566905e179e1005986bc2292bfbe500,-:-,2019/20,-,0
+294,ÖFB-Cup,So. 21.07.2019,1.Runde,Dietmar Kühbauer,3-5-2,170,SK Rapid Wien,,,10281,SV Allerheiligen,9fec2e29c0f745ff082828358d1a6ec353a92117d17ce99ff33b665ada1b0eba,1:9,2019/20,17:15,2200
+295,ÖFB-Cup,Mi. 25.09.2019,2.Runde,,,409,Red Bull Salzburg,,,170,SK Rapid Wien,da5a424a25775d57cf1f178a0ab807e7d4ddcad34da675d227511780f6b95567,-:-,2019/20,20:45,0
