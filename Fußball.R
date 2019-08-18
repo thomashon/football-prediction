@@ -38,6 +38,7 @@ mod1 <- train(
   , data = trn
   , trcontrol = oob
   , tuneGrid = grid
+  , importance = TRUE
   #, preProcess = c("center", "scale")
 )
 
@@ -62,7 +63,10 @@ plot(mod1)
 mod1$finalModel
 text(mod1$finalModel)
 
+pred_train <- predict(mod1, trn)
 pred <- predict(mod1, tst)
+length(pred)
+
 alle <- predict(mod1, training)
 cust_rmse <- ((sum((tst$resultNumeric-pred)^2))/length(pred))^0.5
 cust_rmse
@@ -89,3 +93,8 @@ summary(pred0108)
 str(fus)
 pred1
 pred2
+
+library(mlbench)
+importance <- varImp(mod1, scale=FALSE)
+importance$importance
+plot(importance)

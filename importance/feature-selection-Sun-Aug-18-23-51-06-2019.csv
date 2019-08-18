@@ -1,0 +1,1273 @@
+,Feature,Pearson,Chi-2,RFE,Logistics,Random Forest,LightGBM,Total
+1,gameday_1.Runde,True,True,True,True,False,False,4
+2,competition_ÖFB-Cup,True,True,True,True,False,False,4
+3,home_team_name_Red Bull Salzburg,False,True,True,True,False,False,3
+4,home_team_name_FC Kufstein,False,True,True,True,False,False,3
+5,home_coach_Peter Zeidler,False,True,True,True,False,False,3
+6,hoamAvgPoints,True,False,True,True,False,False,3
+7,guestTeamGoalsReceivedAtHome,False,False,True,False,True,True,3
+8,guestTeamGoalsDiffAway_90,False,False,True,False,True,True,3
+9,time_15:30,False,False,True,True,False,False,2
+10,htb_>15,True,True,False,False,False,False,2
+11,home_team_break_higher15,True,True,False,False,False,False,2
+12,home_coach_?,True,True,False,False,False,False,2
+13,homeTeamGoalsDiffAway_70,False,False,True,True,False,False,2
+14,guest_team_name_Red Bull Salzburg,False,False,True,True,False,False,2
+15,guest_team_name_FK Austria Wien,False,False,True,True,False,False,2
+16,guest_coach_Óscar García,False,False,True,True,False,False,2
+17,guest_coach_Adi Hütter,False,False,True,True,False,False,2
+18,guestTotalGoalsShoot_10,False,False,False,False,True,True,2
+19,guestTotalGoalDiff_70,False,False,False,False,True,True,2
+20,guestTeamGoalsShootAway_50,False,False,False,False,True,True,2
+21,guestTeamGoalsShootAway_30,False,False,False,False,True,True,2
+22,guestTeamGoalsShootAway_10,False,False,False,False,True,True,2
+23,guestTeamGoalsShootAtHome_50,False,False,False,False,True,True,2
+24,guestTeamGoalsShootAtHome,False,False,False,False,True,True,2
+25,guestTeamGoalsReceivedAway_70,False,False,False,False,True,True,2
+26,guestTeamGoalsReceivedAway_50,False,False,False,False,True,True,2
+27,guestTeamGoalsReceivedAway_30,False,False,False,False,True,True,2
+28,guestTeamGoalsReceivedAway_10,False,False,False,False,True,True,2
+29,guestTeamGoalsReceivedAway,False,False,False,False,True,True,2
+30,guestTeamGoalsReceivedAtHome_70,False,False,False,False,True,True,2
+31,guestTeamGoalsReceivedAtHome_50,False,False,False,False,True,True,2
+32,guestTeamGoalsReceivedAtHome_10,False,False,False,False,True,True,2
+33,guestTeamGoalsDiffAway,False,False,True,False,True,False,2
+34,guestTeamGoalsDiffAtHome_10,False,False,True,False,True,False,2
+35,guestTeamGoalsDiffAtHome,False,False,True,False,True,False,2
+36,gameday_10,False,False,True,True,False,False,2
+37,competition_Regionalliga Mitte,False,False,True,True,False,False,2
+38,time_17:15,False,True,False,False,False,False,1
+39,time_12:00,False,True,False,False,False,False,1
+40,month_10,False,False,False,True,False,False,1
+41,home_team_name_USV Rudersdorf,False,True,False,False,False,False,1
+42,home_team_name_SVG Reichenau,False,True,False,False,False,False,1
+43,home_team_name_SV Ried,False,False,False,True,False,False,1
+44,home_team_name_SV Grödig,False,False,False,True,False,False,1
+45,home_team_name_SV Feldkirchen,False,True,False,False,False,False,1
+46,home_team_name_SC Retz,False,True,False,False,False,False,1
+47,home_team_name_LASK Linz II,False,True,False,False,False,False,1
+48,home_team_name_LASK,False,False,False,True,False,False,1
+49,home_team_name_ISS Admira Technopool,False,True,False,False,False,False,1
+50,home_team_name_Floridsdorfer AC,False,False,False,True,False,False,1
+51,home_team_name_FC Valencia,False,True,False,False,False,False,1
+52,home_team_name_Deutschlandsberger SC,False,True,False,False,False,False,1
+53,home_team_name_ATSV Stadl-Paura,False,True,False,False,False,False,1
+54,home_team_name_ASKÖ Köttmannsdorf,False,True,False,False,False,False,1
+55,home_team_name_ASK Kottingbrunn,False,True,False,False,False,False,1
+56,home_team_name_ASK Baumgarten,False,True,False,False,False,False,1
+57,home_coach_Roland Kirchler,False,False,False,True,False,False,1
+58,home_coach_Günther Kerber,False,True,False,False,False,False,1
+59,home_coach_Christian Ilzer,False,False,False,True,False,False,1
+60,homeTotalGoalsShoot_50,True,False,False,False,False,False,1
+61,homeTotalGoalsShoot_30,True,False,False,False,False,False,1
+62,homeTotalGoalsShoot_10,True,False,False,False,False,False,1
+63,homeTotalGoalsShoot,True,False,False,False,False,False,1
+64,homeTotalGoalsReceived,False,False,False,False,False,True,1
+65,homeTotalGoalDiff_70,True,False,False,False,False,False,1
+66,homeTotalGoalDiff_50,True,False,False,False,False,False,1
+67,homeTotalGoalDiff_30,True,False,False,False,False,False,1
+68,homeTotalGoalDiff_10,True,False,False,False,False,False,1
+69,homeTotalGoalDiff,True,False,False,False,False,False,1
+70,homeTeamGoalsShootAway_30,True,False,False,False,False,False,1
+71,homeTeamGoalsShootAway_10,True,False,False,False,False,False,1
+72,homeTeamGoalsShootAway,True,False,False,False,False,False,1
+73,homeTeamGoalsShootAtHome_30,True,False,False,False,False,False,1
+74,homeTeamGoalsShootAtHome_10,True,False,False,False,False,False,1
+75,homeTeamGoalsShootAtHome,True,False,False,False,False,False,1
+76,homeTeamGoalsReceivedAway_90,False,False,False,False,False,True,1
+77,homeTeamGoalsReceivedAway_10,False,False,False,False,False,True,1
+78,homeTeamGoalsReceivedAway,False,False,False,False,False,True,1
+79,homeTeamGoalsReceivedAtHome,False,False,True,False,False,False,1
+80,homeTeamGoalsDiffAway_90,False,False,True,False,False,False,1
+81,homeTeamGoalsDiffAtHome_90,False,False,True,False,False,False,1
+82,homeTeamGoalsDiffAtHome_70,True,False,False,False,False,False,1
+83,homeTeamGoalsDiffAtHome_50,True,False,False,False,False,False,1
+84,homeTeamGoalsDiffAtHome_30,True,False,False,False,False,False,1
+85,homeTeamGoalsDiffAtHome_10,True,False,False,False,False,False,1
+86,homeTeamGoalsDiffAtHome,True,False,False,False,False,False,1
+87,hoamAvgPoints_70,True,False,False,False,False,False,1
+88,hoamAvgPoints_50,True,False,False,False,False,False,1
+89,hoamAvgPoints_30,True,False,False,False,False,False,1
+90,hoamAvgPoints_10,True,False,False,False,False,False,1
+91,guest_team_name_WSG Wattens,False,False,False,True,False,False,1
+92,guest_team_name_Schwarz-Weiß Bregenz,False,True,False,False,False,False,1
+93,guest_team_name_SK Sturm Graz,False,False,True,False,False,False,1
+94,guest_team_name_SC Ostbahn XI,False,True,False,False,False,False,1
+95,guest_team_name_SC Columbia Floridsdorf,False,True,False,False,False,False,1
+96,guest_team_name_SC Austria Lustenau,False,False,False,True,False,False,1
+97,guest_team_name_FC Pinzgau Saalfelden,False,True,False,False,False,False,1
+98,guest_team_name_FC Pasching,False,False,True,False,False,False,1
+99,guest_team_name_FC Andelsbuch,False,True,False,False,False,False,1
+100,guest_coach_Thomas Sageder,False,False,True,False,False,False,1
+101,guest_coach_Manfred Unger,False,True,False,False,False,False,1
+102,guest_coach_Kurt Russ,False,False,False,True,False,False,1
+103,guest_coach_Karl-Heinz Kubesch,False,True,False,False,False,False,1
+104,guest_coach_Helgi Kolvidsson,False,False,True,False,False,False,1
+105,guestTotalGoalsShoot_50,False,False,False,False,False,True,1
+106,guestTotalGoalsShoot_30,False,False,False,False,True,False,1
+107,guestTotalGoalsShoot,False,False,False,False,False,True,1
+108,guestTotalGoalsReceived_90,False,False,False,False,False,True,1
+109,guestTotalGoalsReceived_10,False,False,False,False,True,False,1
+110,guestTotalGoalsReceived,False,False,False,True,False,False,1
+111,guestTotalGoalDiff_90,False,False,False,False,True,False,1
+112,guestTeamGoalsShootAway_70,False,False,False,False,True,False,1
+113,guestTeamGoalsShootAway,False,False,False,False,False,True,1
+114,guestTeamGoalsShootAtHome_90,False,False,False,False,False,True,1
+115,guestTeamGoalsShootAtHome_30,False,False,False,False,False,True,1
+116,guestTeamGoalsShootAtHome_10,False,False,False,False,False,True,1
+117,guestTeamGoalsReceivedAway_90,False,False,False,False,False,True,1
+118,guestTeamGoalsReceivedAtHome_90,False,False,False,False,True,False,1
+119,guestTeamGoalsReceivedAtHome_30,False,False,False,False,True,False,1
+120,guestTeamGoalsDiffAway_70,False,False,False,False,False,True,1
+121,guestTeamGoalsDiffAway_10,False,False,True,False,False,False,1
+122,guestTeamGoalsDiffAtHome_90,False,False,True,False,False,False,1
+123,guestTeamGoalsDiffAtHome_50,False,False,False,False,True,False,1
+124,guestTeamGoalsDiffAtHome_30,False,False,False,False,True,False,1
+125,guestAvgpoints_90,False,False,True,False,False,False,1
+126,guestAvgpoints_50,False,False,False,False,True,False,1
+127,guestAvgpoints_30,False,False,False,False,True,False,1
+128,gameday_Gruppe L,False,False,False,True,False,False,1
+129,gameday_30,False,False,False,True,False,False,1
+130,gameday_3.Runde Rückspiele,False,False,False,True,False,False,1
+131,gameday_29,False,False,False,True,False,False,1
+132,gameday_11,False,False,False,True,False,False,1
+133,competition_2. Liga,False,False,True,False,False,False,1
+134,year_2019,False,False,False,False,False,False,0
+135,year_2018,False,False,False,False,False,False,0
+136,year_2017,False,False,False,False,False,False,0
+137,year_2016,False,False,False,False,False,False,0
+138,year_2015,False,False,False,False,False,False,0
+139,year_2014,False,False,False,False,False,False,0
+140,year_2013,False,False,False,False,False,False,0
+141,year_2012,False,False,False,False,False,False,0
+142,year_2011,False,False,False,False,False,False,0
+143,year_2010,False,False,False,False,False,False,0
+144,year_2009,False,False,False,False,False,False,0
+145,weekday_6,False,False,False,False,False,False,0
+146,weekday_5,False,False,False,False,False,False,0
+147,weekday_4,False,False,False,False,False,False,0
+148,weekday_3,False,False,False,False,False,False,0
+149,weekday_2,False,False,False,False,False,False,0
+150,weekday_1,False,False,False,False,False,False,0
+151,weekday_0,False,False,False,False,False,False,0
+152,time_22:30,False,False,False,False,False,False,0
+153,time_22:15,False,False,False,False,False,False,0
+154,time_21:45,False,False,False,False,False,False,0
+155,time_21:15,False,False,False,False,False,False,0
+156,time_21:05,False,False,False,False,False,False,0
+157,time_21:00,False,False,False,False,False,False,0
+158,time_20:45,False,False,False,False,False,False,0
+159,time_20:35,False,False,False,False,False,False,0
+160,time_20:30,False,False,False,False,False,False,0
+161,time_20:25,False,False,False,False,False,False,0
+162,time_20:20,False,False,False,False,False,False,0
+163,time_20:15,False,False,False,False,False,False,0
+164,time_20:00,False,False,False,False,False,False,0
+165,time_19:45,False,False,False,False,False,False,0
+166,time_19:30,False,False,False,False,False,False,0
+167,time_19:15,False,False,False,False,False,False,0
+168,time_19:10,False,False,False,False,False,False,0
+169,time_19:08,False,False,False,False,False,False,0
+170,time_19:00,False,False,False,False,False,False,0
+171,time_18:55,False,False,False,False,False,False,0
+172,time_18:45,False,False,False,False,False,False,0
+173,time_18:30,False,False,False,False,False,False,0
+174,time_18:15,False,False,False,False,False,False,0
+175,time_18:00,False,False,False,False,False,False,0
+176,time_17:45,False,False,False,False,False,False,0
+177,time_17:30,False,False,False,False,False,False,0
+178,time_17:00,False,False,False,False,False,False,0
+179,time_16:50,False,False,False,False,False,False,0
+180,time_16:45,False,False,False,False,False,False,0
+181,time_16:30,False,False,False,False,False,False,0
+182,time_16:15,False,False,False,False,False,False,0
+183,time_16:00,False,False,False,False,False,False,0
+184,time_15:15,False,False,False,False,False,False,0
+185,time_15:00,False,False,False,False,False,False,0
+186,time_14:30,False,False,False,False,False,False,0
+187,time_14:00,False,False,False,False,False,False,0
+188,time_13:00,False,False,False,False,False,False,0
+189,time_11:00,False,False,False,False,False,False,0
+190,time_10:30,False,False,False,False,False,False,0
+191,time_-,False,False,False,False,False,False,0
+192,saison_2019/20,False,False,False,False,False,False,0
+193,saison_2018/19,False,False,False,False,False,False,0
+194,saison_2017/18,False,False,False,False,False,False,0
+195,saison_2016/17,False,False,False,False,False,False,0
+196,saison_2015/16,False,False,False,False,False,False,0
+197,saison_2014/15,False,False,False,False,False,False,0
+198,saison_2013/14,False,False,False,False,False,False,0
+199,saison_2012/13,False,False,False,False,False,False,0
+200,saison_2011/12,False,False,False,False,False,False,0
+201,saison_2010/11,False,False,False,False,False,False,0
+202,saison_2009/10,False,False,False,False,False,False,0
+203,month_9,False,False,False,False,False,False,0
+204,month_8,False,False,False,False,False,False,0
+205,month_7,False,False,False,False,False,False,0
+206,month_6,False,False,False,False,False,False,0
+207,month_5,False,False,False,False,False,False,0
+208,month_4,False,False,False,False,False,False,0
+209,month_3,False,False,False,False,False,False,0
+210,month_2,False,False,False,False,False,False,0
+211,month_12,False,False,False,False,False,False,0
+212,month_11,False,False,False,False,False,False,0
+213,htb_9,False,False,False,False,False,False,0
+214,htb_8,False,False,False,False,False,False,0
+215,htb_7,False,False,False,False,False,False,0
+216,htb_6,False,False,False,False,False,False,0
+217,htb_5,False,False,False,False,False,False,0
+218,htb_4,False,False,False,False,False,False,0
+219,htb_3,False,False,False,False,False,False,0
+220,htb_2,False,False,False,False,False,False,0
+221,htb_15,False,False,False,False,False,False,0
+222,htb_14,False,False,False,False,False,False,0
+223,htb_13,False,False,False,False,False,False,0
+224,htb_12,False,False,False,False,False,False,0
+225,htb_11,False,False,False,False,False,False,0
+226,htb_10,False,False,False,False,False,False,0
+227,htb_0,False,False,False,False,False,False,0
+228,home_team_name_Zenit St. Petersburg,False,False,False,False,False,False,0
+229,home_team_name_Zalgiris Vilnius,False,False,False,False,False,False,0
+230,home_team_name_ZSKA Sofia,False,False,False,False,False,False,0
+231,home_team_name_Young Violets Austria Wien,False,False,False,False,False,False,0
+232,home_team_name_Würzburger Kickers,False,False,False,False,False,False,0
+233,home_team_name_Wolfsberger AC II,False,False,False,False,False,False,0
+234,home_team_name_Wolfsberger AC,False,False,False,False,False,False,0
+235,home_team_name_Wiener Sportklub,False,False,False,False,False,False,0
+236,home_team_name_Wiener Sport-Club,False,False,False,False,False,False,0
+237,home_team_name_WSG Wattens,False,False,False,False,False,False,0
+238,home_team_name_WSG Tirol,False,False,False,False,False,False,0
+239,home_team_name_WSC Hertha Wels,False,False,False,False,False,False,0
+240,home_team_name_WAC - St. Andrä,False,False,False,False,False,False,0
+241,home_team_name_Vitória Guimarães SC,False,False,False,False,False,False,0
+242,home_team_name_Villacher SV,False,False,False,False,False,False,0
+243,home_team_name_Videoton FC,False,False,False,False,False,False,0
+244,home_team_name_VfB Hohenems,False,False,False,False,False,False,0
+245,home_team_name_Union Vöcklamarkt,False,False,False,False,False,False,0
+246,home_team_name_Union St. Florian,False,False,False,False,False,False,0
+247,home_team_name_Union Innsbruck,False,False,False,False,False,False,0
+248,home_team_name_Union Gurten,False,False,False,False,False,False,0
+249,home_team_name_Union Edelweiß Linz,False,False,False,False,False,False,0
+250,home_team_name_USV Scheiblingkirchen-Warth,False,False,False,False,False,False,0
+251,home_team_name_USV Mettersdorf,False,False,False,False,False,False,0
+252,home_team_name_USK Anif/Red Bull Juniors,False,False,False,False,False,False,0
+253,home_team_name_USK Anif,False,False,False,False,False,False,0
+254,home_team_name_USC Eugendorf,False,False,False,False,False,False,0
+255,home_team_name_US Sassuolo,False,False,False,False,False,False,0
+256,home_team_name_TuS Bad Gleichenberg,False,False,False,False,False,False,0
+257,home_team_name_Torpedo-BelAZ Zhodino,False,False,False,False,False,False,0
+258,home_team_name_Team Wiener Linien,False,False,False,False,False,False,0
+259,home_team_name_TSV St. Johann,False,False,False,False,False,False,0
+260,home_team_name_TSV Neumarkt,False,False,False,False,False,False,0
+261,home_team_name_TSV Hartberg,False,False,False,False,False,False,0
+262,home_team_name_Suduva Marijampole,False,False,False,False,False,False,0
+263,home_team_name_Standard Lüttich,False,False,False,False,False,False,0
+264,home_team_name_Spartak Trnava,False,False,False,False,False,False,0
+265,home_team_name_Spartak Myjava,False,False,False,False,False,False,0
+266,home_team_name_Spartak Moskau,False,False,False,False,False,False,0
+267,home_team_name_Slovan Bratislava,False,False,False,False,False,False,0
+268,home_team_name_Shkendija Tetovo,False,False,False,False,False,False,0
+269,home_team_name_Sheffield Wednesday,False,False,False,False,False,False,0
+270,home_team_name_Shakhtjor Soligorsk,False,False,False,False,False,False,0
+271,home_team_name_Shakhtar Donetsk,False,False,False,False,False,False,0
+272,home_team_name_Schwarz-Weiß Bregenz,False,False,False,False,False,False,0
+273,home_team_name_SVg Purgstall,False,False,False,False,False,False,0
+274,home_team_name_SV Würmla,False,False,False,False,False,False,0
+275,home_team_name_SV Wimpassing,False,False,False,False,False,False,0
+276,home_team_name_SV Werder Bremen,False,False,False,False,False,False,0
+277,home_team_name_SV Wals-Grünau,False,False,False,False,False,False,0
+278,home_team_name_SV Wallern,False,False,False,False,False,False,0
+279,home_team_name_SV Stripfing,False,False,False,False,False,False,0
+280,home_team_name_SV Stegersbach,False,False,False,False,False,False,0
+281,home_team_name_SV St. Margarethen,False,False,False,False,False,False,0
+282,home_team_name_SV Sierning,False,False,False,False,False,False,0
+283,home_team_name_SV Seekirchen,False,False,False,False,False,False,0
+284,home_team_name_SV Schwechat,False,False,False,False,False,False,0
+285,home_team_name_SV Oberwart,False,False,False,False,False,False,0
+286,home_team_name_SV Neuhofen/SV Ried II,False,False,False,False,False,False,0
+287,home_team_name_SV Neuberg,False,False,False,False,False,False,0
+288,home_team_name_SV Mattersburg II,False,False,False,False,False,False,0
+289,home_team_name_SV Mattersburg,False,False,False,False,False,False,0
+290,home_team_name_SV Leobendorf,False,False,False,False,False,False,0
+291,home_team_name_SV Lafnitz,False,False,False,False,False,False,0
+292,home_team_name_SV Kapfenberg II,False,False,False,False,False,False,0
+293,home_team_name_SV Kapfenberg,False,False,False,False,False,False,0
+294,home_team_name_SV Innsbruck,False,False,False,False,False,False,0
+295,home_team_name_SV Horn,False,False,False,False,False,False,0
+296,home_team_name_SV Heiligenkreuz,False,False,False,False,False,False,0
+297,home_team_name_SV Hall,False,False,False,False,False,False,0
+298,home_team_name_SV Grün-Weiß Micheldorf,False,False,False,False,False,False,0
+299,home_team_name_SV Grödig II,False,False,False,False,False,False,0
+300,home_team_name_SV Grieskirchen,False,False,False,False,False,False,0
+301,home_team_name_SV Gloggnitz,False,False,False,False,False,False,0
+302,home_team_name_SV Gleinstätten,False,False,False,False,False,False,0
+303,home_team_name_SV Gaflenz,False,False,False,False,False,False,0
+304,home_team_name_SV Flavia Solva,False,False,False,False,False,False,0
+305,home_team_name_SV Austria Salzburg,False,False,False,False,False,False,0
+306,home_team_name_SV Allerheiligen,False,False,False,False,False,False,0
+307,home_team_name_SSC Neapel,False,False,False,False,False,False,0
+308,home_team_name_SR Donaufeld,False,False,False,False,False,False,0
+309,home_team_name_SPG Reichenau/Innsbruck,False,False,False,False,False,False,0
+310,home_team_name_SKU Amstetten,False,False,False,False,False,False,0
+311,home_team_name_SKN St. Pölten Juniors,False,False,False,False,False,False,0
+312,home_team_name_SKN St. Pölten,False,False,False,False,False,False,0
+313,home_team_name_SK Vorwärts Steyr,False,False,False,False,False,False,0
+314,home_team_name_SK Treibach,False,False,False,False,False,False,0
+315,home_team_name_SK Sturm Graz II,False,False,False,False,False,False,0
+316,home_team_name_SK Sturm Graz,False,False,False,False,False,False,0
+317,home_team_name_SK Rapid Wien II,False,False,False,False,False,False,0
+318,home_team_name_SK Rapid Wien,False,False,False,False,False,False,0
+319,home_team_name_SK Maria Saal,False,False,False,False,False,False,0
+320,home_team_name_SK Bad Wimsbach 1933,False,False,False,False,False,False,0
+321,home_team_name_SK Austria Kärnten,False,False,False,False,False,False,0
+322,home_team_name_SK Austria Klagenfurt,False,False,False,False,False,False,0
+323,home_team_name_SC/ESV Parndorf,False,False,False,False,False,False,0
+324,home_team_name_SC Zwettl,False,False,False,False,False,False,0
+325,home_team_name_SC Wiener Viktoria,False,False,False,False,False,False,0
+326,home_team_name_SC Wiener Neustadt,False,False,False,False,False,False,0
+327,home_team_name_SC Weiz,False,False,False,False,False,False,0
+328,home_team_name_SC Schwaz,False,False,False,False,False,False,0
+329,home_team_name_SC Ritzing,False,False,False,False,False,False,0
+330,home_team_name_SC Rheindorf Altach Juniors,False,False,False,False,False,False,0
+331,home_team_name_SC Rheindorf Altach,False,False,False,False,False,False,0
+332,home_team_name_SC Pinkafeld,False,False,False,False,False,False,0
+333,home_team_name_SC Ostbahn XI,False,False,False,False,False,False,0
+334,home_team_name_SC Neusiedl/See,False,False,False,False,False,False,0
+335,home_team_name_SC Mannsdorf,False,False,False,False,False,False,0
+336,home_team_name_SC Leopoldsdorf/Mfd.,False,False,False,False,False,False,0
+337,home_team_name_SC Kundl,False,False,False,False,False,False,0
+338,home_team_name_SC Kalsdorf,False,False,False,False,False,False,0
+339,home_team_name_SC Golling,False,False,False,False,False,False,0
+340,home_team_name_SC Columbia Floridsdorf,False,False,False,False,False,False,0
+341,home_team_name_SC Bregenz,False,False,False,False,False,False,0
+342,home_team_name_SC Austria Lustenau,False,False,False,False,False,False,0
+343,home_team_name_SAK Klagenfurt,False,False,False,False,False,False,0
+344,home_team_name_Rudar Pljevlja,False,False,False,False,False,False,0
+345,home_team_name_Ruch Chorzow,False,False,False,False,False,False,0
+346,home_team_name_Rubin Kazan,False,False,False,False,False,False,0
+347,home_team_name_Roter Stern Belgrad,False,False,False,False,False,False,0
+348,home_team_name_Rosenborg BK,False,False,False,False,False,False,0
+349,home_team_name_Rennweger SV 1901,False,False,False,False,False,False,0
+350,home_team_name_Red Bull Juniors Salzburg,False,False,False,False,False,False,0
+351,home_team_name_Real Sociedad San Sebastián,False,False,False,False,False,False,0
+352,home_team_name_RasenBallsport Leipzig,False,False,False,False,False,False,0
+353,home_team_name_RSC Anderlecht,False,False,False,False,False,False,0
+354,home_team_name_Qarabağ Ağdam,False,False,False,False,False,False,0
+355,home_team_name_Post SV Wien,False,False,False,False,False,False,0
+356,home_team_name_Panathinaikos Athen,False,False,False,False,False,False,0
+357,home_team_name_PSV Eindhoven,False,False,False,False,False,False,0
+358,home_team_name_PFC Beroe Stara Zagora,False,False,False,False,False,False,0
+359,home_team_name_PAOK Thessaloniki,False,False,False,False,False,False,0
+360,home_team_name_Omonia Nikosia,False,False,False,False,False,False,0
+361,home_team_name_Olympique Marseille,False,False,False,False,False,False,0
+362,home_team_name_OGC Nizza,False,False,False,False,False,False,0
+363,home_team_name_OFK Petrovac,False,False,False,False,False,False,0
+364,home_team_name_NK Siroki Brijeg,False,False,False,False,False,False,0
+365,home_team_name_NK Osijek,False,False,False,False,False,False,0
+366,home_team_name_NK Olimpija Ljubljana,False,False,False,False,False,False,0
+367,home_team_name_Mladost Podgorica,False,False,False,False,False,False,0
+368,home_team_name_Metalurh Donetsk,False,False,False,False,False,False,0
+369,home_team_name_Metalist Kharkiv,False,False,False,False,False,False,0
+370,home_team_name_Manchester City,False,False,False,False,False,False,0
+371,home_team_name_Malmö FF,False,False,False,False,False,False,0
+372,home_team_name_Maccabi Tel Aviv,False,False,False,False,False,False,0
+373,home_team_name_Maccabi Haifa,False,False,False,False,False,False,0
+374,home_team_name_Lokomotiv Moskau,False,False,False,False,False,False,0
+375,home_team_name_Lillestrøm SK,False,False,False,False,False,False,0
+376,home_team_name_Liepajas Metalurgs,False,False,False,False,False,False,0
+377,home_team_name_Levski Sofia,False,False,False,False,False,False,0
+378,home_team_name_Legia Warschau,False,False,False,False,False,False,0
+379,home_team_name_Lech Posen,False,False,False,False,False,False,0
+380,home_team_name_Lazio Rom,False,False,False,False,False,False,0
+381,home_team_name_Kremser SC,False,False,False,False,False,False,0
+382,home_team_name_Konyaspor,False,False,False,False,False,False,0
+383,home_team_name_Kapaz PFK,False,False,False,False,False,False,0
+384,home_team_name_KSV Ankerbrot,False,False,False,False,False,False,0
+385,home_team_name_KRC Genk,False,False,False,False,False,False,0
+386,home_team_name_KF Vllaznia,False,False,False,False,False,False,0
+387,home_team_name_KAA Gent,False,False,False,False,False,False,0
+388,home_team_name_Juventus Turin,False,False,False,False,False,False,0
+389,home_team_name_Inter Mailand,False,False,False,False,False,False,0
+390,home_team_name_IF Elfsborg Boras,False,False,False,False,False,False,0
+391,home_team_name_Hibernians FC,False,False,False,False,False,False,0
+392,home_team_name_Hellas Kagran,False,False,False,False,False,False,0
+393,home_team_name_Hapoel Tel Aviv,False,False,False,False,False,False,0
+394,home_team_name_Hamburger SV,False,False,False,False,False,False,0
+395,home_team_name_HNK Rijeka,False,False,False,False,False,False,0
+396,home_team_name_HJK Helsinki,False,False,False,False,False,False,0
+397,home_team_name_HB Tórshavn,False,False,False,False,False,False,0
+398,home_team_name_Grazer AK 1902,False,False,False,False,False,False,0
+399,home_team_name_Grazer AK,False,False,False,False,False,False,0
+400,home_team_name_Glasgow Rangers,False,False,False,False,False,False,0
+401,home_team_name_Gaz Metan Medias,False,False,False,False,False,False,0
+402,home_team_name_Galatasaray Istanbul,False,False,False,False,False,False,0
+403,home_team_name_GNK Dinamo Zagreb,False,False,False,False,False,False,0
+404,home_team_name_First Vienna FC,False,False,False,False,False,False,0
+405,home_team_name_Fenerbahce Istanbul,False,False,False,False,False,False,0
+406,home_team_name_FV Austria XIII,False,False,False,False,False,False,0
+407,home_team_name_FK Vojvodina Novi Sad,False,False,False,False,False,False,0
+408,home_team_name_FK Senica,False,False,False,False,False,False,0
+409,home_team_name_FK Partizani,False,False,False,False,False,False,0
+410,home_team_name_FK Liepaja,False,False,False,False,False,False,0
+411,home_team_name_FK Kukësi,False,False,False,False,False,False,0
+412,home_team_name_FK Krasnodar,False,False,False,False,False,False,0
+413,home_team_name_FK Haugesund,False,False,False,False,False,False,0
+414,home_team_name_FK Cukaricki,False,False,False,False,False,False,0
+415,home_team_name_FK Austria Wien Amateure,False,False,False,False,False,False,0
+416,home_team_name_FK Austria Wien,False,False,False,False,False,False,0
+417,home_team_name_FH Hafnarfjördur,False,False,False,False,False,False,0
+418,home_team_name_FCSB,False,False,False,False,False,False,0
+419,home_team_name_FCM Traiskirchen,False,False,False,False,False,False,0
+420,home_team_name_FC Zimbru Chisinau,False,False,False,False,False,False,0
+421,home_team_name_FC Zestafoni,False,False,False,False,False,False,0
+422,home_team_name_FC Wolfurt,False,False,False,False,False,False,0
+423,home_team_name_FC Wels,False,False,False,False,False,False,0
+424,home_team_name_FC Waidhofen/Ybbs,False,False,False,False,False,False,0
+425,home_team_name_FC Wacker Innsbruck II,False,False,False,False,False,False,0
+426,home_team_name_FC Wacker Innsbruck,False,False,False,False,False,False,0
+427,home_team_name_FC Villarreal,False,False,False,False,False,False,0
+428,home_team_name_FC Viktoria Pilsen,False,False,False,False,False,False,0
+429,home_team_name_FC Viitorul,False,False,False,False,False,False,0
+430,home_team_name_FC Thun,False,False,False,False,False,False,0
+431,home_team_name_FC Stadlau,False,False,False,False,False,False,0
+432,home_team_name_FC St. Veit,False,False,False,False,False,False,0
+433,home_team_name_FC Slovan Liberec,False,False,False,False,False,False,0
+434,home_team_name_FC Schalke 04,False,False,False,False,False,False,0
+435,home_team_name_FC Porto,False,False,False,False,False,False,0
+436,home_team_name_FC Pinzgau Saalfelden,False,False,False,False,False,False,0
+437,home_team_name_FC Pasching,False,False,False,False,False,False,0
+438,home_team_name_FC Paris Saint-Germain,False,False,False,False,False,False,0
+439,home_team_name_FC Mauerwerk,False,False,False,False,False,False,0
+440,home_team_name_FC Marchfeld Mannsdorf,False,False,False,False,False,False,0
+441,home_team_name_FC Lustenau,False,False,False,False,False,False,0
+442,home_team_name_FC Liefering,False,False,False,False,False,False,0
+443,home_team_name_FC Lendorf,False,False,False,False,False,False,0
+444,home_team_name_FC Lankowitz,False,False,False,False,False,False,0
+445,home_team_name_FC Langenegg,False,False,False,False,False,False,0
+446,home_team_name_FC Kitzbühel,False,False,False,False,False,False,0
+447,home_team_name_FC Karabakh Wien,False,False,False,False,False,False,0
+448,home_team_name_FC Juniors OÖ,False,False,False,False,False,False,0
+449,home_team_name_FC Höchst,False,False,False,False,False,False,0
+450,home_team_name_FC Hard,False,False,False,False,False,False,0
+451,home_team_name_FC Gratkorn,False,False,False,False,False,False,0
+452,home_team_name_FC Gleisdorf 09,False,False,False,False,False,False,0
+453,home_team_name_FC Dornbirn,False,False,False,False,False,False,0
+454,home_team_name_FC Dila Gori,False,False,False,False,False,False,0
+455,home_team_name_FC Brügge,False,False,False,False,False,False,0
+456,home_team_name_FC Blau Weiß Linz,False,False,False,False,False,False,0
+457,home_team_name_FC Basel 1893,False,False,False,False,False,False,0
+458,home_team_name_FC Barnsley,False,False,False,False,False,False,0
+459,home_team_name_FC Anif/Red Bull Juniors,False,False,False,False,False,False,0
+460,home_team_name_FC Andelsbuch,False,False,False,False,False,False,0
+461,home_team_name_FC Admira Wacker Mödling II,False,False,False,False,False,False,0
+462,home_team_name_FC Admira Wacker Mödling,False,False,False,False,False,False,0
+463,home_team_name_FAC Team für Wien,False,False,False,False,False,False,0
+464,home_team_name_F91 Düdelingen,False,False,False,False,False,False,0
+465,home_team_name_Esbjerg fB,False,False,False,False,False,False,0
+466,home_team_name_Dynamo Kiew,False,False,False,False,False,False,0
+467,home_team_name_Dynamo Brest,False,False,False,False,False,False,0
+468,home_team_name_Dornbirner SV,False,False,False,False,False,False,0
+469,home_team_name_Donawitzer SV Leoben,False,False,False,False,False,False,0
+470,home_team_name_Dinamo Tiflis,False,False,False,False,False,False,0
+471,home_team_name_Dinamo Minsk,False,False,False,False,False,False,0
+472,home_team_name_Dinamo Bukarest,False,False,False,False,False,False,0
+473,home_team_name_Chikhura Sachkhere,False,False,False,False,False,False,0
+474,home_team_name_Celtic Glasgow,False,False,False,False,False,False,0
+475,home_team_name_CD Nacional,False,False,False,False,False,False,0
+476,home_team_name_Bröndby IF,False,False,False,False,False,False,0
+477,home_team_name_Breidablik Kópavogur,False,False,False,False,False,False,0
+478,home_team_name_Botev Plovdiv,False,False,False,False,False,False,0
+479,home_team_name_Borussia Dortmund,False,False,False,False,False,False,0
+480,home_team_name_Bohemian Football Club Dublin,False,False,False,False,False,False,0
+481,home_team_name_Besiktas Istanbul,False,False,False,False,False,False,0
+482,home_team_name_Belenenses SAD,False,False,False,False,False,False,0
+483,home_team_name_Bayer 04 Leverkusen,False,False,False,False,False,False,0
+484,home_team_name_BATE Borisov,False,False,False,False,False,False,0
+485,home_team_name_Atlético Madrid,False,False,False,False,False,False,0
+486,home_team_name_Athletic Bilbao,False,False,False,False,False,False,0
+487,home_team_name_Astra Giurgiu,False,False,False,False,False,False,0
+488,home_team_name_Aston Villa,False,False,False,False,False,False,0
+489,home_team_name_Asteras Tripolis,False,False,False,False,False,False,0
+490,home_team_name_Aris Thessaloniki,False,False,False,False,False,False,0
+491,home_team_name_Apollon Limassol,False,False,False,False,False,False,0
+492,home_team_name_Ajax Amsterdam,False,False,False,False,False,False,0
+493,home_team_name_AZ Alkmaar,False,False,False,False,False,False,0
+494,home_team_name_ATUS Ferlach,False,False,False,False,False,False,0
+495,home_team_name_ATSV Wolfsberg,False,False,False,False,False,False,0
+496,home_team_name_ATSV Ober-Grafendorf,False,False,False,False,False,False,0
+497,home_team_name_ASV Zurndorf,False,False,False,False,False,False,0
+498,home_team_name_ASV Siegendorf,False,False,False,False,False,False,0
+499,home_team_name_ASV Draßburg,False,False,False,False,False,False,0
+500,home_team_name_ASKÖ Stinatz,False,False,False,False,False,False,0
+501,home_team_name_ASKÖ Oedt,False,False,False,False,False,False,0
+502,home_team_name_ASKÖ Donau Linz,False,False,False,False,False,False,0
+503,home_team_name_ASK-BSC Bruck/Leitha,False,False,False,False,False,False,0
+504,home_team_name_ASK Voitsberg,False,False,False,False,False,False,0
+505,home_team_name_ASK Elektra,False,False,False,False,False,False,0
+506,home_team_name_ASK Ebreichsdorf,False,False,False,False,False,False,0
+507,home_team_name_ASK Bad Vöslau,False,False,False,False,False,False,0
+508,home_team_name_ASC Götzendorf,False,False,False,False,False,False,0
+509,home_team_name_AS Trencin,False,False,False,False,False,False,0
+510,home_team_name_AS Rom,False,False,False,False,False,False,0
+511,home_team_name_APOP Kinyras Pegias,False,False,False,False,False,False,0
+512,home_team_name_AEL Limassol,False,False,False,False,False,False,0
+513,home_team_name_AEK Larnaka,False,False,False,False,False,False,0
+514,home_team_name_AEK Athen,False,False,False,False,False,False,0
+515,home_team_name_AC Sparta Prag,False,False,False,False,False,False,0
+516,home_team_name_AC Mailand,False,False,False,False,False,False,0
+517,home_team_name_1. Simmeringer SC,False,False,False,False,False,False,0
+518,home_team_name_1. SC Sollenau,False,False,False,False,False,False,0
+519,home_team_break_9,False,False,False,False,False,False,0
+520,home_team_break_8,False,False,False,False,False,False,0
+521,home_team_break_7,False,False,False,False,False,False,0
+522,home_team_break_6,False,False,False,False,False,False,0
+523,home_team_break_5,False,False,False,False,False,False,0
+524,home_team_break_4,False,False,False,False,False,False,0
+525,home_team_break_3,False,False,False,False,False,False,0
+526,home_team_break_2,False,False,False,False,False,False,0
+527,home_team_break_15,False,False,False,False,False,False,0
+528,home_team_break_14,False,False,False,False,False,False,0
+529,home_team_break_13,False,False,False,False,False,False,0
+530,home_team_break_12,False,False,False,False,False,False,0
+531,home_team_break_11,False,False,False,False,False,False,0
+532,home_team_break_10,False,False,False,False,False,False,0
+533,home_team_break_0,False,False,False,False,False,False,0
+534,home_coach_Óscar García,False,False,False,False,False,False,0
+535,home_coach_Zoran Barisic,False,False,False,False,False,False,0
+536,home_coach_Wolfgang Luisser,False,False,False,False,False,False,0
+537,home_coach_Wilhelm Wahlmüller,False,False,False,False,False,False,0
+538,home_coach_Wilhelm Schuldes,False,False,False,False,False,False,0
+539,home_coach_Werner Ofner,False,False,False,False,False,False,0
+540,home_coach_Werner Gregoritsch,False,False,False,False,False,False,0
+541,home_coach_Werner Grabherr,False,False,False,False,False,False,0
+542,home_coach_Walter Schachner,False,False,False,False,False,False,0
+543,home_coach_Walter Kogler,False,False,False,False,False,False,0
+544,home_coach_Walter Knaller,False,False,False,False,False,False,0
+545,home_coach_Walter Hörmann,False,False,False,False,False,False,0
+546,home_coach_Valérien Ismaël,False,False,False,False,False,False,0
+547,home_coach_Toni Polster,False,False,False,False,False,False,0
+548,home_coach_Thorsten Fink,False,False,False,False,False,False,0
+549,home_coach_Thomas von Heesen,False,False,False,False,False,False,0
+550,home_coach_Thomas Weissenböck,False,False,False,False,False,False,0
+551,home_coach_Thomas Silberberger,False,False,False,False,False,False,0
+552,home_coach_Thomas Sageder,False,False,False,False,False,False,0
+553,home_coach_Thomas Nentwich,False,False,False,False,False,False,0
+554,home_coach_Thomas Letsch,False,False,False,False,False,False,0
+555,home_coach_Thomas Kristl,False,False,False,False,False,False,0
+556,home_coach_Thomas Grumser,False,False,False,False,False,False,0
+557,home_coach_Thomas Flögel,False,False,False,False,False,False,0
+558,home_coach_Thomas Eidler,False,False,False,False,False,False,0
+559,home_coach_Stefan Rapp,False,False,False,False,False,False,0
+560,home_coach_Slobodan Grubor,False,False,False,False,False,False,0
+561,home_coach_Simon Knöbl,False,False,False,False,False,False,0
+562,home_coach_Sargon Duran,False,False,False,False,False,False,0
+563,home_coach_Ronald Brunmayr,False,False,False,False,False,False,0
+564,home_coach_Roman Mählich,False,False,False,False,False,False,0
+565,home_coach_Roger Schmidt,False,False,False,False,False,False,0
+566,home_coach_Robert Pflug,False,False,False,False,False,False,0
+567,home_coach_Robert Micheu,False,False,False,False,False,False,0
+568,home_coach_Robert Ibertsberger,False,False,False,False,False,False,0
+569,home_coach_Ricardo Moniz,False,False,False,False,False,False,0
+570,home_coach_René Wagner,False,False,False,False,False,False,0
+571,home_coach_Reiner Geyer,False,False,False,False,False,False,0
+572,home_coach_Ranko Popovic,False,False,False,False,False,False,0
+573,home_coach_Rainer Scharinger,False,False,False,False,False,False,0
+574,home_coach_Peter Zeitlhofer,False,False,False,False,False,False,0
+575,home_coach_Peter Stöger,False,False,False,False,False,False,0
+576,home_coach_Peter Schöttel,False,False,False,False,False,False,0
+577,home_coach_Peter Pacult,False,False,False,False,False,False,0
+578,home_coach_Peter Hyballa,False,False,False,False,False,False,0
+579,home_coach_Paul Steiner,False,False,False,False,False,False,0
+580,home_coach_Paul Hafner,False,False,False,False,False,False,0
+581,home_coach_Paul Gludovatz,False,False,False,False,False,False,0
+582,home_coach_Patrick de Wilde,False,False,False,False,False,False,0
+583,home_coach_Oliver Oberhammer,False,False,False,False,False,False,0
+584,home_coach_Oliver Lederer,False,False,False,False,False,False,0
+585,home_coach_Oliver Glasner,False,False,False,False,False,False,0
+586,home_coach_Niko Kovac,False,False,False,False,False,False,0
+587,home_coach_Nestor El Maestro,False,False,False,False,False,False,0
+588,home_coach_Nenad Bjelica,False,False,False,False,False,False,0
+589,home_coach_Mladen Posavec,False,False,False,False,False,False,0
+590,home_coach_Miroslav Polak,False,False,False,False,False,False,0
+591,home_coach_Mike Büskens,False,False,False,False,False,False,0
+592,home_coach_Michael Streiter,False,False,False,False,False,False,0
+593,home_coach_Michael Steiner,False,False,False,False,False,False,0
+594,home_coach_Michael Kopf,False,False,False,False,False,False,0
+595,home_coach_Michael Fuchs †,False,False,False,False,False,False,0
+596,home_coach_Michael Baur,False,False,False,False,False,False,0
+597,home_coach_Michael Angerschmid,False,False,False,False,False,False,0
+598,home_coach_Max Babler,False,False,False,False,False,False,0
+599,home_coach_Maurizio Jacobacci,False,False,False,False,False,False,0
+600,home_coach_Matthias Hamann,False,False,False,False,False,False,0
+601,home_coach_Masanori Hamayoshi,False,False,False,False,False,False,0
+602,home_coach_Martin Scherb,False,False,False,False,False,False,0
+603,home_coach_Martin Hiden,False,False,False,False,False,False,0
+604,home_coach_Markus Schopp,False,False,False,False,False,False,0
+605,home_coach_Markus Mader,False,False,False,False,False,False,0
+606,home_coach_Markus Karner,False,False,False,False,False,False,0
+607,home_coach_Mario Posch,False,False,False,False,False,False,0
+608,home_coach_Mario Handl,False,False,False,False,False,False,0
+609,home_coach_Marco Rose,False,False,False,False,False,False,0
+610,home_coach_Marcel Ketelaer,False,False,False,False,False,False,0
+611,home_coach_Manfred Bender,False,False,False,False,False,False,0
+612,home_coach_Lassaad Chabbi,False,False,False,False,False,False,0
+613,home_coach_Kurt Russ,False,False,False,False,False,False,0
+614,home_coach_Kurt Jusits,False,False,False,False,False,False,0
+615,home_coach_Kurt Garger,False,False,False,False,False,False,0
+616,home_coach_Klaus Schmidt,False,False,False,False,False,False,0
+617,home_coach_Karl-Heinz Kubesch,False,False,False,False,False,False,0
+618,home_coach_Karl Daxbacher,False,False,False,False,False,False,0
+619,home_coach_Jürgen Halper,False,False,False,False,False,False,0
+620,home_coach_Jörn Andersen,False,False,False,False,False,False,0
+621,home_coach_Joze Prelogar,False,False,False,False,False,False,0
+622,home_coach_Johann Kleer,False,False,False,False,False,False,0
+623,home_coach_Johann Dihanich,False,False,False,False,False,False,0
+624,home_coach_Jochen Fallmann,False,False,False,False,False,False,0
+625,home_coach_Jesse Marsch,False,False,False,False,False,False,0
+626,home_coach_Janusz Góra,False,False,False,False,False,False,0
+627,home_coach_Ivica Vastic,False,False,False,False,False,False,0
+628,home_coach_Huub Stevens,False,False,False,False,False,False,0
+629,home_coach_Herbert Gager,False,False,False,False,False,False,0
+630,home_coach_Helmut Kraft,False,False,False,False,False,False,0
+631,home_coach_Helgi Kolvidsson,False,False,False,False,False,False,0
+632,home_coach_Heinz Fuchsbichler,False,False,False,False,False,False,0
+633,home_coach_Heimo Pfeifenberger,False,False,False,False,False,False,0
+634,home_coach_Heiko Vogel,False,False,False,False,False,False,0
+635,home_coach_Harald Suchard,False,False,False,False,False,False,0
+636,home_coach_Hans Kogler,False,False,False,False,False,False,0
+637,home_coach_Günther Neukirchner,False,False,False,False,False,False,0
+638,home_coach_Günther Gorenzel-Simonitsch,False,False,False,False,False,False,0
+639,home_coach_Günter Kreissl,False,False,False,False,False,False,0
+640,home_coach_Goran Djuricin,False,False,False,False,False,False,0
+641,home_coach_Gernot Plassnegger,False,False,False,False,False,False,0
+642,home_coach_Gerhard Struber,False,False,False,False,False,False,0
+643,home_coach_Gerhard Schweitzer,False,False,False,False,False,False,0
+644,home_coach_Gerhard Fellner,False,False,False,False,False,False,0
+645,home_coach_Gerald Scheiblehner,False,False,False,False,False,False,0
+646,home_coach_Gerald Perzy,False,False,False,False,False,False,0
+647,home_coach_Gerald Baumgartner,False,False,False,False,False,False,0
+648,home_coach_Georg Zellhofer,False,False,False,False,False,False,0
+649,home_coach_Fuad Djulic,False,False,False,False,False,False,0
+650,home_coach_Frenkie Schinkels,False,False,False,False,False,False,0
+651,home_coach_Franz Schiemer,False,False,False,False,False,False,0
+652,home_coach_Franz Ponweiser,False,False,False,False,False,False,0
+653,home_coach_Franz Polanz,False,False,False,False,False,False,0
+654,home_coach_Franz Maresch,False,False,False,False,False,False,0
+655,home_coach_Franz Lederer,False,False,False,False,False,False,0
+656,home_coach_Franco Foda,False,False,False,False,False,False,0
+657,home_coach_Florian Schwarz,False,False,False,False,False,False,0
+658,home_coach_Florian Klausner,False,False,False,False,False,False,0
+659,home_coach_Ferdinand Feldhofer,False,False,False,False,False,False,0
+660,home_coach_Ernő Doma,False,False,False,False,False,False,0
+661,home_coach_Ernst Baumeister,False,False,False,False,False,False,0
+662,home_coach_Edmund Stöhr,False,False,False,False,False,False,0
+663,home_coach_Edgar Spath,False,False,False,False,False,False,0
+664,home_coach_Dominik Glawogger,False,False,False,False,False,False,0
+665,home_coach_Dietmar Kühbauer,False,False,False,False,False,False,0
+666,home_coach_David Wimleitner,False,False,False,False,False,False,0
+667,home_coach_David Preiß,False,False,False,False,False,False,0
+668,home_coach_Darko Milanic,False,False,False,False,False,False,0
+669,home_coach_Daniel Stendel,False,False,False,False,False,False,0
+670,home_coach_Daniel Madlener,False,False,False,False,False,False,0
+671,home_coach_Daniel Ernemann,False,False,False,False,False,False,0
+672,home_coach_Damir Canadi,False,False,False,False,False,False,0
+673,home_coach_Damir Buric,False,False,False,False,False,False,0
+674,home_coach_Christoph Westerthaler,False,False,False,False,False,False,0
+675,home_coach_Christoph Glatzer,False,False,False,False,False,False,0
+676,home_coach_Christian Benbennek,False,False,False,False,False,False,0
+677,home_coach_Carsten Jancker,False,False,False,False,False,False,0
+678,home_coach_Bruno Friesenbichler,False,False,False,False,False,False,0
+679,home_coach_Bo Svensson,False,False,False,False,False,False,0
+680,home_coach_Armand Benneker,False,False,False,False,False,False,0
+681,home_coach_Andreas Wieland,False,False,False,False,False,False,0
+682,home_coach_Andreas Schrott,False,False,False,False,False,False,0
+683,home_coach_Andreas Ogris,False,False,False,False,False,False,0
+684,home_coach_Andreas Moriggl,False,False,False,False,False,False,0
+685,home_coach_Andreas Lipa,False,False,False,False,False,False,0
+686,home_coach_Andreas Heraf,False,False,False,False,False,False,0
+687,home_coach_Alfred Tatar,False,False,False,False,False,False,0
+688,home_coach_Alfred Olzinger,False,False,False,False,False,False,0
+689,home_coach_Alexander Schmidt,False,False,False,False,False,False,0
+690,home_coach_Alex Pastoor,False,False,False,False,False,False,0
+691,home_coach_Ales Ceh,False,False,False,False,False,False,0
+692,home_coach_Adnan Kaltak,False,False,False,False,False,False,0
+693,home_coach_Adi Hütter,False,False,False,False,False,False,0
+694,home_coach_Adam Kensy,False,False,False,False,False,False,0
+695,home_coach_Abdulah Ibrakovic,False,False,False,False,False,False,0
+696,homeTotalGoalsShoot_90,False,False,False,False,False,False,0
+697,homeTotalGoalsShoot_70,False,False,False,False,False,False,0
+698,homeTotalGoalsReceived_90,False,False,False,False,False,False,0
+699,homeTotalGoalsReceived_70,False,False,False,False,False,False,0
+700,homeTotalGoalsReceived_50,False,False,False,False,False,False,0
+701,homeTotalGoalsReceived_30,False,False,False,False,False,False,0
+702,homeTotalGoalsReceived_10,False,False,False,False,False,False,0
+703,homeTotalGoalDiff_90,False,False,False,False,False,False,0
+704,homeTeamGoalsShootAway_90,False,False,False,False,False,False,0
+705,homeTeamGoalsShootAway_70,False,False,False,False,False,False,0
+706,homeTeamGoalsShootAway_50,False,False,False,False,False,False,0
+707,homeTeamGoalsShootAtHome_90,False,False,False,False,False,False,0
+708,homeTeamGoalsShootAtHome_70,False,False,False,False,False,False,0
+709,homeTeamGoalsShootAtHome_50,False,False,False,False,False,False,0
+710,homeTeamGoalsReceivedAway_70,False,False,False,False,False,False,0
+711,homeTeamGoalsReceivedAway_50,False,False,False,False,False,False,0
+712,homeTeamGoalsReceivedAway_30,False,False,False,False,False,False,0
+713,homeTeamGoalsReceivedAtHome_90,False,False,False,False,False,False,0
+714,homeTeamGoalsReceivedAtHome_70,False,False,False,False,False,False,0
+715,homeTeamGoalsReceivedAtHome_50,False,False,False,False,False,False,0
+716,homeTeamGoalsReceivedAtHome_30,False,False,False,False,False,False,0
+717,homeTeamGoalsReceivedAtHome_10,False,False,False,False,False,False,0
+718,homeTeamGoalsDiffAway_50,False,False,False,False,False,False,0
+719,homeTeamGoalsDiffAway_30,False,False,False,False,False,False,0
+720,homeTeamGoalsDiffAway_10,False,False,False,False,False,False,0
+721,homeTeamGoalsDiffAway,False,False,False,False,False,False,0
+722,hoamAvgPoints_90,False,False,False,False,False,False,0
+723,guest_team_name_Zenit St. Petersburg,False,False,False,False,False,False,0
+724,guest_team_name_Zalgiris Vilnius,False,False,False,False,False,False,0
+725,guest_team_name_ZSKA Sofia,False,False,False,False,False,False,0
+726,guest_team_name_Young Violets Austria Wien,False,False,False,False,False,False,0
+727,guest_team_name_Wolfsberger AC II,False,False,False,False,False,False,0
+728,guest_team_name_Wolfsberger AC,False,False,False,False,False,False,0
+729,guest_team_name_Wiener Sportklub,False,False,False,False,False,False,0
+730,guest_team_name_WSG Tirol,False,False,False,False,False,False,0
+731,guest_team_name_WAC - St. Andrä,False,False,False,False,False,False,0
+732,guest_team_name_Vitória Guimarães SC,False,False,False,False,False,False,0
+733,guest_team_name_Villacher SV,False,False,False,False,False,False,0
+734,guest_team_name_Videoton FC,False,False,False,False,False,False,0
+735,guest_team_name_Union Vöcklamarkt,False,False,False,False,False,False,0
+736,guest_team_name_Union St. Florian,False,False,False,False,False,False,0
+737,guest_team_name_Union Innsbruck,False,False,False,False,False,False,0
+738,guest_team_name_USK Anif/Red Bull Juniors,False,False,False,False,False,False,0
+739,guest_team_name_USK Anif,False,False,False,False,False,False,0
+740,guest_team_name_USC Eugendorf,False,False,False,False,False,False,0
+741,guest_team_name_US Sassuolo,False,False,False,False,False,False,0
+742,guest_team_name_Torpedo-BelAZ Zhodino,False,False,False,False,False,False,0
+743,guest_team_name_TSV St. Johann,False,False,False,False,False,False,0
+744,guest_team_name_TSV Neumarkt,False,False,False,False,False,False,0
+745,guest_team_name_TSV Hartberg,False,False,False,False,False,False,0
+746,guest_team_name_TSG 1899 Hoffenheim,False,False,False,False,False,False,0
+747,guest_team_name_Suduva Marijampole,False,False,False,False,False,False,0
+748,guest_team_name_Standard Lüttich,False,False,False,False,False,False,0
+749,guest_team_name_Spartak Trnava,False,False,False,False,False,False,0
+750,guest_team_name_Spartak Myjava,False,False,False,False,False,False,0
+751,guest_team_name_Spartak Moskau,False,False,False,False,False,False,0
+752,guest_team_name_Slovan Bratislava,False,False,False,False,False,False,0
+753,guest_team_name_Shkendija Tetovo,False,False,False,False,False,False,0
+754,guest_team_name_Shakhtjor Soligorsk,False,False,False,False,False,False,0
+755,guest_team_name_Shakhtar Donetsk,False,False,False,False,False,False,0
+756,guest_team_name_SVG Reichenau,False,False,False,False,False,False,0
+757,guest_team_name_SV Wimpassing,False,False,False,False,False,False,0
+758,guest_team_name_SV Werder Bremen,False,False,False,False,False,False,0
+759,guest_team_name_SV Wals-Grünau,False,False,False,False,False,False,0
+760,guest_team_name_SV Wallern,False,False,False,False,False,False,0
+761,guest_team_name_SV Stegersbach,False,False,False,False,False,False,0
+762,guest_team_name_SV St. Margarethen,False,False,False,False,False,False,0
+763,guest_team_name_SV Spittal,False,False,False,False,False,False,0
+764,guest_team_name_SV Seekirchen,False,False,False,False,False,False,0
+765,guest_team_name_SV Schwechat,False,False,False,False,False,False,0
+766,guest_team_name_SV Ried,False,False,False,False,False,False,0
+767,guest_team_name_SV Oberwart,False,False,False,False,False,False,0
+768,guest_team_name_SV Neuberg,False,False,False,False,False,False,0
+769,guest_team_name_SV Mattersburg II,False,False,False,False,False,False,0
+770,guest_team_name_SV Mattersburg,False,False,False,False,False,False,0
+771,guest_team_name_SV Lafnitz,False,False,False,False,False,False,0
+772,guest_team_name_SV Kapfenberg II,False,False,False,False,False,False,0
+773,guest_team_name_SV Kapfenberg,False,False,False,False,False,False,0
+774,guest_team_name_SV Horn,False,False,False,False,False,False,0
+775,guest_team_name_SV Hall,False,False,False,False,False,False,0
+776,guest_team_name_SV Grödig,False,False,False,False,False,False,0
+777,guest_team_name_SV Gleinstätten,False,False,False,False,False,False,0
+778,guest_team_name_SV Feldkirchen,False,False,False,False,False,False,0
+779,guest_team_name_SV Austria Salzburg,False,False,False,False,False,False,0
+780,guest_team_name_SV Allerheiligen,False,False,False,False,False,False,0
+781,guest_team_name_SSC Neapel,False,False,False,False,False,False,0
+782,guest_team_name_SKU Amstetten,False,False,False,False,False,False,0
+783,guest_team_name_SKN St. Pölten,False,False,False,False,False,False,0
+784,guest_team_name_SK Vorwärts Steyr,False,False,False,False,False,False,0
+785,guest_team_name_SK Sturm Graz II,False,False,False,False,False,False,0
+786,guest_team_name_SK Rapid Wien II,False,False,False,False,False,False,0
+787,guest_team_name_SK Rapid Wien,False,False,False,False,False,False,0
+788,guest_team_name_SK Austria Kärnten,False,False,False,False,False,False,0
+789,guest_team_name_SK Austria Klagenfurt,False,False,False,False,False,False,0
+790,guest_team_name_SC/ESV Parndorf,False,False,False,False,False,False,0
+791,guest_team_name_SC Wiener Viktoria,False,False,False,False,False,False,0
+792,guest_team_name_SC Wiener Neustadt,False,False,False,False,False,False,0
+793,guest_team_name_SC Weiz,False,False,False,False,False,False,0
+794,guest_team_name_SC Schwaz,False,False,False,False,False,False,0
+795,guest_team_name_SC Ritzing,False,False,False,False,False,False,0
+796,guest_team_name_SC Rheindorf Altach Juniors,False,False,False,False,False,False,0
+797,guest_team_name_SC Rheindorf Altach,False,False,False,False,False,False,0
+798,guest_team_name_SC Retz,False,False,False,False,False,False,0
+799,guest_team_name_SC Neusiedl/See,False,False,False,False,False,False,0
+800,guest_team_name_SC Kalsdorf,False,False,False,False,False,False,0
+801,guest_team_name_SC Bregenz,False,False,False,False,False,False,0
+802,guest_team_name_SAK Klagenfurt,False,False,False,False,False,False,0
+803,guest_team_name_Rudar Pljevlja,False,False,False,False,False,False,0
+804,guest_team_name_Ruch Chorzow,False,False,False,False,False,False,0
+805,guest_team_name_Rubin Kazan,False,False,False,False,False,False,0
+806,guest_team_name_Roter Stern Belgrad,False,False,False,False,False,False,0
+807,guest_team_name_Rosenborg BK,False,False,False,False,False,False,0
+808,guest_team_name_Red Bull Juniors Salzburg,False,False,False,False,False,False,0
+809,guest_team_name_Real Sociedad San Sebastián,False,False,False,False,False,False,0
+810,guest_team_name_RasenBallsport Leipzig,False,False,False,False,False,False,0
+811,guest_team_name_RSC Anderlecht,False,False,False,False,False,False,0
+812,guest_team_name_Qarabağ Ağdam,False,False,False,False,False,False,0
+813,guest_team_name_Panathinaikos Athen,False,False,False,False,False,False,0
+814,guest_team_name_PSV Eindhoven,False,False,False,False,False,False,0
+815,guest_team_name_PFC Beroe Stara Zagora,False,False,False,False,False,False,0
+816,guest_team_name_PAOK Thessaloniki,False,False,False,False,False,False,0
+817,guest_team_name_Omonia Nikosia,False,False,False,False,False,False,0
+818,guest_team_name_Olympique Marseille,False,False,False,False,False,False,0
+819,guest_team_name_OGC Nizza,False,False,False,False,False,False,0
+820,guest_team_name_OFK Petrovac,False,False,False,False,False,False,0
+821,guest_team_name_NK Siroki Brijeg,False,False,False,False,False,False,0
+822,guest_team_name_NK Osijek,False,False,False,False,False,False,0
+823,guest_team_name_NK Olimpija Ljubljana,False,False,False,False,False,False,0
+824,guest_team_name_Mladost Podgorica,False,False,False,False,False,False,0
+825,guest_team_name_Metalurh Donetsk,False,False,False,False,False,False,0
+826,guest_team_name_Metalist Kharkiv,False,False,False,False,False,False,0
+827,guest_team_name_Manchester City,False,False,False,False,False,False,0
+828,guest_team_name_Malmö FF,False,False,False,False,False,False,0
+829,guest_team_name_Maccabi Tel Aviv,False,False,False,False,False,False,0
+830,guest_team_name_Maccabi Haifa,False,False,False,False,False,False,0
+831,guest_team_name_Lokomotiv Moskau,False,False,False,False,False,False,0
+832,guest_team_name_Lillestrøm SK,False,False,False,False,False,False,0
+833,guest_team_name_Liepajas Metalurgs,False,False,False,False,False,False,0
+834,guest_team_name_Levski Sofia,False,False,False,False,False,False,0
+835,guest_team_name_Legia Warschau,False,False,False,False,False,False,0
+836,guest_team_name_Lech Posen,False,False,False,False,False,False,0
+837,guest_team_name_Lazio Rom,False,False,False,False,False,False,0
+838,guest_team_name_LASK Linz II,False,False,False,False,False,False,0
+839,guest_team_name_LASK,False,False,False,False,False,False,0
+840,guest_team_name_Konyaspor,False,False,False,False,False,False,0
+841,guest_team_name_Kapaz PFK,False,False,False,False,False,False,0
+842,guest_team_name_KRC Genk,False,False,False,False,False,False,0
+843,guest_team_name_KF Vllaznia,False,False,False,False,False,False,0
+844,guest_team_name_KAA Gent,False,False,False,False,False,False,0
+845,guest_team_name_Juventus Turin,False,False,False,False,False,False,0
+846,guest_team_name_Inter Mailand,False,False,False,False,False,False,0
+847,guest_team_name_IF Elfsborg Boras,False,False,False,False,False,False,0
+848,guest_team_name_Hibernians FC,False,False,False,False,False,False,0
+849,guest_team_name_Hapoel Tel Aviv,False,False,False,False,False,False,0
+850,guest_team_name_Hamburger SV,False,False,False,False,False,False,0
+851,guest_team_name_HNK Rijeka,False,False,False,False,False,False,0
+852,guest_team_name_HJK Helsinki,False,False,False,False,False,False,0
+853,guest_team_name_HB Tórshavn,False,False,False,False,False,False,0
+854,guest_team_name_Grazer AK 1902,False,False,False,False,False,False,0
+855,guest_team_name_Grazer AK,False,False,False,False,False,False,0
+856,guest_team_name_Glasgow Rangers,False,False,False,False,False,False,0
+857,guest_team_name_Gaz Metan Medias,False,False,False,False,False,False,0
+858,guest_team_name_Galatasaray Istanbul,False,False,False,False,False,False,0
+859,guest_team_name_GNK Dinamo Zagreb,False,False,False,False,False,False,0
+860,guest_team_name_Floridsdorfer AC,False,False,False,False,False,False,0
+861,guest_team_name_First Vienna FC,False,False,False,False,False,False,0
+862,guest_team_name_Fenerbahce Istanbul,False,False,False,False,False,False,0
+863,guest_team_name_FK Vojvodina Novi Sad,False,False,False,False,False,False,0
+864,guest_team_name_FK Senica,False,False,False,False,False,False,0
+865,guest_team_name_FK Partizani,False,False,False,False,False,False,0
+866,guest_team_name_FK Liepaja,False,False,False,False,False,False,0
+867,guest_team_name_FK Kukësi,False,False,False,False,False,False,0
+868,guest_team_name_FK Krasnodar,False,False,False,False,False,False,0
+869,guest_team_name_FK Haugesund,False,False,False,False,False,False,0
+870,guest_team_name_FK Cukaricki,False,False,False,False,False,False,0
+871,guest_team_name_FK Austria Wien Amateure,False,False,False,False,False,False,0
+872,guest_team_name_FH Hafnarfjördur,False,False,False,False,False,False,0
+873,guest_team_name_FCSB,False,False,False,False,False,False,0
+874,guest_team_name_FC Zimbru Chisinau,False,False,False,False,False,False,0
+875,guest_team_name_FC Zestafoni,False,False,False,False,False,False,0
+876,guest_team_name_FC Wels,False,False,False,False,False,False,0
+877,guest_team_name_FC Waidhofen/Ybbs,False,False,False,False,False,False,0
+878,guest_team_name_FC Wacker Innsbruck II,False,False,False,False,False,False,0
+879,guest_team_name_FC Wacker Innsbruck,False,False,False,False,False,False,0
+880,guest_team_name_FC Villarreal,False,False,False,False,False,False,0
+881,guest_team_name_FC Viktoria Pilsen,False,False,False,False,False,False,0
+882,guest_team_name_FC Viitorul,False,False,False,False,False,False,0
+883,guest_team_name_FC Valencia,False,False,False,False,False,False,0
+884,guest_team_name_FC Thun,False,False,False,False,False,False,0
+885,guest_team_name_FC Slovan Liberec,False,False,False,False,False,False,0
+886,guest_team_name_FC Schalke 04,False,False,False,False,False,False,0
+887,guest_team_name_FC Porto,False,False,False,False,False,False,0
+888,guest_team_name_FC Paris Saint-Germain,False,False,False,False,False,False,0
+889,guest_team_name_FC Lustenau,False,False,False,False,False,False,0
+890,guest_team_name_FC Liefering,False,False,False,False,False,False,0
+891,guest_team_name_FC Kufstein,False,False,False,False,False,False,0
+892,guest_team_name_FC Juniors OÖ,False,False,False,False,False,False,0
+893,guest_team_name_FC Höchst,False,False,False,False,False,False,0
+894,guest_team_name_FC Hard,False,False,False,False,False,False,0
+895,guest_team_name_FC Gratkorn,False,False,False,False,False,False,0
+896,guest_team_name_FC Fulham,False,False,False,False,False,False,0
+897,guest_team_name_FC Dornbirn,False,False,False,False,False,False,0
+898,guest_team_name_FC Dila Gori,False,False,False,False,False,False,0
+899,guest_team_name_FC Brügge,False,False,False,False,False,False,0
+900,guest_team_name_FC Blau Weiß Linz,False,False,False,False,False,False,0
+901,guest_team_name_FC Basel 1893,False,False,False,False,False,False,0
+902,guest_team_name_FC Barnsley,False,False,False,False,False,False,0
+903,guest_team_name_FC Anif/Red Bull Juniors,False,False,False,False,False,False,0
+904,guest_team_name_FC Admira Wacker Mödling II,False,False,False,False,False,False,0
+905,guest_team_name_FC Admira Wacker Mödling,False,False,False,False,False,False,0
+906,guest_team_name_FAC Team für Wien,False,False,False,False,False,False,0
+907,guest_team_name_F91 Düdelingen,False,False,False,False,False,False,0
+908,guest_team_name_Esbjerg fB,False,False,False,False,False,False,0
+909,guest_team_name_Dynamo Kiew,False,False,False,False,False,False,0
+910,guest_team_name_Dynamo Brest,False,False,False,False,False,False,0
+911,guest_team_name_Donawitzer SV Leoben,False,False,False,False,False,False,0
+912,guest_team_name_Dinamo Tiflis,False,False,False,False,False,False,0
+913,guest_team_name_Dinamo Minsk,False,False,False,False,False,False,0
+914,guest_team_name_Dinamo Bukarest,False,False,False,False,False,False,0
+915,guest_team_name_Chikhura Sachkhere,False,False,False,False,False,False,0
+916,guest_team_name_Celtic Glasgow,False,False,False,False,False,False,0
+917,guest_team_name_Carlisle United,False,False,False,False,False,False,0
+918,guest_team_name_CD Nacional,False,False,False,False,False,False,0
+919,guest_team_name_Bröndby IF,False,False,False,False,False,False,0
+920,guest_team_name_Breidablik Kópavogur,False,False,False,False,False,False,0
+921,guest_team_name_Botev Plovdiv,False,False,False,False,False,False,0
+922,guest_team_name_Borussia Dortmund,False,False,False,False,False,False,0
+923,guest_team_name_Bohemian Football Club Dublin,False,False,False,False,False,False,0
+924,guest_team_name_Besiktas Istanbul,False,False,False,False,False,False,0
+925,guest_team_name_Belenenses SAD,False,False,False,False,False,False,0
+926,guest_team_name_Bayer 04 Leverkusen,False,False,False,False,False,False,0
+927,guest_team_name_BATE Borisov,False,False,False,False,False,False,0
+928,guest_team_name_Atlético Madrid,False,False,False,False,False,False,0
+929,guest_team_name_Athletic Bilbao,False,False,False,False,False,False,0
+930,guest_team_name_Astra Giurgiu,False,False,False,False,False,False,0
+931,guest_team_name_Aston Villa,False,False,False,False,False,False,0
+932,guest_team_name_Asteras Tripolis,False,False,False,False,False,False,0
+933,guest_team_name_Aris Thessaloniki,False,False,False,False,False,False,0
+934,guest_team_name_Apollon Limassol,False,False,False,False,False,False,0
+935,guest_team_name_Ajax Amsterdam,False,False,False,False,False,False,0
+936,guest_team_name_AZ Alkmaar,False,False,False,False,False,False,0
+937,guest_team_name_ATSV Ober-Grafendorf,False,False,False,False,False,False,0
+938,guest_team_name_ASK Voitsberg,False,False,False,False,False,False,0
+939,guest_team_name_ASK Baumgarten,False,False,False,False,False,False,0
+940,guest_team_name_AS Trencin,False,False,False,False,False,False,0
+941,guest_team_name_AS Rom,False,False,False,False,False,False,0
+942,guest_team_name_APOP Kinyras Pegias,False,False,False,False,False,False,0
+943,guest_team_name_AEL Limassol,False,False,False,False,False,False,0
+944,guest_team_name_AEK Larnaka,False,False,False,False,False,False,0
+945,guest_team_name_AEK Athen,False,False,False,False,False,False,0
+946,guest_team_name_AC Sparta Prag,False,False,False,False,False,False,0
+947,guest_team_name_AC Mailand,False,False,False,False,False,False,0
+948,guest_team_name_1. Simmeringer SC,False,False,False,False,False,False,0
+949,guest_team_name_1. SC Sollenau,False,False,False,False,False,False,0
+950,guest_team_break_higher15,False,False,False,False,False,False,0
+951,guest_team_break_9,False,False,False,False,False,False,0
+952,guest_team_break_8,False,False,False,False,False,False,0
+953,guest_team_break_7,False,False,False,False,False,False,0
+954,guest_team_break_6,False,False,False,False,False,False,0
+955,guest_team_break_5,False,False,False,False,False,False,0
+956,guest_team_break_4,False,False,False,False,False,False,0
+957,guest_team_break_3,False,False,False,False,False,False,0
+958,guest_team_break_2,False,False,False,False,False,False,0
+959,guest_team_break_15,False,False,False,False,False,False,0
+960,guest_team_break_14,False,False,False,False,False,False,0
+961,guest_team_break_13,False,False,False,False,False,False,0
+962,guest_team_break_12,False,False,False,False,False,False,0
+963,guest_team_break_11,False,False,False,False,False,False,0
+964,guest_team_break_10,False,False,False,False,False,False,0
+965,guest_team_break_0,False,False,False,False,False,False,0
+966,guest_coach_Zoran Barisic,False,False,False,False,False,False,0
+967,guest_coach_Wolfgang Luisser,False,False,False,False,False,False,0
+968,guest_coach_Wilhelm Wahlmüller,False,False,False,False,False,False,0
+969,guest_coach_Wilhelm Schuldes,False,False,False,False,False,False,0
+970,guest_coach_Werner Ofner,False,False,False,False,False,False,0
+971,guest_coach_Werner Gregoritsch,False,False,False,False,False,False,0
+972,guest_coach_Werner Grabherr,False,False,False,False,False,False,0
+973,guest_coach_Walter Schachner,False,False,False,False,False,False,0
+974,guest_coach_Walter Kogler,False,False,False,False,False,False,0
+975,guest_coach_Walter Knaller,False,False,False,False,False,False,0
+976,guest_coach_Walter Hörmann,False,False,False,False,False,False,0
+977,guest_coach_Valérien Ismaël,False,False,False,False,False,False,0
+978,guest_coach_Toni Polster,False,False,False,False,False,False,0
+979,guest_coach_Thorsten Fink,False,False,False,False,False,False,0
+980,guest_coach_Thomas von Heesen,False,False,False,False,False,False,0
+981,guest_coach_Thomas Weissenböck,False,False,False,False,False,False,0
+982,guest_coach_Thomas Silberberger,False,False,False,False,False,False,0
+983,guest_coach_Thomas Letsch,False,False,False,False,False,False,0
+984,guest_coach_Thomas Kristl,False,False,False,False,False,False,0
+985,guest_coach_Thomas Grumser,False,False,False,False,False,False,0
+986,guest_coach_Thomas Flögel,False,False,False,False,False,False,0
+987,guest_coach_Thomas Eidler,False,False,False,False,False,False,0
+988,guest_coach_Stefan Rapp,False,False,False,False,False,False,0
+989,guest_coach_Slobodan Grubor,False,False,False,False,False,False,0
+990,guest_coach_Simon Knöbl,False,False,False,False,False,False,0
+991,guest_coach_Sargon Duran,False,False,False,False,False,False,0
+992,guest_coach_Ronald Brunmayr,False,False,False,False,False,False,0
+993,guest_coach_Roman Mählich,False,False,False,False,False,False,0
+994,guest_coach_Roland Kirchler,False,False,False,False,False,False,0
+995,guest_coach_Roger Schmidt,False,False,False,False,False,False,0
+996,guest_coach_Robert Pflug,False,False,False,False,False,False,0
+997,guest_coach_Robert Micheu,False,False,False,False,False,False,0
+998,guest_coach_Robert Ibertsberger,False,False,False,False,False,False,0
+999,guest_coach_Ricardo Moniz,False,False,False,False,False,False,0
+1000,guest_coach_René Wagner,False,False,False,False,False,False,0
+1001,guest_coach_Reiner Geyer,False,False,False,False,False,False,0
+1002,guest_coach_Ranko Popovic,False,False,False,False,False,False,0
+1003,guest_coach_Rainer Scharinger,False,False,False,False,False,False,0
+1004,guest_coach_Peter Zeitlhofer,False,False,False,False,False,False,0
+1005,guest_coach_Peter Zeidler,False,False,False,False,False,False,0
+1006,guest_coach_Peter Stöger,False,False,False,False,False,False,0
+1007,guest_coach_Peter Schöttel,False,False,False,False,False,False,0
+1008,guest_coach_Peter Pacult,False,False,False,False,False,False,0
+1009,guest_coach_Peter Hyballa,False,False,False,False,False,False,0
+1010,guest_coach_Paul Steiner,False,False,False,False,False,False,0
+1011,guest_coach_Paul Hafner,False,False,False,False,False,False,0
+1012,guest_coach_Paul Gludovatz,False,False,False,False,False,False,0
+1013,guest_coach_Patrick de Wilde,False,False,False,False,False,False,0
+1014,guest_coach_Oliver Oberhammer,False,False,False,False,False,False,0
+1015,guest_coach_Oliver Lederer,False,False,False,False,False,False,0
+1016,guest_coach_Oliver Glasner,False,False,False,False,False,False,0
+1017,guest_coach_Niko Kovac,False,False,False,False,False,False,0
+1018,guest_coach_Nestor El Maestro,False,False,False,False,False,False,0
+1019,guest_coach_Nenad Bjelica,False,False,False,False,False,False,0
+1020,guest_coach_Mladen Posavec,False,False,False,False,False,False,0
+1021,guest_coach_Miroslav Polak,False,False,False,False,False,False,0
+1022,guest_coach_Miron Muslic,False,False,False,False,False,False,0
+1023,guest_coach_Mike Büskens,False,False,False,False,False,False,0
+1024,guest_coach_Michael Streiter,False,False,False,False,False,False,0
+1025,guest_coach_Michael Steiner,False,False,False,False,False,False,0
+1026,guest_coach_Michael Kopf,False,False,False,False,False,False,0
+1027,guest_coach_Michael Horvath,False,False,False,False,False,False,0
+1028,guest_coach_Michael Fuchs †,False,False,False,False,False,False,0
+1029,guest_coach_Michael Baur,False,False,False,False,False,False,0
+1030,guest_coach_Michael Angerschmid,False,False,False,False,False,False,0
+1031,guest_coach_Max Babler,False,False,False,False,False,False,0
+1032,guest_coach_Maurizio Jacobacci,False,False,False,False,False,False,0
+1033,guest_coach_Matthias Hamann,False,False,False,False,False,False,0
+1034,guest_coach_Masanori Hamayoshi,False,False,False,False,False,False,0
+1035,guest_coach_Martin Scherb,False,False,False,False,False,False,0
+1036,guest_coach_Martin Hiden,False,False,False,False,False,False,0
+1037,guest_coach_Markus Schopp,False,False,False,False,False,False,0
+1038,guest_coach_Markus Schmidt,False,False,False,False,False,False,0
+1039,guest_coach_Markus Mader,False,False,False,False,False,False,0
+1040,guest_coach_Markus Karner,False,False,False,False,False,False,0
+1041,guest_coach_Mario Posch,False,False,False,False,False,False,0
+1042,guest_coach_Mario Handl,False,False,False,False,False,False,0
+1043,guest_coach_Marco Rose,False,False,False,False,False,False,0
+1044,guest_coach_Manfred Bender,False,False,False,False,False,False,0
+1045,guest_coach_Lassaad Chabbi,False,False,False,False,False,False,0
+1046,guest_coach_Kurt Jusits,False,False,False,False,False,False,0
+1047,guest_coach_Kurt Garger,False,False,False,False,False,False,0
+1048,guest_coach_Klaus Schmidt,False,False,False,False,False,False,0
+1049,guest_coach_Karl Daxbacher,False,False,False,False,False,False,0
+1050,guest_coach_Jürgen Halper,False,False,False,False,False,False,0
+1051,guest_coach_Jörn Andersen,False,False,False,False,False,False,0
+1052,guest_coach_Joze Prelogar,False,False,False,False,False,False,0
+1053,guest_coach_Johann Kleer,False,False,False,False,False,False,0
+1054,guest_coach_Johann Dihanich,False,False,False,False,False,False,0
+1055,guest_coach_Jochen Fallmann,False,False,False,False,False,False,0
+1056,guest_coach_Jesse Marsch,False,False,False,False,False,False,0
+1057,guest_coach_Janusz Góra,False,False,False,False,False,False,0
+1058,guest_coach_Ivo Istuk,False,False,False,False,False,False,0
+1059,guest_coach_Ivica Vastic,False,False,False,False,False,False,0
+1060,guest_coach_Huub Stevens,False,False,False,False,False,False,0
+1061,guest_coach_Herbert Gager,False,False,False,False,False,False,0
+1062,guest_coach_Helmut Kraft,False,False,False,False,False,False,0
+1063,guest_coach_Heinz Fuchsbichler,False,False,False,False,False,False,0
+1064,guest_coach_Heimo Pfeifenberger,False,False,False,False,False,False,0
+1065,guest_coach_Heiko Vogel,False,False,False,False,False,False,0
+1066,guest_coach_Harald Suchard,False,False,False,False,False,False,0
+1067,guest_coach_Hans Kogler,False,False,False,False,False,False,0
+1068,guest_coach_Günther Neukirchner,False,False,False,False,False,False,0
+1069,guest_coach_Günther Kerber,False,False,False,False,False,False,0
+1070,guest_coach_Günther Gorenzel-Simonitsch,False,False,False,False,False,False,0
+1071,guest_coach_Günter Kreissl,False,False,False,False,False,False,0
+1072,guest_coach_Goran Djuricin,False,False,False,False,False,False,0
+1073,guest_coach_Gernot Plassnegger,False,False,False,False,False,False,0
+1074,guest_coach_Gerhard Struber,False,False,False,False,False,False,0
+1075,guest_coach_Gerhard Schweitzer,False,False,False,False,False,False,0
+1076,guest_coach_Gerhard Fellner,False,False,False,False,False,False,0
+1077,guest_coach_Gerald Scheiblehner,False,False,False,False,False,False,0
+1078,guest_coach_Gerald Perzy,False,False,False,False,False,False,0
+1079,guest_coach_Gerald Baumgartner,False,False,False,False,False,False,0
+1080,guest_coach_Georg Zellhofer,False,False,False,False,False,False,0
+1081,guest_coach_Fuad Djulic,False,False,False,False,False,False,0
+1082,guest_coach_Frenkie Schinkels,False,False,False,False,False,False,0
+1083,guest_coach_Franz Schiemer,False,False,False,False,False,False,0
+1084,guest_coach_Franz Ponweiser,False,False,False,False,False,False,0
+1085,guest_coach_Franz Polanz,False,False,False,False,False,False,0
+1086,guest_coach_Franz Maresch,False,False,False,False,False,False,0
+1087,guest_coach_Franz Lederer,False,False,False,False,False,False,0
+1088,guest_coach_Franco Foda,False,False,False,False,False,False,0
+1089,guest_coach_Florian Schwarz,False,False,False,False,False,False,0
+1090,guest_coach_Florian Klausner,False,False,False,False,False,False,0
+1091,guest_coach_Ferdinand Feldhofer,False,False,False,False,False,False,0
+1092,guest_coach_Erwin Wawra,False,False,False,False,False,False,0
+1093,guest_coach_Ernő Doma,False,False,False,False,False,False,0
+1094,guest_coach_Ernst Baumeister,False,False,False,False,False,False,0
+1095,guest_coach_Edmund Stöhr,False,False,False,False,False,False,0
+1096,guest_coach_Dominik Glawogger,False,False,False,False,False,False,0
+1097,guest_coach_Dietmar Kühbauer,False,False,False,False,False,False,0
+1098,guest_coach_David Wimleitner,False,False,False,False,False,False,0
+1099,guest_coach_David Preiß,False,False,False,False,False,False,0
+1100,guest_coach_Darko Milanic,False,False,False,False,False,False,0
+1101,guest_coach_Daniel Stendel,False,False,False,False,False,False,0
+1102,guest_coach_Daniel Madlener,False,False,False,False,False,False,0
+1103,guest_coach_Daniel Ernemann,False,False,False,False,False,False,0
+1104,guest_coach_Damir Canadi,False,False,False,False,False,False,0
+1105,guest_coach_Damir Buric,False,False,False,False,False,False,0
+1106,guest_coach_Christoph Westerthaler,False,False,False,False,False,False,0
+1107,guest_coach_Christoph Glatzer,False,False,False,False,False,False,0
+1108,guest_coach_Christian Ilzer,False,False,False,False,False,False,0
+1109,guest_coach_Christian Benbennek,False,False,False,False,False,False,0
+1110,guest_coach_Carsten Jancker,False,False,False,False,False,False,0
+1111,guest_coach_Bruno Friesenbichler,False,False,False,False,False,False,0
+1112,guest_coach_Bo Svensson,False,False,False,False,False,False,0
+1113,guest_coach_Armand Benneker,False,False,False,False,False,False,0
+1114,guest_coach_Andreas Wieland,False,False,False,False,False,False,0
+1115,guest_coach_Andreas Ogris,False,False,False,False,False,False,0
+1116,guest_coach_Andreas Moriggl,False,False,False,False,False,False,0
+1117,guest_coach_Andreas Lipa,False,False,False,False,False,False,0
+1118,guest_coach_Andreas Heraf,False,False,False,False,False,False,0
+1119,guest_coach_Alfred Tatar,False,False,False,False,False,False,0
+1120,guest_coach_Alfred Schreuder,False,False,False,False,False,False,0
+1121,guest_coach_Alfred Olzinger,False,False,False,False,False,False,0
+1122,guest_coach_Alexander Schmidt,False,False,False,False,False,False,0
+1123,guest_coach_Alex Pastoor,False,False,False,False,False,False,0
+1124,guest_coach_Ales Ceh,False,False,False,False,False,False,0
+1125,guest_coach_Adnan Kaltak,False,False,False,False,False,False,0
+1126,guest_coach_Adam Kensy,False,False,False,False,False,False,0
+1127,guest_coach_Abdulah Ibrakovic,False,False,False,False,False,False,0
+1128,guest_coach_?,False,False,False,False,False,False,0
+1129,guestTotalGoalsShoot_90,False,False,False,False,False,False,0
+1130,guestTotalGoalsShoot_70,False,False,False,False,False,False,0
+1131,guestTotalGoalsReceived_70,False,False,False,False,False,False,0
+1132,guestTotalGoalsReceived_50,False,False,False,False,False,False,0
+1133,guestTotalGoalsReceived_30,False,False,False,False,False,False,0
+1134,guestTotalGoalDiff_50,False,False,False,False,False,False,0
+1135,guestTotalGoalDiff_30,False,False,False,False,False,False,0
+1136,guestTotalGoalDiff_10,False,False,False,False,False,False,0
+1137,guestTotalGoalDiff,False,False,False,False,False,False,0
+1138,guestTeamGoalsShootAway_90,False,False,False,False,False,False,0
+1139,guestTeamGoalsShootAtHome_70,False,False,False,False,False,False,0
+1140,guestTeamGoalsDiffAway_50,False,False,False,False,False,False,0
+1141,guestTeamGoalsDiffAway_30,False,False,False,False,False,False,0
+1142,guestTeamGoalsDiffAtHome_70,False,False,False,False,False,False,0
+1143,guestAvgpoints_70,False,False,False,False,False,False,0
+1144,guestAvgpoints_10,False,False,False,False,False,False,0
+1145,guestAvgpoints,False,False,False,False,False,False,0
+1146,gtb_>15,False,False,False,False,False,False,0
+1147,gtb_9,False,False,False,False,False,False,0
+1148,gtb_8,False,False,False,False,False,False,0
+1149,gtb_7,False,False,False,False,False,False,0
+1150,gtb_6,False,False,False,False,False,False,0
+1151,gtb_5,False,False,False,False,False,False,0
+1152,gtb_4,False,False,False,False,False,False,0
+1153,gtb_3,False,False,False,False,False,False,0
+1154,gtb_2,False,False,False,False,False,False,0
+1155,gtb_15,False,False,False,False,False,False,0
+1156,gtb_14,False,False,False,False,False,False,0
+1157,gtb_13,False,False,False,False,False,False,0
+1158,gtb_12,False,False,False,False,False,False,0
+1159,gtb_11,False,False,False,False,False,False,0
+1160,gtb_10,False,False,False,False,False,False,0
+1161,gtb_0,False,False,False,False,False,False,0
+1162,gameday_Zwischenrunde - Rückspiele,False,False,False,False,False,False,0
+1163,gameday_Zwischenrunde - Hinspiele,False,False,False,False,False,False,0
+1164,gameday_Viertelfinale - Rückspiele,False,False,False,False,False,False,0
+1165,gameday_Viertelfinale - Hinspiele,False,False,False,False,False,False,0
+1166,gameday_Viertelfinale,False,False,False,False,False,False,0
+1167,gameday_Relegation Rückspiele,False,False,False,False,False,False,0
+1168,gameday_Relegation Hinspiele,False,False,False,False,False,False,0
+1169,gameday_Qualifikationsrunde - Rückspiele,False,False,False,False,False,False,0
+1170,gameday_Qualifikationsrunde - Hinspiele,False,False,False,False,False,False,0
+1171,gameday_Halbfinale - Rückspiele,False,False,False,False,False,False,0
+1172,gameday_Halbfinale - Hinspiele,False,False,False,False,False,False,0
+1173,gameday_Halbfinale,False,False,False,False,False,False,0
+1174,gameday_Gruppe K,False,False,False,False,False,False,0
+1175,gameday_Gruppe I,False,False,False,False,False,False,0
+1176,gameday_Gruppe G,False,False,False,False,False,False,0
+1177,gameday_Gruppe F,False,False,False,False,False,False,0
+1178,gameday_Gruppe E,False,False,False,False,False,False,0
+1179,gameday_Gruppe D,False,False,False,False,False,False,0
+1180,gameday_Gruppe C,False,False,False,False,False,False,0
+1181,gameday_Gruppe B,False,False,False,False,False,False,0
+1182,gameday_Gruppe A,False,False,False,False,False,False,0
+1183,gameday_Finale - Rückspiel,False,False,False,False,False,False,0
+1184,gameday_Finale - Hinspiel,False,False,False,False,False,False,0
+1185,gameday_Finale,False,False,False,False,False,False,0
+1186,gameday_Achtelfinale - Rückspiele,False,False,False,False,False,False,0
+1187,gameday_Achtelfinale - Hinspiele,False,False,False,False,False,False,0
+1188,gameday_Achtelfinale,False,False,False,False,False,False,0
+1189,gameday_9,False,False,False,False,False,False,0
+1190,gameday_8,False,False,False,False,False,False,0
+1191,gameday_7,False,False,False,False,False,False,0
+1192,gameday_6,False,False,False,False,False,False,0
+1193,gameday_5,False,False,False,False,False,False,0
+1194,gameday_4.Runde Rückspiele,False,False,False,False,False,False,0
+1195,gameday_4.Runde Hinspiele,False,False,False,False,False,False,0
+1196,gameday_4,False,False,False,False,False,False,0
+1197,gameday_36,False,False,False,False,False,False,0
+1198,gameday_35,False,False,False,False,False,False,0
+1199,gameday_34,False,False,False,False,False,False,0
+1200,gameday_33,False,False,False,False,False,False,0
+1201,gameday_32,False,False,False,False,False,False,0
+1202,gameday_31,False,False,False,False,False,False,0
+1203,gameday_3.Runde Hinspiele,False,False,False,False,False,False,0
+1204,gameday_3,False,False,False,False,False,False,0
+1205,gameday_28,False,False,False,False,False,False,0
+1206,gameday_27,False,False,False,False,False,False,0
+1207,gameday_26,False,False,False,False,False,False,0
+1208,gameday_25,False,False,False,False,False,False,0
+1209,gameday_24,False,False,False,False,False,False,0
+1210,gameday_23,False,False,False,False,False,False,0
+1211,gameday_22,False,False,False,False,False,False,0
+1212,gameday_21,False,False,False,False,False,False,0
+1213,gameday_20,False,False,False,False,False,False,0
+1214,gameday_2.Runde Rückspiele,False,False,False,False,False,False,0
+1215,gameday_2.Runde Hinspiele,False,False,False,False,False,False,0
+1216,gameday_2.Runde,False,False,False,False,False,False,0
+1217,gameday_2,False,False,False,False,False,False,0
+1218,gameday_19,False,False,False,False,False,False,0
+1219,gameday_18,False,False,False,False,False,False,0
+1220,gameday_17,False,False,False,False,False,False,0
+1221,gameday_16,False,False,False,False,False,False,0
+1222,gameday_15,False,False,False,False,False,False,0
+1223,gameday_14,False,False,False,False,False,False,0
+1224,gameday_13,False,False,False,False,False,False,0
+1225,gameday_12,False,False,False,False,False,False,0
+1226,gameday_1.Runde Rückspiele,False,False,False,False,False,False,0
+1227,gameday_1.Runde Hinspiele,False,False,False,False,False,False,0
+1228,gameday_1,False,False,False,False,False,False,0
+1229,day_9,False,False,False,False,False,False,0
+1230,day_8,False,False,False,False,False,False,0
+1231,day_7,False,False,False,False,False,False,0
+1232,day_6,False,False,False,False,False,False,0
+1233,day_5,False,False,False,False,False,False,0
+1234,day_4,False,False,False,False,False,False,0
+1235,day_31,False,False,False,False,False,False,0
+1236,day_30,False,False,False,False,False,False,0
+1237,day_3,False,False,False,False,False,False,0
+1238,day_29,False,False,False,False,False,False,0
+1239,day_28,False,False,False,False,False,False,0
+1240,day_27,False,False,False,False,False,False,0
+1241,day_26,False,False,False,False,False,False,0
+1242,day_25,False,False,False,False,False,False,0
+1243,day_24,False,False,False,False,False,False,0
+1244,day_23,False,False,False,False,False,False,0
+1245,day_22,False,False,False,False,False,False,0
+1246,day_21,False,False,False,False,False,False,0
+1247,day_20,False,False,False,False,False,False,0
+1248,day_2,False,False,False,False,False,False,0
+1249,day_19,False,False,False,False,False,False,0
+1250,day_18,False,False,False,False,False,False,0
+1251,day_17,False,False,False,False,False,False,0
+1252,day_16,False,False,False,False,False,False,0
+1253,day_15,False,False,False,False,False,False,0
+1254,day_14,False,False,False,False,False,False,0
+1255,day_13,False,False,False,False,False,False,0
+1256,day_12,False,False,False,False,False,False,0
+1257,day_11,False,False,False,False,False,False,0
+1258,day_10,False,False,False,False,False,False,0
+1259,day_1,False,False,False,False,False,False,0
+1260,competition_UEFA Champions League-Qualifikation,False,False,False,False,False,False,0
+1261,competition_UEFA Champions League,False,False,False,False,False,False,0
+1262,competition_Relegation Erste Liga,False,False,False,False,False,False,0
+1263,competition_Relegation Bundesliga,False,False,False,False,False,False,0
+1264,competition_Regionalliga West,False,False,False,False,False,False,0
+1265,competition_Regionalliga Ost,False,False,False,False,False,False,0
+1266,competition_Europa League Qualifikation,False,False,False,False,False,False,0
+1267,competition_Europa League,False,False,False,False,False,False,0
+1268,competition_EFL Cup,False,False,False,False,False,False,0
+1269,competition_DFB-Pokal,False,False,False,False,False,False,0
+1270,competition_Championship,False,False,False,False,False,False,0
+1271,competition_Bundesliga Europa League-Play-off,False,False,False,False,False,False,0
+1272,competition_Bundesliga,False,False,False,False,False,False,0
